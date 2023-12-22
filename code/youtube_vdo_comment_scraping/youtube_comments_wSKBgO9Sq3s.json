@@ -1,0 +1,489 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "agc2qiOB93UOOL_YPfHD9Iq57R4",
+		"id": "UgxS_OlPkFxTijyg6CN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "0kfhpew9Yxn36Km6Iyoq8OJMxqY",
+				"id": "UgxS_OlPkFxTijyg6CN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-07-31T08:45:32Z",
+					"updatedAt": "2022-07-31T08:45:32Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "jcK9ZX1J5i8guGbwC6DJ0sk1irY",
+		"id": "UgzaOb0NI3mv0Br6Wsd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "wjajB-g7Y5ldEj1PsnzbXZjETLA",
+				"id": "UgzaOb0NI3mv0Br6Wsd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "ชอบมากเลยกับคำพูดที่ว่า เราทุกคนคืองานศิลปะ ไม่แบ่งแยกว่า คนนี้ปกติ คนนี้ไม่ปกติ อืมกินใจดีคำพูดนี้",
+					"textOriginal": "ชอบมากเลยกับคำพูดที่ว่า เราทุกคนคืองานศิลปะ ไม่แบ่งแยกว่า คนนี้ปกติ คนนี้ไม่ปกติ อืมกินใจดีคำพูดนี้",
+					"authorDisplayName": "@kn_156",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/4ScsdOo-_oeLAe4d9cN3qgHlUGKmUZ0wbY72zhBwrkk3jC_yGUXXQNaHEji3b2McmP-e546DKG8=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCNXPfOXgvbHa6Cu6bAAtbRQ",
+					"authorChannelId": {
+						"value": "UCNXPfOXgvbHa6Cu6bAAtbRQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 9,
+					"publishedAt": "2022-08-19T01:26:18Z",
+					"updatedAt": "2022-08-19T01:26:18Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "wO_oiaVJsEk4HSbk9P-AzZ6yOu8",
+					"id": "UgzaOb0NI3mv0Br6Wsd4AaABAg.9etYlUrU0f69etxx6ObXH8",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "💙💙💙",
+						"textOriginal": "💙💙💙",
+						"parentId": "UgzaOb0NI3mv0Br6Wsd4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-08-19T05:15:04Z",
+						"updatedAt": "2022-08-19T05:15:04Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "VJzTMSsZaKKDLwjY4xRbuatjFXQ",
+		"id": "Ugx5-kJprePJfIvlUHd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "qkGV6mzssSER6tzz2jon_CLyqCA",
+				"id": "Ugx5-kJprePJfIvlUHd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "อีก10กว่าวัน จีน่าสาวลูกครึ่งเกาหลีใต้สาวประเภทสองต้องไปทำบุญ ตกสถานการณ์แย่มากแล้ว  จิตวิทยาสื่อบ่งบอกสื่อสารว่ามีอะไรอยู่รอบตัวจีน่า <br>กลัว ผี วิญญาณ สัมภเวสี อสูรกาย กลัวมากเป็นลมบ้าหมู10ครั้งเป็นที ลมชัก7เป็นทีจนคลั่งพูดคนเดียวจนจะอยู่หรือจะเสียชีวิตทำใจไม่ได้",
+					"textOriginal": "อีก10กว่าวัน จีน่าสาวลูกครึ่งเกาหลีใต้สาวประเภทสองต้องไปทำบุญ ตกสถานการณ์แย่มากแล้ว  จิตวิทยาสื่อบ่งบอกสื่อสารว่ามีอะไรอยู่รอบตัวจีน่า \nกลัว ผี วิญญาณ สัมภเวสี อสูรกาย กลัวมากเป็นลมบ้าหมู10ครั้งเป็นที ลมชัก7เป็นทีจนคลั่งพูดคนเดียวจนจะอยู่หรือจะเสียชีวิตทำใจไม่ได้",
+					"authorDisplayName": "@user-mr2bi9on2x",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/sLJDf7qG68dD9l4oykgXZjett4BwubcKtXUE0pvI2s6IeWRoLeo7XnGJg7m7SGzQSuSmBW1dsgE=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCJH7dchclUVogLZ5QOgFY0w",
+					"authorChannelId": {
+						"value": "UCJH7dchclUVogLZ5QOgFY0w"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-04T13:59:22Z",
+					"updatedAt": "2022-08-04T13:59:22Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "9drtU4gIS9UjbhnQFYjDbliJUDE",
+					"id": "Ugx5-kJprePJfIvlUHd4AaABAg.9eJH11xG6F79eNUiemRsc4",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "Ugx5-kJprePJfIvlUHd4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-06T05:16:01Z",
+						"updatedAt": "2022-08-06T05:16:01Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "cOQWuGXA-h40pXc1Wek7pkG1Q4k",
+		"id": "Ugz-R8FnnPLaWzzoqGt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "5RbXhIkaGQC01Y01-b45P31u0wU",
+				"id": "Ugz-R8FnnPLaWzzoqGt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "อันยองฮะเซโยสวัสดีค่ะหนูชื่อจีน่า ชื่อนางสาวจิรัชญา สายเจริญสุข จีน่าเป็นผู้หญิงสาวประเภทสอง ค่ะ จีน่าเป็นสาวลูกครึ่งเกาหลีใต้ จีน่าเป็นสมาธิสั้นจีน่าเป็นมาครบกำหนด17ปี ตอนนี้จีน่าเป็นผู้หญิงสาวประเภทสอง จีน่าสาวลูกครึ่งเกาหลีใต้ จีน่าได้เป็นผู้หญิงเต็มตัวเตรียมพร้อม  ตอนนี้จีน่า ได้ป่วยโรคซึมเศร้า ขั้นระดับวิกฤตสีแดง ตอนนี้ดีขึ้นแต่โรคซึมเศร้า ยังมีอาการผิดปกติความคุ้มคลั่ง อาการคุ้มคลั่งระดับวิกฤต โดนนินทาเรื่องใส่ร้าย อยู่ระดับเหลือง <br>จีน่าสาวลูกครึ่งเกาหลีใต้สาวประเภทสอง ไปตรงไหนคนชมว่าสวย",
+					"textOriginal": "อันยองฮะเซโยสวัสดีค่ะหนูชื่อจีน่า ชื่อนางสาวจิรัชญา สายเจริญสุข จีน่าเป็นผู้หญิงสาวประเภทสอง ค่ะ จีน่าเป็นสาวลูกครึ่งเกาหลีใต้ จีน่าเป็นสมาธิสั้นจีน่าเป็นมาครบกำหนด17ปี ตอนนี้จีน่าเป็นผู้หญิงสาวประเภทสอง จีน่าสาวลูกครึ่งเกาหลีใต้ จีน่าได้เป็นผู้หญิงเต็มตัวเตรียมพร้อม  ตอนนี้จีน่า ได้ป่วยโรคซึมเศร้า ขั้นระดับวิกฤตสีแดง ตอนนี้ดีขึ้นแต่โรคซึมเศร้า ยังมีอาการผิดปกติความคุ้มคลั่ง อาการคุ้มคลั่งระดับวิกฤต โดนนินทาเรื่องใส่ร้าย อยู่ระดับเหลือง \nจีน่าสาวลูกครึ่งเกาหลีใต้สาวประเภทสอง ไปตรงไหนคนชมว่าสวย",
+					"authorDisplayName": "@user-mr2bi9on2x",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/sLJDf7qG68dD9l4oykgXZjett4BwubcKtXUE0pvI2s6IeWRoLeo7XnGJg7m7SGzQSuSmBW1dsgE=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCJH7dchclUVogLZ5QOgFY0w",
+					"authorChannelId": {
+						"value": "UCJH7dchclUVogLZ5QOgFY0w"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-04T13:55:07Z",
+					"updatedAt": "2022-08-04T13:55:07Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "m2OXqpVnr0BZxNhW9eDj1AiFawg",
+					"id": "Ugz-R8FnnPLaWzzoqGt4AaABAg.9eJGXw7RgxT9eLLpEfOExG",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "แอดเป็นกำลังใจให้นะคะ หากมีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้น้า🤍",
+						"textOriginal": "แอดเป็นกำลังใจให้นะคะ หากมีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้น้า🤍",
+						"parentId": "Ugz-R8FnnPLaWzzoqGt4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-05T09:19:48Z",
+						"updatedAt": "2022-08-05T09:19:48Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "82qE90BvpRKRuicUDmh_5ytN73M",
+		"id": "UgztqSU05kHdl5xFQnV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ZQsSXbiJ0UUOHxhf0hJEITFuDoQ",
+				"id": "UgztqSU05kHdl5xFQnV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": ".รูปร่างเหมาะสมกับความสูง เพื่อ สุขภาพที่ดี",
+					"textOriginal": ".รูปร่างเหมาะสมกับความสูง เพื่อ สุขภาพที่ดี",
+					"authorDisplayName": "@user-hl9jm7vn1f",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR82ub0EMzn2IVF7xyn9r5bYA06omLwWD7_nKYe0qqXAg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCeH5rONwHWCQaVYkaSOEdbw",
+					"authorChannelId": {
+						"value": "UCeH5rONwHWCQaVYkaSOEdbw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-08-01T05:44:16Z",
+					"updatedAt": "2022-08-01T05:44:16Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "u9qvMmD90i8Khs6BABnT8tY7DzE",
+		"id": "Ugz4l1Jcqxf_Xwrw_754AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "3QwcS5phftZ4fvf8QGaUAVD_nGA",
+				"id": "Ugz4l1Jcqxf_Xwrw_754AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "เพิ่งโดนมนุษย์ป้าไม่รู้จัก ย้ำว่าไม่รู้จัก เดินมาทักบอกว่าลดน้ำหนักบ้างนะเนี่ย เราคือแบบอิหยังวะ",
+					"textOriginal": "เพิ่งโดนมนุษย์ป้าไม่รู้จัก ย้ำว่าไม่รู้จัก เดินมาทักบอกว่าลดน้ำหนักบ้างนะเนี่ย เราคือแบบอิหยังวะ",
+					"authorDisplayName": "@gorgluayth8288",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/R1z_wcy5t7WG-8CRfwKM3Yytkdsz420SI3wrp9TdnK5A7qSGx5domUs2tT4EvOgviQZ0vnkwXw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCv7irdcz4HkDUCdx9adqBEQ",
+					"authorChannelId": {
+						"value": "UCv7irdcz4HkDUCdx9adqBEQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2022-07-31T15:07:01Z",
+					"updatedAt": "2022-07-31T15:07:01Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "z69l2VgXcoVFQMjciJGTyW3vk0E",
+					"id": "Ugz4l1Jcqxf_Xwrw_754AaABAg.9e95a-z8fid9eAPag5P4xh",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "มองอีกมุมเขาอาจจะเป็นห่วงเราก็ได้ค่ะ ฮ่าฮ่า😂😂😂",
+						"textOriginal": "มองอีกมุมเขาอาจจะเป็นห่วงเราก็ได้ค่ะ ฮ่าฮ่า😂😂😂",
+						"parentId": "Ugz4l1Jcqxf_Xwrw_754AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-08-01T03:21:07Z",
+						"updatedAt": "2022-08-01T03:21:07Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "PVoVbtC633-LNJgGsZiBQ7pC8tA",
+					"id": "Ugz4l1Jcqxf_Xwrw_754AaABAg.9e95a-z8fid9fukVIXTqne",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "ไม่อยากเจอคน ไม่อยากแต่งตัวเลย  ใส่เสื้อตัวใหญ่ ยังโดนแซวเลย",
+						"textOriginal": "ไม่อยากเจอคน ไม่อยากแต่งตัวเลย  ใส่เสื้อตัวใหญ่ ยังโดนแซวเลย",
+						"parentId": "Ugz4l1Jcqxf_Xwrw_754AaABAg",
+						"authorDisplayName": "@nongnoo88",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTEelhXJnKFtY64BhemvxsS7fdm_2b6NwcmiSDjsA=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCZtfJ6ALIzP4waHQddiEjjg",
+						"authorChannelId": {
+							"value": "UCZtfJ6ALIzP4waHQddiEjjg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 2,
+						"publishedAt": "2022-09-13T09:08:11Z",
+						"updatedAt": "2022-09-13T09:08:11Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "1z6JIIGkGtxfj_43HDzRZbqdpvg",
+		"id": "UgwHHSDl7CL2IMIhrb14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "RrdxsasnVw0nBM0LwK4dTDPJ9qQ",
+				"id": "UgwHHSDl7CL2IMIhrb14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "ไปละเมิดเขาไงคะ...เขาอยากใช้ชีวิตสบายๆ...ทุกคนมีความเป็นตัวเองแต่ถ้าคนดังอาจโดนซึ่งเขาไม่สมควรโดนเพราะเวลาเขาแสดงเขาจะสวยหล่อพอชีวิตปกติก็จะถูกวิพากษ์...เพราะไม่เหมือนตัวจริงแต่ที่สุดแล้วอะไรที่สบายใจไม่เดือดร้อนคนอื่นทำไปเลยคะ...มีคะบางคนมองคนแล้วหาตำหนิ..บางคนน่ารักเขามองที่ใจคุยแล้วสนุก",
+					"textOriginal": "ไปละเมิดเขาไงคะ...เขาอยากใช้ชีวิตสบายๆ...ทุกคนมีความเป็นตัวเองแต่ถ้าคนดังอาจโดนซึ่งเขาไม่สมควรโดนเพราะเวลาเขาแสดงเขาจะสวยหล่อพอชีวิตปกติก็จะถูกวิพากษ์...เพราะไม่เหมือนตัวจริงแต่ที่สุดแล้วอะไรที่สบายใจไม่เดือดร้อนคนอื่นทำไปเลยคะ...มีคะบางคนมองคนแล้วหาตำหนิ..บางคนน่ารักเขามองที่ใจคุยแล้วสนุก",
+					"authorDisplayName": "@user-el7ec2no3d",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/QWfSiP4uvzVjz3cbq9A3AXTdzIiFo36h4rLyKOLfxAKO136pnCZTh3GoQLpXBDLpXiNfYdqi=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCF_Ifozx2RejLWnsuiDcmOw",
+					"authorChannelId": {
+						"value": "UCF_Ifozx2RejLWnsuiDcmOw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-07-31T12:33:07Z",
+					"updatedAt": "2022-07-31T12:38:23Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "kXRd7bz-YfhXkZ2qcbQUcsHrg4E",
+		"id": "UgxcHy1f5kRILeWt2Kl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "xBeYqFiVcStdBkAm3dvlzFOZTtg",
+				"id": "UgxcHy1f5kRILeWt2Kl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "มีใครที่มีความรู้สึกที่ดีใจแล้วก็เสียใจในเวลาเดียวกันบ้างมั้ยครับ ผมเคยเป็นในบางครั้งที่ได้อะไรบางอย่าง มันเกิดขึ้นจากอะไรก็ไม่รู้ แค่รู้สึกเฉยๆ",
+					"textOriginal": "มีใครที่มีความรู้สึกที่ดีใจแล้วก็เสียใจในเวลาเดียวกันบ้างมั้ยครับ ผมเคยเป็นในบางครั้งที่ได้อะไรบางอย่าง มันเกิดขึ้นจากอะไรก็ไม่รู้ แค่รู้สึกเฉยๆ",
+					"authorDisplayName": "@phumiphatdechaudom4116",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/0u5JUA7_oeDP52yEjlqgoDRBuqIEwRqPYcbyPpg7euowWrD76De9FKzpqI_ttRT2hEHzEFct=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCaonDz3aW5SS7VxSfU4nXqQ",
+					"authorChannelId": {
+						"value": "UCaonDz3aW5SS7VxSfU4nXqQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-07-31T12:09:09Z",
+					"updatedAt": "2022-07-31T12:09:09Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "dG_t7O2ax1rwZoexE8mb84tB1n8",
+					"id": "UgxcHy1f5kRILeWt2Kl4AaABAg.9e8mEEwqhuX9e8pBjKnBnO",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "มันคืออาการที่รู้ว่าความสุขว์นี้มีความจำกัดแล้วมันเกิดอาการแบบนี้",
+						"textOriginal": "มันคืออาการที่รู้ว่าความสุขว์นี้มีความจำกัดแล้วมันเกิดอาการแบบนี้",
+						"parentId": "UgxcHy1f5kRILeWt2Kl4AaABAg",
+						"authorDisplayName": "@Wa12362",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/zXU1WZJ1gQ9FhBdQJQNiIbXhXEu9fOqvpx1caYajoLHcCY6vbGrdpEsXzZ51F4eOhmg-OiDZcQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCvaX9ExwHsvgBIFRtfKHtlw",
+						"authorChannelId": {
+							"value": "UCvaX9ExwHsvgBIFRtfKHtlw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-07-31T12:35:01Z",
+						"updatedAt": "2022-07-31T12:35:42Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "TTrhkmHtDBrDawBL7DJHwlvk2hI",
+					"id": "UgxcHy1f5kRILeWt2Kl4AaABAg.9e8mEEwqhuX9eAW4sjflfw",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "wSKBgO9Sq3s",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgxcHy1f5kRILeWt2Kl4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-08-01T04:17:48Z",
+						"updatedAt": "2022-08-01T04:17:48Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "iGt_PhQmF08Lx3bXq8q6bcq6FuA",
+		"id": "Ugw2FjotGLH-MNe8k8x4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "wSKBgO9Sq3s",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "LmPFeoVgukrudYSpKBy61oe-YBg",
+				"id": "Ugw2FjotGLH-MNe8k8x4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "wSKBgO9Sq3s",
+					"textDisplay": "^^เราจะชอบ.จินตนาการ.<br>ถึงตอนเด็ก.ทำไม.เราไม่เคย<br>สนใจเลยว่า.ใครจะมองว่า.<br>สวย.หรือไม่สวย.คือ ความรู้<br>สึกนั้น.มันดี.ต่อใจ.มากๆ.^^<br>พยาม.โฟกัส.ที่ความรู้สึก..<br>ถามตัวเอง.ว่า.วันนี้เรามีความ<br>สุขไหม.เลิกสนใจ.รูปร่างหน้า<br>ตา.^^เพราะความรู้สึก.เราออก<br>แบบได้.แต่รูปร่าง.หรือ.หน้าตา<br>มันแก้ไขไม่ได้..^^(นอกจากศัลยกรรม).ซึ่งในความเป็นจริง<br>เราไม่ต้องทำขนาดนั้น.เพราะไม่ใช่.ดารา.เนอะๆๆๆ.เราก็แค่<br>คนธรรมดา.ที่อาศัย.บนโลกใบนี้.ไม่ได้บอกว่า.ไม่ควรดูแล.ตัวเองนะ.^^แต่บางที.ก็อย่า.พยาม.<br>จน.เป็นทุกข์.ทำเท่าที่ไหว.5555<br>*ซึ่งสิ่งที่เรา.ทำจริงๆ.แค่อาบน้ำ<br>สระผม.แต่ไม่ทาครีมกันแดดเลย.^^เคยพยาม.ทาครีม.แต่รู้<br>สึก.ฝืนๆ.^^ก็เลยเลิกไป.^^แต่<br>ก็มีความสุข.ในแบบนี้.^^🤣😅",
+					"textOriginal": "^^เราจะชอบ.จินตนาการ.\nถึงตอนเด็ก.ทำไม.เราไม่เคย\nสนใจเลยว่า.ใครจะมองว่า.\nสวย.หรือไม่สวย.คือ ความรู้\nสึกนั้น.มันดี.ต่อใจ.มากๆ.^^\nพยาม.โฟกัส.ที่ความรู้สึก..\nถามตัวเอง.ว่า.วันนี้เรามีความ\nสุขไหม.เลิกสนใจ.รูปร่างหน้า\nตา.^^เพราะความรู้สึก.เราออก\nแบบได้.แต่รูปร่าง.หรือ.หน้าตา\nมันแก้ไขไม่ได้..^^(นอกจากศัลยกรรม).ซึ่งในความเป็นจริง\nเราไม่ต้องทำขนาดนั้น.เพราะไม่ใช่.ดารา.เนอะๆๆๆ.เราก็แค่\nคนธรรมดา.ที่อาศัย.บนโลกใบนี้.ไม่ได้บอกว่า.ไม่ควรดูแล.ตัวเองนะ.^^แต่บางที.ก็อย่า.พยาม.\nจน.เป็นทุกข์.ทำเท่าที่ไหว.5555\n*ซึ่งสิ่งที่เรา.ทำจริงๆ.แค่อาบน้ำ\nสระผม.แต่ไม่ทาครีมกันแดดเลย.^^เคยพยาม.ทาครีม.แต่รู้\nสึก.ฝืนๆ.^^ก็เลยเลิกไป.^^แต่\nก็มีความสุข.ในแบบนี้.^^🤣😅",
+					"authorDisplayName": "@Lala-tq7jh",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSMRqh7ZtxVC6AvgRxb5JocCrf7nW7TUxocMf41TM0XC0lA9M6ATGLfj6513b9N=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjI9vN25v6KtV_MHvpHX16g",
+					"authorChannelId": {
+						"value": "UCjI9vN25v6KtV_MHvpHX16g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 12,
+					"publishedAt": "2022-07-31T09:21:14Z",
+					"updatedAt": "2022-07-31T09:22:24Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

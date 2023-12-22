@@ -1,0 +1,36 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "ace8IFWnAE_DKS_BZLzINtSqGMY",
+		"id": "UgxW641-N1vaX4ZoLUZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "tESnSpnlsXw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "0z6yqpfy5zJdgT0CKkXObR9K8co",
+				"id": "UgxW641-N1vaX4ZoLUZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "tESnSpnlsXw",
+					"textDisplay": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r<br>บนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r\nบนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-01-01T19:12:18Z",
+					"updatedAt": "2022-01-01T19:12:18Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

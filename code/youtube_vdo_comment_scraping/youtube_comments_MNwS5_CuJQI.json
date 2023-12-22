@@ -1,0 +1,70 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "IoLid3ulQYTD-p1mQc34lpp-NzE",
+		"id": "Ugxp6xoWnKHK6Hj9r994AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "MNwS5_CuJQI",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "C_S_-T4yEmgJA3nuq9PRH97JL5U",
+				"id": "Ugxp6xoWnKHK6Hj9r994AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "MNwS5_CuJQI",
+					"textDisplay": "แอปพลิเคชัน ระบายความในใจฟรี  💓\r<br> Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "แอปพลิเคชัน ระบายความในใจฟรี  💓\r\n Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-04T18:04:16Z",
+					"updatedAt": "2021-10-04T18:04:16Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HCB_e6VS2tTk-Q8qJNR5rMYzXHI",
+		"id": "Ugx7B11zFk3n4MJe30d4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "MNwS5_CuJQI",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "wTYXK3i5UbOPlKLgw-E5C-YbciE",
+				"id": "Ugx7B11zFk3n4MJe30d4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "MNwS5_CuJQI",
+					"textDisplay": "ตอนนี้สามารถรับฟัง Alljit Podcast ได้ที่ Spotify แล้ว ❤\r<br><a href=\"https://open.spotify.com/show/6cI6XXv5JzS8iTRgA7KDc2\">https://open.spotify.com/show/6cI6XXv5JzS8iTRgA7KDc2</a>",
+					"textOriginal": "ตอนนี้สามารถรับฟัง Alljit Podcast ได้ที่ Spotify แล้ว ❤\r\nhttps://open.spotify.com/show/6cI6XXv5JzS8iTRgA7KDc2",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-10-05T07:25:43Z",
+					"updatedAt": "2021-10-05T07:25:43Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

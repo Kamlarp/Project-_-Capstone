@@ -1,0 +1,97 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "fkl6SAuyIlAniestzLQtk4YIq3I",
+		"id": "UgzePmsts9fTkzNqSSN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "laOKN7jffwM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "LsKi8-B9Ehh6cqAbthTp6SYy86I",
+				"id": "UgzePmsts9fTkzNqSSN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "laOKN7jffwM",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-02T05:48:35Z",
+					"updatedAt": "2022-08-02T05:48:35Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "IM5xPqbrNa0XR8gGg_EDmF5annk",
+		"id": "UgxI1aXdluXYxX1Ilm14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "laOKN7jffwM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "7I4VIjos3zt-4Rkjco92NqWm_EA",
+				"id": "UgxI1aXdluXYxX1Ilm14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "laOKN7jffwM",
+					"textDisplay": "ขอบคุณมากค่ะ ที่สร้างcontentมีประโยชน์ และให้กำลังใจมาตลอดนะคะ",
+					"textOriginal": "ขอบคุณมากค่ะ ที่สร้างcontentมีประโยชน์ และให้กำลังใจมาตลอดนะคะ",
+					"authorDisplayName": "@boontarigangamwongsuwan6954",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSCV8-RQwfaeLgo32_0v3hHX3hK2qfXPNFZuw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCoIcSMOmgff8dxQFpwl47Eg",
+					"authorChannelId": {
+						"value": "UCoIcSMOmgff8dxQFpwl47Eg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-04T13:38:23Z",
+					"updatedAt": "2022-08-04T13:38:23Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "d4QdIrlp_EoHKD6KZzLctjQveJw",
+					"id": "UgxI1aXdluXYxX1Ilm14AaABAg.9eJEcLZK7BW9eKy1ldqDtH",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "laOKN7jffwM",
+						"textDisplay": "ขอบคุณที่เข้ามารับชม Alljit นะคะ 🤍🤍",
+						"textOriginal": "ขอบคุณที่เข้ามารับชม Alljit นะคะ 🤍🤍",
+						"parentId": "UgxI1aXdluXYxX1Ilm14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-05T05:43:11Z",
+						"updatedAt": "2022-08-05T05:43:11Z"
+					}
+				}
+			]
+		}
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "Vgd0I2AIL1O1h0lwRIn0sCCBWMI",
+		"id": "UgyHdOz91uy9qTeJWoh4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eaAjLFJH8BI",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "z7pxMBHncwgrG-4xJR6YXRRovOU",
+				"id": "UgyHdOz91uy9qTeJWoh4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eaAjLFJH8BI",
+					"textDisplay": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r<br>บนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r\nบนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-11-24T08:40:44Z",
+					"updatedAt": "2021-11-24T08:40:44Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "CC5BYdX9zfioFpBHJeVbjgauO1Q",
+		"id": "UgxkpoWvke4bHkNv4o14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eaAjLFJH8BI",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "WH2LZ2cafQLUg5C7DhZMh6BZE0k",
+				"id": "UgxkpoWvke4bHkNv4o14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eaAjLFJH8BI",
+					"textDisplay": "ผมเคยดูเรื่องนี้ตอนเด็ก และดูแบบไม่ได้คิดอะไรมากเลยไม่รู้เลยครับว่ามันแฝงด้วยอะไรต่างๆมากมาย แต่พอได้มาฟังคลิปนี้ที่ตีความออกมา และบอกในสิ่งที่ผมไม่ได้สังเกต รู้สึกอึ้งและได้แต่พูดว่า &quot;เออจริงด้วย&quot; เยี่ยมไปเลยครับ &quot;ความเศร้าไม่ใช่สิ่งที่แย่เสมอไปซะหน่อย&quot;",
+					"textOriginal": "ผมเคยดูเรื่องนี้ตอนเด็ก และดูแบบไม่ได้คิดอะไรมากเลยไม่รู้เลยครับว่ามันแฝงด้วยอะไรต่างๆมากมาย แต่พอได้มาฟังคลิปนี้ที่ตีความออกมา และบอกในสิ่งที่ผมไม่ได้สังเกต รู้สึกอึ้งและได้แต่พูดว่า \"เออจริงด้วย\" เยี่ยมไปเลยครับ \"ความเศร้าไม่ใช่สิ่งที่แย่เสมอไปซะหน่อย\"",
+					"authorDisplayName": "@nattn.t.m7268",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTJKnFO5MBrwuCCQlXuIaKl1Y9wXgff8klVKYt7n8k=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCgh3bqeLU9F746ZfccQ0jWQ",
+					"authorChannelId": {
+						"value": "UCgh3bqeLU9F746ZfccQ0jWQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-09-19T23:59:21Z",
+					"updatedAt": "2022-09-20T00:03:34Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "cEqWZSxfoZMpxkqbTPexuiVFRIQ",
+					"id": "UgxkpoWvke4bHkNv4o14AaABAg.9gAnFhsN3SE9gBNX-7eCKV",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eaAjLFJH8BI",
+						"textDisplay": "❤❤❤",
+						"textOriginal": "❤❤❤",
+						"parentId": "UgxkpoWvke4bHkNv4o14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-09-20T05:25:01Z",
+						"updatedAt": "2022-09-20T05:25:01Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "5zI1GD3YS4Kt5xs-FZDaaAHByO8",
+		"id": "UgxegsoIYQnBfCJBJj14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eaAjLFJH8BI",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "oezzsgtD2wKX2CrT0OwuvzRxexE",
+				"id": "UgxegsoIYQnBfCJBJj14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eaAjLFJH8BI",
+					"textDisplay": "ขอบคุณครับ",
+					"textOriginal": "ขอบคุณครับ",
+					"authorDisplayName": "@mcgcyxhvjv",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/X1u-je2YNLdjryxNduS6DX1M5UKiB5D4Nqus4I-zghBT1P7XSepWQt5yQa-I9CMLH2LLHAwH=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCUHOplHAPmfzpOgV1i7arRg",
+					"authorChannelId": {
+						"value": "UCUHOplHAPmfzpOgV1i7arRg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-11-24T08:56:48Z",
+					"updatedAt": "2021-11-24T08:56:48Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "jSv4koagtjp34NwPWy904O5n2JI",
+					"id": "UgxegsoIYQnBfCJBJj14AaABAg.9V7HHc6G9739V9qrugiAMH",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eaAjLFJH8BI",
+						"textDisplay": "ยินดีมากๆเลยค่ะ❤",
+						"textOriginal": "ยินดีมากๆเลยค่ะ❤",
+						"parentId": "UgxegsoIYQnBfCJBJj14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-11-25T08:54:57Z",
+						"updatedAt": "2021-11-25T08:54:57Z"
+					}
+				}
+			]
+		}
+	}
+]

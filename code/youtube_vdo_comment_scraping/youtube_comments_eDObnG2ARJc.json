@@ -1,0 +1,714 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "rtPJxTYanxdlZjPSjjhaSMJrULc",
+		"id": "UgyZocx2HrypYkn_l6h4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ypAw0caEj4J9Ybpy-qTUeI95YvM",
+				"id": "UgyZocx2HrypYkn_l6h4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 4,
+					"publishedAt": "2023-01-27T13:59:59Z",
+					"updatedAt": "2023-01-27T13:59:59Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "nik7b85xp-skw8ybWEcYy6S5r7A",
+		"id": "Ugz6NOzJjePtw5EcO1l4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "R0IvVs_H-YDsCL9aELRDQ4aEric",
+				"id": "Ugz6NOzJjePtw5EcO1l4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "จริงค่ะเรายืนผิดที่ เราต้องรักตัวเอง เพราะการร่วมงาน เราต้องเจอคนคิดไม่ดี",
+					"textOriginal": "จริงค่ะเรายืนผิดที่ เราต้องรักตัวเอง เพราะการร่วมงาน เราต้องเจอคนคิดไม่ดี",
+					"authorDisplayName": "@preawruanngoen4979",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ioee_l7AANx4PEV6f3XsVB0v9hbeMsa8ZzGQrIJq4Ip0HpH5K_8jFsIc6D_bQYuAvjj2OsPyPos=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCsG8wRTfKObwqq1uuqHddsg",
+					"authorChannelId": {
+						"value": "UCsG8wRTfKObwqq1uuqHddsg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2023-02-06T09:01:09Z",
+					"updatedAt": "2023-02-06T09:01:09Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "heL6vMAKg2hLWm6nVz7TomMuam0",
+					"id": "Ugz6NOzJjePtw5EcO1l4AaABAg.9lmfkaysfEW9lopop7CNAJ",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "แอดเป็นกำลังใจให้เสมอน้า❤️",
+						"textOriginal": "แอดเป็นกำลังใจให้เสมอน้า❤️",
+						"parentId": "Ugz6NOzJjePtw5EcO1l4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-02-07T05:07:35Z",
+						"updatedAt": "2023-02-07T05:07:35Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "mYfkduMRHC5BWW995onqz3K0IOc",
+		"id": "UgwwXchtB6sBNMsdict4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "_MGHpHRyYYm0UibAVAK70C8-F4I",
+				"id": "UgwwXchtB6sBNMsdict4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "พี่อิ๊ฟพูดเข้าใจง่ายเก่งมากชอบๆ",
+					"textOriginal": "พี่อิ๊ฟพูดเข้าใจง่ายเก่งมากชอบๆ",
+					"authorDisplayName": "@computercomputer-iz1oj",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQBErmfauZG947b0dELfeXZi-ysE1EIJCZoSq6IdLKxsxLyq9MK3XoLZBDAdmkv=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCco-HAKMd9IE2zl5_K5OERg",
+					"authorChannelId": {
+						"value": "UCco-HAKMd9IE2zl5_K5OERg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-28T23:46:50Z",
+					"updatedAt": "2023-01-28T23:46:50Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "k393m6pmUHvAOWa9h4AcdLj8n_E",
+					"id": "UgwwXchtB6sBNMsdict4AaABAg.9lS4x_B-Mhj9lSczUEllfW",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "ขอบคุณมากๆนะคะ💙",
+						"textOriginal": "ขอบคุณมากๆนะคะ💙",
+						"parentId": "UgwwXchtB6sBNMsdict4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-29T04:52:55Z",
+						"updatedAt": "2023-01-29T04:52:55Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "EgYi7Z9IZB6oY8f6-VtiOc0wgUM",
+		"id": "UgyDLD1G2YvZtdll8a94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "I8suQVJQz-e39Iss757nNZ2T1aQ",
+				"id": "UgyDLD1G2YvZtdll8a94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "น้องอิ๊ฟสู้ๆพูดเก่งมาก",
+					"textOriginal": "น้องอิ๊ฟสู้ๆพูดเก่งมาก",
+					"authorDisplayName": "@computercomputer-iz1oj",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQBErmfauZG947b0dELfeXZi-ysE1EIJCZoSq6IdLKxsxLyq9MK3XoLZBDAdmkv=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCco-HAKMd9IE2zl5_K5OERg",
+					"authorChannelId": {
+						"value": "UCco-HAKMd9IE2zl5_K5OERg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-28T04:37:11Z",
+					"updatedAt": "2023-01-28T04:37:11Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "og4wA0k8jWIAEtprDbcgQklhDyo",
+					"id": "UgyDLD1G2YvZtdll8a94AaABAg.9lQ1OH-lqe09lVOABmnFyf",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "ขอบคุณมากๆนะคะ❤️",
+						"textOriginal": "ขอบคุณมากๆนะคะ❤️",
+						"parentId": "UgyDLD1G2YvZtdll8a94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-30T06:32:26Z",
+						"updatedAt": "2023-01-30T06:32:26Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "x72HEjcOhhuM48vI1PR3o4WI8es",
+		"id": "UgwiVmq9j2gUvcbAbzh4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "KSGwKpXxCNX2C21zTG3xbowLa5U",
+				"id": "UgwiVmq9j2gUvcbAbzh4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "ชอบเด็กคนนี้มากพูดเก่งเข้าใจง่าย",
+					"textOriginal": "ชอบเด็กคนนี้มากพูดเก่งเข้าใจง่าย",
+					"authorDisplayName": "@computercomputer-iz1oj",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQBErmfauZG947b0dELfeXZi-ysE1EIJCZoSq6IdLKxsxLyq9MK3XoLZBDAdmkv=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCco-HAKMd9IE2zl5_K5OERg",
+					"authorChannelId": {
+						"value": "UCco-HAKMd9IE2zl5_K5OERg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-28T04:33:44Z",
+					"updatedAt": "2023-01-28T04:33:44Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "eR25VbQLoWppPXShS94a7dR1Kk8",
+					"id": "UgwiVmq9j2gUvcbAbzh4AaABAg.9lQ1-0Y5Qqv9lVOB2huQER",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "❤️❤️",
+						"textOriginal": "❤️❤️",
+						"parentId": "UgwiVmq9j2gUvcbAbzh4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-30T06:32:33Z",
+						"updatedAt": "2023-01-30T06:32:33Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "coydk5JvqTSV8sjF8EC-D3nwo0I",
+		"id": "Ugzq-9WgyzqA-gcSCl54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "tTaugHkkMscVi3CWH8s-DBmw2ug",
+				"id": "Ugzq-9WgyzqA-gcSCl54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "เด็กคนนี้เก่งมากผมเป็นคนประเทศลาว",
+					"textOriginal": "เด็กคนนี้เก่งมากผมเป็นคนประเทศลาว",
+					"authorDisplayName": "@computercomputer-iz1oj",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQBErmfauZG947b0dELfeXZi-ysE1EIJCZoSq6IdLKxsxLyq9MK3XoLZBDAdmkv=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCco-HAKMd9IE2zl5_K5OERg",
+					"authorChannelId": {
+						"value": "UCco-HAKMd9IE2zl5_K5OERg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-28T04:32:00Z",
+					"updatedAt": "2023-01-28T04:32:00Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "6AILaDSFO2yvJ2ukuSkv3lQHf7Y",
+		"id": "UgyzTN6H2dp4pTw8Cxh4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "u3LVXQy_Il9U0ikMXz467H6HQbs",
+				"id": "UgyzTN6H2dp4pTw8Cxh4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "น้องอิ๊ฟพูดเข้าใจดีแล้วก็พูดดีขอให้นางมาเล่านะค่ะ",
+					"textOriginal": "น้องอิ๊ฟพูดเข้าใจดีแล้วก็พูดดีขอให้นางมาเล่านะค่ะ",
+					"authorDisplayName": "@computercomputer-iz1oj",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQBErmfauZG947b0dELfeXZi-ysE1EIJCZoSq6IdLKxsxLyq9MK3XoLZBDAdmkv=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCco-HAKMd9IE2zl5_K5OERg",
+					"authorChannelId": {
+						"value": "UCco-HAKMd9IE2zl5_K5OERg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-28T04:30:01Z",
+					"updatedAt": "2023-01-28T04:30:01Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "gJml2hW4LYsdr3fhuwmcD7LfYIQ",
+		"id": "Ugx2KGBFDyrPK-SPOld4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "lSjGmX-gqaOEyFeTfZyajIu5qfY",
+				"id": "Ugx2KGBFDyrPK-SPOld4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "ฟังเพลินมากครับ",
+					"textOriginal": "ฟังเพลินมากครับ",
+					"authorDisplayName": "@achitaponkongkeaw8317",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT1htpd0fq8phNI0T59zhd-HeSFMs_X9mqhji0Y=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCB_tBA-h1E5hcjSBb4yIA9Q",
+					"authorChannelId": {
+						"value": "UCB_tBA-h1E5hcjSBb4yIA9Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-28T02:53:38Z",
+					"updatedAt": "2023-01-28T02:53:38Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "HnKA_iZ5eH7H4ntSoWmJGiqaa_0",
+					"id": "Ugx2KGBFDyrPK-SPOld4AaABAg.9lPqXrQ7nPl9lVODiJKDqt",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "ขอบคุณมากๆนะคะ❤️",
+						"textOriginal": "ขอบคุณมากๆนะคะ❤️",
+						"parentId": "Ugx2KGBFDyrPK-SPOld4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-30T06:32:55Z",
+						"updatedAt": "2023-01-30T06:32:55Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "sGk3xJXwVHeYVgElMWsvSUTHFcE",
+		"id": "UgzCoTfw3m1BaCvm_3B4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "KSHpVmnHFyiDxxq0oIIM_3Cb9Ck",
+				"id": "UgzCoTfw3m1BaCvm_3B4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "ทำอย่างไรถ้าอยากพูดคุยกับนักจิตวิทยา ผมอยู่พิษณุโลก",
+					"textOriginal": "ทำอย่างไรถ้าอยากพูดคุยกับนักจิตวิทยา ผมอยู่พิษณุโลก",
+					"authorDisplayName": "@saranae888",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/SSm9PE3H1Ya5ocFsJyTxLJJzqDt3k8C3UGtyIVkkshOnyN6nEoOwkOlktmtI-ELtP542CJBH=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UClJoc5zce6jQmn5N3qg9Ahw",
+					"authorChannelId": {
+						"value": "UClJoc5zce6jQmn5N3qg9Ahw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2023-01-27T16:03:18Z",
+					"updatedAt": "2023-01-27T16:03:18Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Sgk1LRUD72pK5bngaE3dqNCR-6A",
+					"id": "UgzCoTfw3m1BaCvm_3B4AaABAg.9lOg6hVk2cn9lScIu2MAP9",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgzCoTfw3m1BaCvm_3B4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-29T04:46:58Z",
+						"updatedAt": "2023-01-29T04:46:58Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "BIplOT5TuxVH3Vw1E2ZhP_ohaZo",
+		"id": "Ugy92sKqXCF3limk1EJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "qmrnq89BIA4GFXTVxOjoHnAlqsI",
+				"id": "Ugy92sKqXCF3limk1EJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "เสื้อคุณอีฟน่ารัก",
+					"textOriginal": "เสื้อคุณอีฟน่ารัก",
+					"authorDisplayName": "@wirat9498",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/4JjO8659ipwPrka5IgCnfKrpKhvDFEoGPCoqQDMsKXj2S4vnqE5jhZlxK7KvgchCyV2K-LVB_w=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCxwk5nOz3OfZBQhHo5tyB7A",
+					"authorChannelId": {
+						"value": "UCxwk5nOz3OfZBQhHo5tyB7A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2023-01-27T14:44:15Z",
+					"updatedAt": "2023-01-27T14:44:15Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "8jZv9G_90TaqgGn83GdGSq-nXL8",
+					"id": "Ugy92sKqXCF3limk1EJ4AaABAg.9lOY3ioG8n19lRCUx5RejB",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "ขอบคุณมากๆนะคะ❤️",
+						"textOriginal": "ขอบคุณมากๆนะคะ❤️",
+						"parentId": "Ugy92sKqXCF3limk1EJ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 2,
+						"publishedAt": "2023-01-28T15:33:27Z",
+						"updatedAt": "2023-01-28T15:33:27Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "yCCiUxel-axo-AJdGoYwAGJ3_Yw",
+		"id": "UgwD3O_tJH5tYGO9Ia54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "t2BHwXMBWCA7DdFl_JbXXoWFwe0",
+				"id": "UgwD3O_tJH5tYGO9Ia54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "มองต่างกัน",
+					"textOriginal": "มองต่างกัน",
+					"authorDisplayName": "@user-qy4ur1wh9l",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSZDZvvOOGPtlC9FbLVpUsbUlifwnCzjl5lmg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCvVgot9ngkhbbkmz7Z8tJUA",
+					"authorChannelId": {
+						"value": "UCvVgot9ngkhbbkmz7Z8tJUA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2023-01-27T14:27:38Z",
+					"updatedAt": "2023-01-27T14:27:38Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Oc7g8fEvtjfev3bXEZY-My-Tnrg",
+					"id": "UgwD3O_tJH5tYGO9Ia54AaABAg.9lOWA4kHjgP9lRCVzNw-EE",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgwD3O_tJH5tYGO9Ia54AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-28T15:33:35Z",
+						"updatedAt": "2023-01-28T15:33:35Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "w6VzvCQ1iM6_1_g-Ezrin6kfDnM",
+		"id": "UgzVIbQzI9RqRjuou354AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "mMUIHH9fDedAmKS4F1NfLa594qc",
+				"id": "UgzVIbQzI9RqRjuou354AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "ชอบคุณเจน น่ารัก",
+					"textOriginal": "ชอบคุณเจน น่ารัก",
+					"authorDisplayName": "@Gingercat09",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR11z6ETeJL1SxtIA4JHy_gDjGpObxP1NBEz_FGtQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCRBK_JxiM2a9ATFrrYA0reA",
+					"authorChannelId": {
+						"value": "UCRBK_JxiM2a9ATFrrYA0reA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2023-01-27T14:22:34Z",
+					"updatedAt": "2023-01-27T14:22:34Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "RJqikHmUaURRN_O8vyj1EZXU7CY",
+					"id": "UgzVIbQzI9RqRjuou354AaABAg.9lOV_xm5Fuv9lRCSpWJi6A",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "ขอบคุณมากๆนะคะ💙",
+						"textOriginal": "ขอบคุณมากๆนะคะ💙",
+						"parentId": "UgzVIbQzI9RqRjuou354AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-28T15:33:09Z",
+						"updatedAt": "2023-01-28T15:33:09Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "q5EdGKA61KXLYM0I0833AODZ8kg",
+		"id": "UgwLMm04DpQBenYujbx4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "eDObnG2ARJc",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "zM-wXhI2nMTvkovbNWVPWxfpf7E",
+				"id": "UgwLMm04DpQBenYujbx4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "eDObnG2ARJc",
+					"textDisplay": "ปกติ topics ที่คุยกัน คัดมาจากไหนครับ หลายหัวข้อตรงกับชีวิต ณ ตอนนี้เลย 😂",
+					"textOriginal": "ปกติ topics ที่คุยกัน คัดมาจากไหนครับ หลายหัวข้อตรงกับชีวิต ณ ตอนนี้เลย 😂",
+					"authorDisplayName": "@user-id4cf4mf4x",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQNqOBtYjCC9YAfZCuJUNdrWG4JT7PU3WpvqA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC1Twd9QZ71tscEqcP5DpG1g",
+					"authorChannelId": {
+						"value": "UC1Twd9QZ71tscEqcP5DpG1g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 11,
+					"publishedAt": "2023-01-27T14:03:13Z",
+					"updatedAt": "2023-01-27T14:03:13Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "ogrP5tNWatc4T7UKW5Ke4jol8bo",
+					"id": "UgwLMm04DpQBenYujbx4AaABAg.9lOTN9Mcbm69lRCRiItCOn",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "eDObnG2ARJc",
+						"textDisplay": "😂😂😂 มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "😂😂😂 มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgwLMm04DpQBenYujbx4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-28T15:33:00Z",
+						"updatedAt": "2023-01-28T15:33:00Z"
+					}
+				}
+			]
+		}
+	}
+]

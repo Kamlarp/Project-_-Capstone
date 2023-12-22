@@ -1,0 +1,199 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HSIzd-3OGw5d81pK8utwF27DXG4",
+		"id": "UgzK_DbN535UIshggbB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "C4BDjipQeEA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "6gVpuGkIm3DPuD3uZ95uw2h8fQI",
+				"id": "UgzK_DbN535UIshggbB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "C4BDjipQeEA",
+					"textDisplay": "โรคซึมเศร้าบั่นทอนการเข้าสังคมสำหรับสังคมเมืองบ้านนอกป่าเขาไม่เท่าไหร่",
+					"textOriginal": "โรคซึมเศร้าบั่นทอนการเข้าสังคมสำหรับสังคมเมืองบ้านนอกป่าเขาไม่เท่าไหร่",
+					"authorDisplayName": "@arunnibuadok6240",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRhBWZD3GSYCpixkOhxdG0hhIEOBkRlz975ajFJoG7dpg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC9rcvkoufngHsR-sqRx-RAA",
+					"authorChannelId": {
+						"value": "UC9rcvkoufngHsR-sqRx-RAA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-01T22:22:33Z",
+					"updatedAt": "2022-08-01T22:22:33Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "00hAHDyLuXfnUaGh9sNGfEG5zFc",
+		"id": "UgwWwtiCCEShPyXOABB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "C4BDjipQeEA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "9aQgkXc59OFhdsjBj5VfJLdfuf0",
+				"id": "UgwWwtiCCEShPyXOABB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "C4BDjipQeEA",
+					"textDisplay": "นักแสดงทุกคนก็เป็นมนุษย์คนหนึ่งควรอนุญาติให้เขาได้อ่อนแอบ้างให้เขาได้เป็นตัวของตัวเขาเองเวลาของเองบ้างไม่ควรก้าวชีวิตเขามากเกินไป",
+					"textOriginal": "นักแสดงทุกคนก็เป็นมนุษย์คนหนึ่งควรอนุญาติให้เขาได้อ่อนแอบ้างให้เขาได้เป็นตัวของตัวเขาเองเวลาของเองบ้างไม่ควรก้าวชีวิตเขามากเกินไป",
+					"authorDisplayName": "@OppoAs-fx7ue",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSDiLDt_WSZPeVv_wp969_1Uj2J2drWmBN9fw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjhaXKFWKDkQCldV8Oh-UkA",
+					"authorChannelId": {
+						"value": "UCjhaXKFWKDkQCldV8Oh-UkA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 4,
+					"publishedAt": "2022-08-01T10:50:34Z",
+					"updatedAt": "2022-08-01T10:50:34Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "coFGc68NCC9F_wQvZUCbDKiZq7Y",
+					"id": "UgwWwtiCCEShPyXOABB4AaABAg.9eBD1_cWZDe9eD3Znjlvvm",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "C4BDjipQeEA",
+						"textDisplay": "❤️❤️",
+						"textOriginal": "❤️❤️",
+						"parentId": "UgwWwtiCCEShPyXOABB4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-08-02T04:06:20Z",
+						"updatedAt": "2022-08-02T04:06:20Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "pH7QhbdvLBkyiDQ9SkThhzsCG4s",
+		"id": "Ugwzo4pA501wTKAWsll4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "C4BDjipQeEA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "cAbymbHNEhq01vPPXc-bJcKpF7Y",
+				"id": "Ugwzo4pA501wTKAWsll4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "C4BDjipQeEA",
+					"textDisplay": "แค่ต้องคอยกังวลว่าคนอื่นจะขอบไม๊ เอาคุณค่าของตัวเองไปไว้กับความรู้สึกคนอื่น แค่นี้สารพัดโรคจิตก็มาแล้ว (core value ของจิตใจมันไปขึ้นกับคนอื่น) ไปไหนก็ต้องระแวงระวัง (hyper vigilance) อาการนี้มาอีก เลิกเป็นดาราก็ยังไม่หาย",
+					"textOriginal": "แค่ต้องคอยกังวลว่าคนอื่นจะขอบไม๊ เอาคุณค่าของตัวเองไปไว้กับความรู้สึกคนอื่น แค่นี้สารพัดโรคจิตก็มาแล้ว (core value ของจิตใจมันไปขึ้นกับคนอื่น) ไปไหนก็ต้องระแวงระวัง (hyper vigilance) อาการนี้มาอีก เลิกเป็นดาราก็ยังไม่หาย",
+					"authorDisplayName": "@anikalee9012",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQojTg3kyAjYtWtL0Ho2tNcRPkLpG1RpHlUUQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCQ_6OEEkxaT6vmEKlKq0ycw",
+					"authorChannelId": {
+						"value": "UCQ_6OEEkxaT6vmEKlKq0ycw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 7,
+					"publishedAt": "2022-08-01T08:12:37Z",
+					"updatedAt": "2022-08-01T08:15:51Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "hz2ZpVG1bA8jS8WlBTamjgz_hgo",
+		"id": "UgxFnMRBBmG-mj2z1id4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "C4BDjipQeEA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "yaXXq_ZhoDlIxkrTZKexWWa1DTc",
+				"id": "UgxFnMRBBmG-mj2z1id4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "C4BDjipQeEA",
+					"textDisplay": "✌️",
+					"textOriginal": "✌️",
+					"authorDisplayName": "@pkg1410",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSJG2Dwy-2CKn1Kw5NEXlUw8FX12c3RoZfbe0dVhOCK27cuN4AZbXtkaS1l6PmD=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCNlbZLia4-PMOF5wonwPCiA",
+					"authorChannelId": {
+						"value": "UCNlbZLia4-PMOF5wonwPCiA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-08-01T05:41:49Z",
+					"updatedAt": "2022-08-01T05:41:49Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "TFLgu6nshJnhp6fdte8XZpC7LEc",
+		"id": "Ugx1ss6phQItDnT7DGp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "C4BDjipQeEA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "p_VaWJnOe4S0xDDYMmu1vNj_YSQ",
+				"id": "Ugx1ss6phQItDnT7DGp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "C4BDjipQeEA",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-01T05:27:37Z",
+					"updatedAt": "2022-08-01T05:27:37Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

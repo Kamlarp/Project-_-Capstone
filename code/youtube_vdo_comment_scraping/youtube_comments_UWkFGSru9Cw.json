@@ -1,0 +1,124 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "tVRBzOQIeq_8Ypvf530OEWRoP8o",
+		"id": "UgyndiKxa_4RsyKvlQp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "UWkFGSru9Cw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "rAbbjxTZs37ocMJXuwoIWPFyYds",
+				"id": "UgyndiKxa_4RsyKvlQp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "UWkFGSru9Cw",
+					"textDisplay": "รักๆเลย",
+					"textOriginal": "รักๆเลย",
+					"authorDisplayName": "@malintira5412",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR9lpt8dKuEdwLubtM-krtentwP4JLR3Nq10fL26Zf-ciz6rYBbCm36pxDTWpZO=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC2p6W_qr5bJ6oqyWhsEFZLg",
+					"authorChannelId": {
+						"value": "UC2p6W_qr5bJ6oqyWhsEFZLg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-06T12:26:45Z",
+					"updatedAt": "2022-08-06T12:26:45Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "65f30-sxfgce5ayp0caCsF5vHvk",
+					"id": "UgyndiKxa_4RsyKvlQp4AaABAg.9eOG0SZVHSK9eSkIQQrt9B",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "UWkFGSru9Cw",
+						"textDisplay": "🧡💙",
+						"textOriginal": "🧡💙",
+						"parentId": "UgyndiKxa_4RsyKvlQp4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-08T06:17:03Z",
+						"updatedAt": "2022-08-08T06:17:03Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "1mSz0KMy9evp70KhY2d1X8ttu08",
+		"id": "Ugwd-yasCNkho1UVOmZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "UWkFGSru9Cw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "A28d-SsYIfSJ7_9kHU1NwrEWHpk",
+				"id": "Ugwd-yasCNkho1UVOmZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "UWkFGSru9Cw",
+					"textDisplay": "ใช่แล้วครับ✨",
+					"textOriginal": "ใช่แล้วครับ✨",
+					"authorDisplayName": "@kongdetluckystar419",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZToqJBLFgWFNM-6HXciVI5UfyGoIQiCIWSBhMrTLQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC_hW6jjddyyGut8Na73w3zQ",
+					"authorChannelId": {
+						"value": "UC_hW6jjddyyGut8Na73w3zQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-02T15:39:06Z",
+					"updatedAt": "2022-08-02T15:39:06Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "O6BJBV5QsCBBejEPmS6Mm7BVIX0",
+					"id": "Ugwd-yasCNkho1UVOmZ4AaABAg.9eEIqj_r_um9eFeSMU9I9D",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "UWkFGSru9Cw",
+						"textDisplay": "❤️❤️",
+						"textOriginal": "❤️❤️",
+						"parentId": "Ugwd-yasCNkho1UVOmZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-08-03T04:15:51Z",
+						"updatedAt": "2022-08-03T04:15:51Z"
+					}
+				}
+			]
+		}
+	}
+]

@@ -1,0 +1,70 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "9RrtxK7LL-_gUDfm22Gs5x9UPsE",
+		"id": "Ugw6LwNOyw4XiNRSQmh4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "LV3l6vufuiU",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ghjqyrtQwImN2HM25DZxduahzYg",
+				"id": "Ugw6LwNOyw4XiNRSQmh4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "LV3l6vufuiU",
+					"textDisplay": "การกอดช่วยได้จริงๆค่ะ เป็นคนมีภาวะซึมเศร้า บางทีการโดนกอด/ได้กอดมันรู้สึกดีกว่าการได้พูดคุยอีกค่ะ แต่ที่บ้านจะแหยงๆเพราะไม่ชอบการกอดกัน เศร้าเลย",
+					"textOriginal": "การกอดช่วยได้จริงๆค่ะ เป็นคนมีภาวะซึมเศร้า บางทีการโดนกอด/ได้กอดมันรู้สึกดีกว่าการได้พูดคุยอีกค่ะ แต่ที่บ้านจะแหยงๆเพราะไม่ชอบการกอดกัน เศร้าเลย",
+					"authorDisplayName": "@TNRAPPOR",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSRK_gXITy1jC582g18g2oJvhiBTzZii1z_NoPyFA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCszGxzLE5N4vQf0Or2Ultew",
+					"authorChannelId": {
+						"value": "UCszGxzLE5N4vQf0Or2Ultew"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-08-17T18:17:44Z",
+					"updatedAt": "2021-08-17T18:17:44Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "dZGYzK2srxObL4d26GeI4PeM-m8",
+		"id": "UgyuLTanOkJlftS6dVt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "LV3l6vufuiU",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "g1X6xXGsXVuyeFZeyDJ636kKryc",
+				"id": "UgyuLTanOkJlftS6dVt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "LV3l6vufuiU",
+					"textDisplay": ".+1",
+					"textOriginal": ".+1",
+					"authorDisplayName": "@user-lh1mt9oo7n",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR0qtFGYVYdky96J9xY3Ouepx6MkWt6RWCoqg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCBAvSKaK0jq_2jvI8DOsP6A",
+					"authorChannelId": {
+						"value": "UCBAvSKaK0jq_2jvI8DOsP6A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-08-16T08:33:39Z",
+					"updatedAt": "2021-08-16T08:33:39Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "4eyxFsUxKmH4uqH1CZ8Hql_k8g4",
+		"id": "UgzQWOeMJZFtretBttJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "j9IdlbAEx90",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "pdpXYlIfCsSPAZZoktY2svikk-M",
+				"id": "UgzQWOeMJZFtretBttJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "j9IdlbAEx90",
+					"textDisplay": "<a href=\"https://www.youtube.com/watch?v=j9IdlbAEx90&amp;t=0m10s\">0:10</a> ความร๊ากกอ่ะ💕คุณหมอรู้ตัวมั๊ย<br>พูดคำนี้ออกมา ทำให้ดูน่ารักและอบอุ่นขึ้น(แถมsexyนิดๆ)น่ะครับ55",
+					"textOriginal": "0:10 ความร๊ากกอ่ะ💕คุณหมอรู้ตัวมั๊ย\nพูดคำนี้ออกมา ทำให้ดูน่ารักและอบอุ่นขึ้น(แถมsexyนิดๆ)น่ะครับ55",
+					"authorDisplayName": "@kongdetluckystar419",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZToqJBLFgWFNM-6HXciVI5UfyGoIQiCIWSBhMrTLQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC_hW6jjddyyGut8Na73w3zQ",
+					"authorChannelId": {
+						"value": "UC_hW6jjddyyGut8Na73w3zQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-07-23T15:11:17Z",
+					"updatedAt": "2022-07-23T15:11:17Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "0ZyC6TL0461oEkiBGRo3sQbWmC0",
+					"id": "UgzQWOeMJZFtretBttJ4AaABAg.9dpViDwNWFG9dtiybwHoeR",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "j9IdlbAEx90",
+						"textDisplay": "❤❤",
+						"textOriginal": "❤❤",
+						"parentId": "UgzQWOeMJZFtretBttJ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-07-25T06:32:49Z",
+						"updatedAt": "2022-07-25T06:32:49Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "OTvDpsMQ6ADV3wgfMwxq0CdGF5M",
+		"id": "UgzX0wJQKocTX_bCJhZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "j9IdlbAEx90",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "2Y8aXtEQabyddU3maNqXTdjYKeY",
+				"id": "UgzX0wJQKocTX_bCJhZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "j9IdlbAEx90",
+					"textDisplay": "งง ผมมาช่องนี้ได้ไง<br>ดูพี่เบ้นส์ the gaijin trips ฮ่าๆ <br>เนื้อคู่ คือ สาวที่ชอบทานเนื้อย่างด้วยกันได้<br>สั้นจังครับคลิปนี้ แต่ก็เป็นเหตุผลหนึ่งนะ ที่ดูเลยทันที",
+					"textOriginal": "งง ผมมาช่องนี้ได้ไง\nดูพี่เบ้นส์ the gaijin trips ฮ่าๆ \nเนื้อคู่ คือ สาวที่ชอบทานเนื้อย่างด้วยกันได้\nสั้นจังครับคลิปนี้ แต่ก็เป็นเหตุผลหนึ่งนะ ที่ดูเลยทันที",
+					"authorDisplayName": "@DevilSacrifice",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT47ihExELJIMMKYjqJguTrv4HjY6vjYg2h4eUM=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCAKtkyYVScBMf4-_Kef6bBg",
+					"authorChannelId": {
+						"value": "UCAKtkyYVScBMf4-_Kef6bBg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-10-29T16:51:21Z",
+					"updatedAt": "2021-10-29T16:52:06Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "07ncnJPQo39xS7xCWXzfs9zJmbk",
+					"id": "UgzX0wJQKocTX_bCJhZ4AaABAg.9U5Av_HIpKT9UBtewsZUo_",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "j9IdlbAEx90",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgzX0wJQKocTX_bCJhZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-11-01T07:26:29Z",
+						"updatedAt": "2021-11-01T07:26:29Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "qQlIiql1H6ss_wiiVJENsFwREGQ",
+		"id": "UgzlgW_k_rC05TH4FkR4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "j9IdlbAEx90",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "o0b7Ljm2QXLnjx54LKe6RwMx87M",
+				"id": "UgzlgW_k_rC05TH4FkR4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "j9IdlbAEx90",
+					"textDisplay": "เนื้อคู่ … ส่วนตัวคิดว่า “คนที่เรารักและรักเรา” นั่นหล่ะค่ะที่เค้าเรียกว่า “เนื้อคู่” <br>เพราะเวลาหมอดูดวงก็ชอบพูดว่า … เนื้อคู่มีหลายภพหลายชาติ อยู่ที่เวลาและความรู้สึก ไปอี๊กกกกกกก 😅",
+					"textOriginal": "เนื้อคู่ … ส่วนตัวคิดว่า “คนที่เรารักและรักเรา” นั่นหล่ะค่ะที่เค้าเรียกว่า “เนื้อคู่” \nเพราะเวลาหมอดูดวงก็ชอบพูดว่า … เนื้อคู่มีหลายภพหลายชาติ อยู่ที่เวลาและความรู้สึก ไปอี๊กกกกกกก 😅",
+					"authorDisplayName": "@imahgasee8302",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSha-zJB8Rh_gm2YDV2iKRtrUUTsrLMja448Gz__Q4=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCqv3-GBcgRLjCyRjuvLUSYQ",
+					"authorChannelId": {
+						"value": "UCqv3-GBcgRLjCyRjuvLUSYQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-07-19T21:29:27Z",
+					"updatedAt": "2021-07-19T21:29:27Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

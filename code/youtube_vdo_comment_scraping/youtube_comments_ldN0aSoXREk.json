@@ -1,0 +1,778 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "IKvsyxJwQSO2Y6AHuZBk4-5-sc8",
+		"id": "Ugwds8H-uNGkOu0uNdB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "YtMWvKtZpu62It8B8Zevleu_Qqw",
+				"id": "Ugwds8H-uNGkOu0uNdB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>เรามาสร้างพื้นที่ปลอดภัยให้กันและกัน บนแอปพลิเคชัน Alljit ได้ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nเรามาสร้างพื้นที่ปลอดภัยให้กันและกัน บนแอปพลิเคชัน Alljit ได้ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-18T16:03:33Z",
+					"updatedAt": "2023-01-18T16:03:33Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "GeZVGL1VEigmLq5KmY9YG8zfncU",
+		"id": "UgwoyDzJkPIhEFBrAxl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "4qFy44y2OTHGkHyGfLIsb4-fnVs",
+				"id": "UgwoyDzJkPIhEFBrAxl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ตอนเด็กๆเคยดู เจ้าหนูมูซาชิ เป็นการ์ตูนเคนโด้การ์ตูนนึง ชอบมากก<br>30 ปีต่อมาเป็นนักกีฬาเคนโด้ตัวแทนประเทศไทยครับ :)",
+					"textOriginal": "ตอนเด็กๆเคยดู เจ้าหนูมูซาชิ เป็นการ์ตูนเคนโด้การ์ตูนนึง ชอบมากก\n30 ปีต่อมาเป็นนักกีฬาเคนโด้ตัวแทนประเทศไทยครับ :)",
+					"authorDisplayName": "@charlemchaiweecharrugson9376",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR5zE4BVbfWzCp0rIh7MVJdyYsB5rGBTI4rtQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjiJVUvkruKQZlIwy91rJRg",
+					"authorChannelId": {
+						"value": "UCjiJVUvkruKQZlIwy91rJRg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-02-19T06:13:53Z",
+					"updatedAt": "2023-02-19T06:13:53Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "6zHmAwQRposQ6YStqIwHiPXHVEI",
+					"id": "UgwoyDzJkPIhEFBrAxl4AaABAg.9mIqwt-1ur29mLh8pwWL4Y",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "❤️❤️",
+						"textOriginal": "❤️❤️",
+						"parentId": "UgwoyDzJkPIhEFBrAxl4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-02-20T08:46:00Z",
+						"updatedAt": "2023-02-20T08:46:00Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "fpl5e0mmdgKZS3YcxZQUJAuFvBg",
+		"id": "UgxkrGzWDjZ8Q0vg9et4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Vu7kZIt9KvZdx_uk6fEde_WXids",
+				"id": "UgxkrGzWDjZ8Q0vg9et4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ส่วนตัวชอบ อุลตร้าแมนทาโร่ <br>ดูครั้งแรกช่วงป.5 ปัจจุบัน24แล้ว ยังดูอยู่เลยครับ😅",
+					"textOriginal": "ส่วนตัวชอบ อุลตร้าแมนทาโร่ \nดูครั้งแรกช่วงป.5 ปัจจุบัน24แล้ว ยังดูอยู่เลยครับ😅",
+					"authorDisplayName": "@chatrapeep6369",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT1v05uHgxwa-kwy3RZu-AClp_WHAG9oMTX2LOo=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCmBhq23dWQo1CJTZnt78NOg",
+					"authorChannelId": {
+						"value": "UCmBhq23dWQo1CJTZnt78NOg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-01-29T14:42:55Z",
+					"updatedAt": "2023-01-29T14:42:55Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HC74W3WMSpwiB_T2sVzMAeVhqQE",
+		"id": "Ugyiv61KKng67hl3YBZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "hZRnBRuVAQtB2lEXFztOiiV9fy4",
+				"id": "Ugyiv61KKng67hl3YBZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ดูตูนตอนเด็กละเรารู้สึกอ่อนไหวง่าย ร้องไห้ง่าย การ์ตูนของดีสนีย์ ชอบให้มีตัวละครตาย",
+					"textOriginal": "ดูตูนตอนเด็กละเรารู้สึกอ่อนไหวง่าย ร้องไห้ง่าย การ์ตูนของดีสนีย์ ชอบให้มีตัวละครตาย",
+					"authorDisplayName": "@159357147541",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQNdGOnpPmTjTRPl0P3hV2BNlbjz1T6QGSrRg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCVjp0D8Rdj4PAvDem_OjPnw",
+					"authorChannelId": {
+						"value": "UCVjp0D8Rdj4PAvDem_OjPnw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-23T14:04:42Z",
+					"updatedAt": "2023-01-23T14:04:42Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "8WuuzQXApX1YH9swh2ZOWg_5cVE",
+		"id": "UgxZ2_BZsInJHCymfDB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "NUO5g0a6UTfmpT2vcgIJ905TRQI",
+				"id": "UgxZ2_BZsInJHCymfDB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "จริงนะตอนเป็นเด็กๆคิดแค่สนุกเรื่องโดเรม่อน/และคิดว่าตนเองไม่เก่งเหมือนโนบิตะ/โตขึ้นมาเรายังไม่รู้อะไรอีกตั้งหลายเรื่อง/และต้องเรียนรู้ตลอดชีวิต/",
+					"textOriginal": "จริงนะตอนเป็นเด็กๆคิดแค่สนุกเรื่องโดเรม่อน/และคิดว่าตนเองไม่เก่งเหมือนโนบิตะ/โตขึ้นมาเรายังไม่รู้อะไรอีกตั้งหลายเรื่อง/และต้องเรียนรู้ตลอดชีวิต/",
+					"authorDisplayName": "@kavinsudta3332",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQFBwaY94pXskMnMbmIE_wByncUDvyUJV_-m51aIvGM17wwnSunucXmb3V2iPQC=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCktj_TyUDc6Em5xiQFJ90fA",
+					"authorChannelId": {
+						"value": "UCktj_TyUDc6Em5xiQFJ90fA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-01-22T16:05:56Z",
+					"updatedAt": "2023-01-22T16:05:56Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "ozTjeXxFOFg_nqsh3DeTRbVLdsA",
+		"id": "UgxUO-Y57etKuwoToJ94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "YWz9HpYgIb14t_yE6wtzXBBOZ1I",
+				"id": "UgxUO-Y57etKuwoToJ94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "การ์ตูนในวัยเด็ก  ชอบดูทอมแอนด์เจอรี่มาก  ชอบเกี่ยวกับสัตว์นะ   มันมีความสนุกสนานเสียงหัวเราะ เป็นสิ่งที่ทำให้เรายิ้มได้นะ สำหรับวัยนั่น จนทุกวันนี้ยังดูอนิเมะชั่นเรื่องถังซานอยู่ติดมาก   เศร้าตอนไหนก็จะดูตลอด  มันให้ข้อคิดว่าล้มแล้วต้องลุกให้ได้  จะตายอยู่แล้วยังไม่ตายเลย ความคิดหักมุมตลอดมาก😉",
+					"textOriginal": "การ์ตูนในวัยเด็ก  ชอบดูทอมแอนด์เจอรี่มาก  ชอบเกี่ยวกับสัตว์นะ   มันมีความสนุกสนานเสียงหัวเราะ เป็นสิ่งที่ทำให้เรายิ้มได้นะ สำหรับวัยนั่น จนทุกวันนี้ยังดูอนิเมะชั่นเรื่องถังซานอยู่ติดมาก   เศร้าตอนไหนก็จะดูตลอด  มันให้ข้อคิดว่าล้มแล้วต้องลุกให้ได้  จะตายอยู่แล้วยังไม่ตายเลย ความคิดหักมุมตลอดมาก😉",
+					"authorDisplayName": "@habbeta8553",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ_5nU3Bz1X6_0NlqI98l3qGGtzMKsSQCCG7w=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCaoy0zE-GsRkU1Sy5L1vgrQ",
+					"authorChannelId": {
+						"value": "UCaoy0zE-GsRkU1Sy5L1vgrQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-20T14:22:58Z",
+					"updatedAt": "2023-01-20T14:22:58Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "2GWxv3Ix0OnKhOAJ3_MCkInTSZo",
+		"id": "UgxNGDMq6efExc_He2t4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Cdj7ksGypaO8Yk8EpedxkUJLQ3w",
+				"id": "UgxNGDMq6efExc_He2t4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "เรื่องแรกที่จะให้ลูกดู​ คือ​ &quot; นาง​ 12 &quot;",
+					"textOriginal": "เรื่องแรกที่จะให้ลูกดู​ คือ​ \" นาง​ 12 \"",
+					"authorDisplayName": "@amornananklindaorueang7118",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ4du_Kn-gaj-gWoLfVIXBwk8R8Iy7jjFyZfQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCzIT7ChcT3mO2ljrc_w976A",
+					"authorChannelId": {
+						"value": "UCzIT7ChcT3mO2ljrc_w976A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-20T03:54:06Z",
+					"updatedAt": "2023-01-20T03:54:06Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "MJg1tr-0dYAhhPNjQT7uwXM1OZQ",
+					"id": "UgxNGDMq6efExc_He2t4AaABAg.9l5M5ozMsij9l8q0OklIvx",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "ชอบเหมีอนกันค่ะ ตัวการ์ตูน น่ารักดี  ชอบเ เมรี ค่ะ",
+						"textOriginal": "ชอบเหมีอนกันค่ะ ตัวการ์ตูน น่ารักดี  ชอบเ เมรี ค่ะ",
+						"parentId": "UgxNGDMq6efExc_He2t4AaABAg",
+						"authorDisplayName": "@chalongratchartprasert8258",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ1h98V4ECVHF6rc9UiOISXr_asCNgAwpEe6Q=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCdDUooKLMa1srtLJ2iZQn2A",
+						"authorChannelId": {
+							"value": "UCdDUooKLMa1srtLJ2iZQn2A"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-21T12:21:58Z",
+						"updatedAt": "2023-01-21T12:21:58Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "dffLLRGBZ1n1bJnyCGoMmrIm5D8",
+		"id": "Ugx7oltePZaM6XVxRBd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "so1oxirYYKhrtXInfh69z11Hv-k",
+				"id": "Ugx7oltePZaM6XVxRBd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "การดูการ์ตูนทำให้เรามีเพื่อนมากขึ้น เมื่อก่อนชอบดูเรื่อง &quot;slam dunk&quot; ทำให้มีกลุ่มเพื่อนที่ชอบเล่นบาสเหมือนกัน",
+					"textOriginal": "การดูการ์ตูนทำให้เรามีเพื่อนมากขึ้น เมื่อก่อนชอบดูเรื่อง \"slam dunk\" ทำให้มีกลุ่มเพื่อนที่ชอบเล่นบาสเหมือนกัน",
+					"authorDisplayName": "@panuchakert7009",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSjrUaltLoJh5AxH6sFkh6tZJTQZtab_Yy_qEyke-OhNg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC5TlBwEhVZTFymRQ1mFvQUQ",
+					"authorChannelId": {
+						"value": "UC5TlBwEhVZTFymRQ1mFvQUQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-19T07:00:48Z",
+					"updatedAt": "2023-01-19T07:00:48Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "dQ7qoXW6_s02FMUvqlanBboh0rs",
+					"id": "Ugx7oltePZaM6XVxRBd4AaABAg.9l36fKHGvuh9l37n2cuENb",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "ดีจังเลยค่ะ การได้เชื่อมต่อกับเพื่อนๆที่มีความชอบเหมือนกัน💕",
+						"textOriginal": "ดีจังเลยค่ะ การได้เชื่อมต่อกับเพื่อนๆที่มีความชอบเหมือนกัน💕",
+						"parentId": "Ugx7oltePZaM6XVxRBd4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-19T07:10:35Z",
+						"updatedAt": "2023-01-19T07:10:35Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "oiB9cFSIR2Amq522UsIXFXBzx0g",
+		"id": "Ugz6gYC0iSiTJMHIPrV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "-EaRVMlIH41cHqAkRLeG4bW5SJk",
+				"id": "Ugz6gYC0iSiTJMHIPrV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "สำหรับเรา เรารู้สึกว่าการ์ตูนวัยเด็กเป็นสิ่งเซฟใจอย่างหนึ่งค่ะ",
+					"textOriginal": "สำหรับเรา เรารู้สึกว่าการ์ตูนวัยเด็กเป็นสิ่งเซฟใจอย่างหนึ่งค่ะ",
+					"authorDisplayName": "@j.jannie7207",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTAGmrVL-y6gfMwWqSgPjb6qvYFyEGZEuYrRy-47Q=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCmMgn3lmhgYX_vjMFrNDNpw",
+					"authorChannelId": {
+						"value": "UCmMgn3lmhgYX_vjMFrNDNpw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-01-19T02:08:35Z",
+					"updatedAt": "2023-01-19T02:08:35Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "UGujj4MN3jqQ9UmA2xYr5zSaepY",
+					"id": "Ugz6gYC0iSiTJMHIPrV4AaABAg.9l2aE7JgFmM9l3-zfNHYF2",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "การ์ตูนคือเพื่อนของเราในวัยเด็กที่เป็นพื้นที่ที่สบายใจ 🤍🤍",
+						"textOriginal": "การ์ตูนคือเพื่อนของเราในวัยเด็กที่เป็นพื้นที่ที่สบายใจ 🤍🤍",
+						"parentId": "Ugz6gYC0iSiTJMHIPrV4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-01-19T06:02:24Z",
+						"updatedAt": "2023-01-19T06:02:24Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "ApJVxy7hDjFrkvjamooSWLbWM88",
+		"id": "Ugybple7amtfun5OeOp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "LMk1tbOvyebFDjVMS4zi0bwEq9Q",
+				"id": "Ugybple7amtfun5OeOp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ใครทันดู แคนดี้จอมแก่น,ไดมอสยอดขุนพล ,คู่แฝดอภินิหาร,แม็คกี้จอมแก่น ,กุหลาบแวร์ซาย ฯลฯ 😊😊😊",
+					"textOriginal": "ใครทันดู แคนดี้จอมแก่น,ไดมอสยอดขุนพล ,คู่แฝดอภินิหาร,แม็คกี้จอมแก่น ,กุหลาบแวร์ซาย ฯลฯ 😊😊😊",
+					"authorDisplayName": "@pushitaragtammanoon631",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQbExuSXDOfuxsZdqBluFAg7EZ7-9pf17fO2g=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCvFdm9cadgTWGM25vkNoLyg",
+					"authorChannelId": {
+						"value": "UCvFdm9cadgTWGM25vkNoLyg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-01-18T23:12:43Z",
+					"updatedAt": "2023-01-18T23:12:43Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "dzOpp0OYJdyrhBpGDjfduc28i2U",
+		"id": "Ugz34YEu8F9-9-IwaK54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "PPXwI2vcboI8XlQpZdAGRVgob5Q",
+				"id": "Ugz34YEu8F9-9-IwaK54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ชินจังมีในยูทูปแล้วนะ แต่เสียดายดิสนีย์ช่อง7ไม่มีแล้วสนุกดี เดม่อนสเลเยอร์ก็สนุก ดูการ์ตูนแล้วสบายใจ🙂😄😄",
+					"textOriginal": "ชินจังมีในยูทูปแล้วนะ แต่เสียดายดิสนีย์ช่อง7ไม่มีแล้วสนุกดี เดม่อนสเลเยอร์ก็สนุก ดูการ์ตูนแล้วสบายใจ🙂😄😄",
+					"authorDisplayName": "@3HZ.",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/mzYrZpQ8HIAx0MU4LUjTg_OMqfh_-aLAuZqocrtQiiQFIWLzUo8vGg64q3b8iwkb0hPhrMME=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKuNS3flncqiWevvw8JwvCQ",
+					"authorChannelId": {
+						"value": "UCKuNS3flncqiWevvw8JwvCQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 6,
+					"publishedAt": "2023-01-18T18:19:05Z",
+					"updatedAt": "2023-01-18T18:19:05Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "tIofT_lLC14RMsrNN65zO_5wRk4",
+					"id": "Ugz34YEu8F9-9-IwaK54AaABAg.9l1kVL9101v9l302wTYPbD",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "🧡🧡",
+						"textOriginal": "🧡🧡",
+						"parentId": "Ugz34YEu8F9-9-IwaK54AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-19T06:02:59Z",
+						"updatedAt": "2023-01-19T06:02:59Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "a1uymRbjruTCVzI7DMT-IM6fjo8",
+		"id": "UgxPD5e7aL0M_I6dGNF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ZVIxfSn7x3QKESdzPGIE4u-4Qsw",
+				"id": "UgxPD5e7aL0M_I6dGNF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ดราก้อนบอล ดราก้อนเควสท์ เซนต์เซย่า วันพีซ นารูโตะ",
+					"textOriginal": "ดราก้อนบอล ดราก้อนเควสท์ เซนต์เซย่า วันพีซ นารูโตะ",
+					"authorDisplayName": "@armnakornthab6867",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR_AVsQpWFMV0jyxBhrqwtcJG7K4_AJM13yikaEVg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCV_W22WfeEoy4avwmsjnYYg",
+					"authorChannelId": {
+						"value": "UCV_W22WfeEoy4avwmsjnYYg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-01-18T16:49:54Z",
+					"updatedAt": "2023-01-18T16:49:54Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Q_-5BIgMqQaziRC2whGSAFOVkx8",
+					"id": "UgxPD5e7aL0M_I6dGNF4AaABAg.9l1aI9EVS059l301ORlohR",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "🧡🧡",
+						"textOriginal": "🧡🧡",
+						"parentId": "UgxPD5e7aL0M_I6dGNF4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-19T06:02:47Z",
+						"updatedAt": "2023-01-19T06:02:47Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "0Y7i47vL9by5VqTV4SGcJzTRo04",
+		"id": "Ugy0Hcm5e0BcahXariZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "bjVtLoCGomQ6lI5SC3G00n3CeSw",
+				"id": "Ugy0Hcm5e0BcahXariZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "การ์ตูนในวัยเด็กผมจำไม่ได้ว่าชอบเรื่องไหนและการ์ตูนทำให้เรามีความสุขในตอนเด็กแต่นอนนี้ผมจำไม่ได้แล้วว่าความสุขในวัยเด็กหน้าตาเป็นยังไง",
+					"textOriginal": "การ์ตูนในวัยเด็กผมจำไม่ได้ว่าชอบเรื่องไหนและการ์ตูนทำให้เรามีความสุขในตอนเด็กแต่นอนนี้ผมจำไม่ได้แล้วว่าความสุขในวัยเด็กหน้าตาเป็นยังไง",
+					"authorDisplayName": "@OppoAs-fx7ue",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSDiLDt_WSZPeVv_wp969_1Uj2J2drWmBN9fw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjhaXKFWKDkQCldV8Oh-UkA",
+					"authorChannelId": {
+						"value": "UCjhaXKFWKDkQCldV8Oh-UkA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-18T16:41:30Z",
+					"updatedAt": "2023-01-18T16:41:30Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "RqDSqRFRYHyra54Gt2dZVqtFvPU",
+					"id": "Ugy0Hcm5e0BcahXariZ4AaABAg.9l1_KbfE9hj9l37hhxQUD_",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "เรามาสร้างความสุขใหม่ในตอนนี้กันนะคะ หาหนังหรือการ์ตูนดูสักเรื่องดีกว่าค่ะ🧡🧡",
+						"textOriginal": "เรามาสร้างความสุขใหม่ในตอนนี้กันนะคะ หาหนังหรือการ์ตูนดูสักเรื่องดีกว่าค่ะ🧡🧡",
+						"parentId": "Ugy0Hcm5e0BcahXariZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-19T07:09:52Z",
+						"updatedAt": "2023-01-19T07:09:52Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "W9zKJ7cZE8lgfvV9LSbr659XIbc",
+		"id": "UgxRPYnYSk0ZRBLMFC94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "VEcNC9y_yjaJO6dMrSgztn3B0ro",
+				"id": "UgxRPYnYSk0ZRBLMFC94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "ใครเป็นบ้าง การ์ตูนในวันเด็ก ทำให้เรา มีนิสัยตื่นเช้า555",
+					"textOriginal": "ใครเป็นบ้าง การ์ตูนในวันเด็ก ทำให้เรา มีนิสัยตื่นเช้า555",
+					"authorDisplayName": "@Monkawa_official",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/D0wjnJVMVSgu88EQOArNGMWRdfJoajnSsf3elBLMsNagWitAIoVKU5e_uIdV5Lpx3U9n5uku=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCr5VuiWlRXYZHYVWmZ1UKTQ",
+					"authorChannelId": {
+						"value": "UCr5VuiWlRXYZHYVWmZ1UKTQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 15,
+					"publishedAt": "2023-01-18T16:32:28Z",
+					"updatedAt": "2023-01-18T16:32:28Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "FHFUZ-MDykZrLwMd93_bCoVtRpQ",
+					"id": "UgxRPYnYSk0ZRBLMFC94AaABAg.9l1ZIT4Vk1U9l1kMcaT11d",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "จริงค่ะ ตื่นก่อนเวลาด้วย รีบเคลียร์ตัวเองแล้วมานั่งติดหน้าจอ 😂",
+						"textOriginal": "จริงค่ะ ตื่นก่อนเวลาด้วย รีบเคลียร์ตัวเองแล้วมานั่งติดหน้าจอ 😂",
+						"parentId": "UgxRPYnYSk0ZRBLMFC94AaABAg",
+						"authorDisplayName": "@j-joypanda3937",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQV9s2qSnBMtDfBN_2EkJEHo80axSnNUAIpb6pU=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCQPKfwuIOQvUKqUw8DtYkjg",
+						"authorChannelId": {
+							"value": "UCQPKfwuIOQvUKqUw8DtYkjg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 2,
+						"publishedAt": "2023-01-18T18:17:53Z",
+						"updatedAt": "2023-01-18T18:17:53Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "UZ5qtn_9poowAG4uHZAS1FmePk0",
+					"id": "UgxRPYnYSk0ZRBLMFC94AaABAg.9l1ZIT4Vk1U9lJiFDISnUQ",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "เราคนหนึ่งค่ะ วันไปโรงเรียนแทบจะตื่นสาย แต่วันหยุดเสาร์-อาทิตย์ตื่นแต่เช้าเพราะการ์ตูน5555",
+						"textOriginal": "เราคนหนึ่งค่ะ วันไปโรงเรียนแทบจะตื่นสาย แต่วันหยุดเสาร์-อาทิตย์ตื่นแต่เช้าเพราะการ์ตูน5555",
+						"parentId": "UgxRPYnYSk0ZRBLMFC94AaABAg",
+						"authorDisplayName": "@user-wl6pm4sf6o",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/exG0UHmWdWIsh1NyBXbQwqVbRYz9lUhIa08NnZBwFN6DeC29PGNLTZNcvJUZHt8UG1AvNKD5GA=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCc1sebW8J9z_UdVSixv2T9Q",
+						"authorChannelId": {
+							"value": "UCc1sebW8J9z_UdVSixv2T9Q"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 3,
+						"publishedAt": "2023-01-25T17:45:44Z",
+						"updatedAt": "2023-01-25T17:45:44Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "CCtQMMLSm85ApNYjVqFG64YCqOA",
+		"id": "Ugycm_qymk3Dntt_7yt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ldN0aSoXREk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "oWYIpTkzaYLPP7Xv___mT8QMT7o",
+				"id": "Ugycm_qymk3Dntt_7yt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ldN0aSoXREk",
+					"textDisplay": "เข้าใจ",
+					"textOriginal": "เข้าใจ",
+					"authorDisplayName": "@user-qy4ur1wh9l",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSZDZvvOOGPtlC9FbLVpUsbUlifwnCzjl5lmg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCvVgot9ngkhbbkmz7Z8tJUA",
+					"authorChannelId": {
+						"value": "UCvVgot9ngkhbbkmz7Z8tJUA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-01-18T16:29:30Z",
+					"updatedAt": "2023-01-18T16:29:30Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "JBO_XErmENZxh308jEEGKHqQ_PM",
+					"id": "Ugycm_qymk3Dntt_7yt4AaABAg.9l1YxkSeSEp9l3065V3BKo",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ldN0aSoXREk",
+						"textDisplay": "🤍🤍",
+						"textOriginal": "🤍🤍",
+						"parentId": "Ugycm_qymk3Dntt_7yt4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-19T06:03:25Z",
+						"updatedAt": "2023-01-19T06:03:25Z"
+					}
+				}
+			]
+		}
+	}
+]

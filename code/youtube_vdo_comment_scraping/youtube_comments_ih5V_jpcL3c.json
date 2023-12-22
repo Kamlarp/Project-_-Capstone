@@ -1,0 +1,131 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "AFsM1XYzw3jDa0vaTWONmrKDTzI",
+		"id": "UgyIVqOrcz8HKb6aG5F4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ih5V_jpcL3c",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Gc20xoWgfXyn3uHjzuH_UURLOwA",
+				"id": "UgyIVqOrcz8HKb6aG5F4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ih5V_jpcL3c",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2023-02-28T16:27:37Z",
+					"updatedAt": "2023-02-28T16:27:37Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "ZuMLnWDNGbVGsuS-biQ776tAjWg",
+		"id": "Ugw-rxT2LuRCRzKnoyJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ih5V_jpcL3c",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "MEv-1zfniittFsKA6wM_3Y9OL_Y",
+				"id": "Ugw-rxT2LuRCRzKnoyJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ih5V_jpcL3c",
+					"textDisplay": "ก่อนนอนเราจะเขียนขอบคุณตัวเองและสิ่งที่เจอในแต่ละวันทั้งสิ่งที่ดีและสิ่งที่เป็นทุกข์ทำมาหลายปีแล้วขอบคุณสิ่งเล็กน้อยซึ่งทำให้เราเห็นสิ่งดีๆในโลกนี้เยอะมากๆ",
+					"textOriginal": "ก่อนนอนเราจะเขียนขอบคุณตัวเองและสิ่งที่เจอในแต่ละวันทั้งสิ่งที่ดีและสิ่งที่เป็นทุกข์ทำมาหลายปีแล้วขอบคุณสิ่งเล็กน้อยซึ่งทำให้เราเห็นสิ่งดีๆในโลกนี้เยอะมากๆ",
+					"authorDisplayName": "@vivo8963",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTzboSPCKuF3y21hGWE7NnwwImVQVnfM5tiaA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCb7_e3epN7ttIl3KnxL6GDQ",
+					"authorChannelId": {
+						"value": "UCb7_e3epN7ttIl3KnxL6GDQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-03-03T20:21:37Z",
+					"updatedAt": "2023-03-03T20:21:37Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "ijoYU9qlFFvZEYPl3XaKCjhP-Ac",
+					"id": "Ugw-rxT2LuRCRzKnoyJ4AaABAg.9moGVGAfaqe9mpo1bzKdbw",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ih5V_jpcL3c",
+						"textDisplay": "แอดเป็นกำลังใจให้เสมอนะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้ค่ะ💙",
+						"textOriginal": "แอดเป็นกำลังใจให้เสมอนะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้ค่ะ💙",
+						"parentId": "Ugw-rxT2LuRCRzKnoyJ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-03-04T10:42:38Z",
+						"updatedAt": "2023-03-04T10:42:38Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "J-B-C3HRnQ2xiZVP-nriAeU8_vo",
+		"id": "UgwXHS3tR7jWcX3GJQZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ih5V_jpcL3c",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "y5n2rP1SPgY433ePmdhcmTwyOo0",
+				"id": "UgwXHS3tR7jWcX3GJQZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ih5V_jpcL3c",
+					"textDisplay": "App gratitude แนะนำให้ใช้ ชื่อไหนไหมครับ? มีหลาย แอพมากครับ ขอบคุณมากครับ<br>อยากทดลองดูบ้างครับ",
+					"textOriginal": "App gratitude แนะนำให้ใช้ ชื่อไหนไหมครับ? มีหลาย แอพมากครับ ขอบคุณมากครับ\nอยากทดลองดูบ้างครับ",
+					"authorDisplayName": "@ronachaibenjapornwattanasu6790",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTQnAMHGJKr6aT7QeDl-iPWC5_ssn0ym3lrwBqzr4IZErVsLKrn5L4LWx3E97tJ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCje2OyNF3Om1FrqTViMLB4Q",
+					"authorChannelId": {
+						"value": "UCje2OyNF3Om1FrqTViMLB4Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2023-03-01T06:02:36Z",
+					"updatedAt": "2023-03-01T06:02:36Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

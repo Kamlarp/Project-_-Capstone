@@ -1,0 +1,575 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "f5b45GA4nOGwcU2yUMimBOTPHvM",
+		"id": "UgxHzDitoIRmwLsYAcV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "bFJQRe8FVLqofs2FA0fS2CHJloI",
+				"id": "UgxHzDitoIRmwLsYAcV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-07-01T14:49:15Z",
+					"updatedAt": "2023-07-01T14:49:15Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "Jo1CqFNSs3VbUZjn0o44fDvcCLM",
+		"id": "UgwVjzJWhhGup2_5W3Z4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "G47ofYMAwtfjT8CPKUZnoxWpLvU",
+				"id": "UgwVjzJWhhGup2_5W3Z4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "นอนเป็น10ชั่วโมงก็เหมือนไม่ได้นอนเลยค่ะเพราะฝันทุกคืน เหมือนไปใช้ชีวิตอีกโลกนึง ตื่นมาเหมือนคนไม่ได้นอน ได้มางีบตอนกลางวันตลอด มันแย่มากค่ะ เป็นทุกวัน",
+					"textOriginal": "นอนเป็น10ชั่วโมงก็เหมือนไม่ได้นอนเลยค่ะเพราะฝันทุกคืน เหมือนไปใช้ชีวิตอีกโลกนึง ตื่นมาเหมือนคนไม่ได้นอน ได้มางีบตอนกลางวันตลอด มันแย่มากค่ะ เป็นทุกวัน",
+					"authorDisplayName": "@CherieSafeZone",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/pnZz8h2I2I_kxXdFKbjhppCFBmmuaKFUou3S_AP7SeKm0den98s2Ug_hzV5o9Ar5WUdSD9dgSA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCwAfzKqVYdlDG_URh3tlHMA",
+					"authorChannelId": {
+						"value": "UCwAfzKqVYdlDG_URh3tlHMA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-09-06T04:02:14Z",
+					"updatedAt": "2023-09-06T04:02:14Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "IDO3LTJdbyGo9YEHBF1vOX6RF04",
+					"id": "UgwVjzJWhhGup2_5W3Z4AaABAg.9uJ13g3Cs3o9uJN6k4U8fk",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "L2O9CrcKvIg",
+						"textDisplay": "แอดแนะนำให้ปรึกษาผู้เชี่ยวชาญนะคะ💙",
+						"textOriginal": "แอดแนะนำให้ปรึกษาผู้เชี่ยวชาญนะคะ💙",
+						"parentId": "UgwVjzJWhhGup2_5W3Z4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-09-06T07:14:53Z",
+						"updatedAt": "2023-09-06T07:14:53Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "5c4FTuygFhpiC7KgMKp-V2Z2W7Q",
+		"id": "UgzyrnZr6hAJ6TR3EnV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "RpjWfFWeZA-qM4unrdGlXiozGVQ",
+				"id": "UgzyrnZr6hAJ6TR3EnV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "( ตายแล้ว )  สามารถฝันได้ไหม",
+					"textOriginal": "( ตายแล้ว )  สามารถฝันได้ไหม",
+					"authorDisplayName": "@Pyk-mt5ky",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSbjucxjypZGI1qA4a73pUJFCzZHdAOLftvkM_FG2ZC2UEli0adTzhbZ3QeZk0p=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCN2DC2JdNQAHtUEgAkyt5QA",
+					"authorChannelId": {
+						"value": "UCN2DC2JdNQAHtUEgAkyt5QA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-08-07T07:49:01Z",
+					"updatedAt": "2023-08-07T07:49:01Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "yydWwAbEXnO90yv_zODo9z6p2Vw",
+		"id": "Ugz2m3iNZNzWWmxvcPJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "J48Rb9rPH3kukCrU0X3B7VhWGZ0",
+				"id": "Ugz2m3iNZNzWWmxvcPJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "ฝัน..เลื่อนลอยเหลือเกิน เอื้อมมือไขว่คว้าก็ยังล่องลอย..จากไป",
+					"textOriginal": "ฝัน..เลื่อนลอยเหลือเกิน เอื้อมมือไขว่คว้าก็ยังล่องลอย..จากไป",
+					"authorDisplayName": "@TheKissTum",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT2p_geEdWHG9PmHn5McZL8KZhg0-s29m_uaRPs=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCrv120aw4lCPP2lQc5yc2_Q",
+					"authorChannelId": {
+						"value": "UCrv120aw4lCPP2lQc5yc2_Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-26T03:47:16Z",
+					"updatedAt": "2023-07-26T03:47:16Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "gDnwNCvV4XtvfIwH-VhfXLAW3w8",
+		"id": "UgytWAhGTa9OCqZrzUJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "SEt2Tj0HXNKi3g8ZOv6EeAHIKv0",
+				"id": "UgytWAhGTa9OCqZrzUJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "ขอบคุณที่มาเเชรนะคะ😊 ส่วนตัวเราขอเเชร์นะคะ เราอะชอบฝันอะไรที่เเบบเหมือนลางบอกเหตุ แล้ว เหตุการนั้นๆก็เกิดขึ้นจริง และ อีกอย่างหนึ่งเราชอบฝันว่าคุยกับ ผช ใส่ชุดดำที่ไม่รู้จัก, จำหน้าไม่ได้ เรื่องที่คุยก็จำไม่ได้ เเต่เราจะจำความรู้สึกมีความสุขมากๆเลยเเต่เราก็ชินเเล้ว เพราะฝันเเบบนี้มา7ปีเเล้ว. ใครฝันอะไรมาเเชร์กันหน่อยค่ะ",
+					"textOriginal": "ขอบคุณที่มาเเชรนะคะ😊 ส่วนตัวเราขอเเชร์นะคะ เราอะชอบฝันอะไรที่เเบบเหมือนลางบอกเหตุ แล้ว เหตุการนั้นๆก็เกิดขึ้นจริง และ อีกอย่างหนึ่งเราชอบฝันว่าคุยกับ ผช ใส่ชุดดำที่ไม่รู้จัก, จำหน้าไม่ได้ เรื่องที่คุยก็จำไม่ได้ เเต่เราจะจำความรู้สึกมีความสุขมากๆเลยเเต่เราก็ชินเเล้ว เพราะฝันเเบบนี้มา7ปีเเล้ว. ใครฝันอะไรมาเเชร์กันหน่อยค่ะ",
+					"authorDisplayName": "@at8800",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/t8lHykFd72L2nuaym0kDql29x46ojw3FLfadYiwWECDmsczhoI96Pvv71kRC3u3nm1u-_6CBFQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjqzaaZqhTWE8aubrEGtVKg",
+					"authorChannelId": {
+						"value": "UCjqzaaZqhTWE8aubrEGtVKg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2023-07-09T06:14:33Z",
+					"updatedAt": "2023-07-09T06:14:33Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "J7v7DTmM2aFon09ZZpRvUpAeF3E",
+					"id": "UgytWAhGTa9OCqZrzUJ4AaABAg.9rwLJ8Fh91s9svXmicI8Pv",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "L2O9CrcKvIg",
+						"textDisplay": "าตรนะตื่นค่า นครทืต่ตา😅ตาตาตาตาติต่😅ตาตาตื😅ข่่ทาคาานานนน่น",
+						"textOriginal": "าตรนะตื่นค่า นครทืต่ตา😅ตาตาตาตาติต่😅ตาตาตื😅ข่่ทาคาานานนน่น",
+						"parentId": "UgytWAhGTa9OCqZrzUJ4AaABAg",
+						"authorDisplayName": "@user-dw2mb8jo2l",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ipseMVudIo123ixuoubRqD0dNxBdfbbARk4dCajdCkKAHpsfEbxhmBreg6qJJTwCbJDD23dhqw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCnkmnCJAGUEBMlykhp6Lwig",
+						"authorChannelId": {
+							"value": "UCnkmnCJAGUEBMlykhp6Lwig"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-08-02T19:15:43Z",
+						"updatedAt": "2023-08-02T19:15:43Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "At8ALxyiJJC51bwEJYOFELyTpG0",
+		"id": "UgyFMqOMnDwTDt4TBvR4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "D55HvXfVjrk62mrRIBTXEMRhai0",
+				"id": "UgyFMqOMnDwTDt4TBvR4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "กินยาแล้วยิ่งฝันร้าย เหนื่อยร่างกาย นอนไม่เคยพอ ร่างกายเพลียมากค่ะ",
+					"textOriginal": "กินยาแล้วยิ่งฝันร้าย เหนื่อยร่างกาย นอนไม่เคยพอ ร่างกายเพลียมากค่ะ",
+					"authorDisplayName": "@Ammmmaa",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTGGh5qUDgCuu2jdHegFTnRn4oFENtw0bZNWA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCIJ1oLN13kq-HP7t4vEjORw",
+					"authorChannelId": {
+						"value": "UCIJ1oLN13kq-HP7t4vEjORw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-03T13:29:14Z",
+					"updatedAt": "2023-07-03T13:29:14Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "-PZchTqG0jkHHfVxP9dSC-qMlpI",
+					"id": "UgyFMqOMnDwTDt4TBvR4AaABAg.9rhfHYXImPV9rj--4ZMAY5",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "L2O9CrcKvIg",
+						"textDisplay": "เบื้องต้นอาจจะต้องลองปรึกษาคุณหมอเกี่ยวกับผลข้างเคียงของตัวยาดูนะคะ💙",
+						"textOriginal": "เบื้องต้นอาจจะต้องลองปรึกษาคุณหมอเกี่ยวกับผลข้างเคียงของตัวยาดูนะคะ💙",
+						"parentId": "UgyFMqOMnDwTDt4TBvR4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-07-04T01:49:26Z",
+						"updatedAt": "2023-07-04T01:49:26Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "YkAUyNfCWOvYhsShc1WlcwkxiA0",
+		"id": "UgwsfyNs9GocC3n9KwZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "bWvnBjGm2xv0AwXkA4DKOEfPueg",
+				"id": "UgwsfyNs9GocC3n9KwZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "ฝันทีไรจะลองเอาไปค้นหาเพื่อดูว่ามีเลขเด็ดอะไรไหมเผื่อซื้อลอตเตอรี่ ซึ่งตั้งแต่ปั่นจักรยาน ว่ายน้ำ ยันยิงปืน มีตัวเลขตีออกมาได้ด้วย ฮ่าๆ",
+					"textOriginal": "ฝันทีไรจะลองเอาไปค้นหาเพื่อดูว่ามีเลขเด็ดอะไรไหมเผื่อซื้อลอตเตอรี่ ซึ่งตั้งแต่ปั่นจักรยาน ว่ายน้ำ ยันยิงปืน มีตัวเลขตีออกมาได้ด้วย ฮ่าๆ",
+					"authorDisplayName": "@nanthapongsornkaew",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQas9Aj6N37DTGpt0EPJC3ca-eScZ5a4gquM47adg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC2RZDZ5mBj399CiX99AuBeA",
+					"authorChannelId": {
+						"value": "UC2RZDZ5mBj399CiX99AuBeA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-02T06:58:48Z",
+					"updatedAt": "2023-07-02T06:58:48Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "qebOFtdGZmLdsTLE7DSWTPEfYOU",
+		"id": "UgxtAFrczE5Y-s6qFI14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "KbB_oJjqrBCGxX4bulaNhuvMspA",
+				"id": "UgxtAFrczE5Y-s6qFI14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "หูรับรู้ปัญหาสิ่งไม่ชอบใจเอาไปฝันร้ายทุกวัน",
+					"textOriginal": "หูรับรู้ปัญหาสิ่งไม่ชอบใจเอาไปฝันร้ายทุกวัน",
+					"authorDisplayName": "@Kungrom-ky5xd",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZReVwIAVH34zMEZZZyKPxzuOVe97gc0T-fTdcgiMW8i8engBKl4NLcYqPtPmOC4=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC0oDZaYJbYzsnj8MhrHi9qQ",
+					"authorChannelId": {
+						"value": "UC0oDZaYJbYzsnj8MhrHi9qQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-02T01:36:27Z",
+					"updatedAt": "2023-07-02T01:36:27Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "xz92Fq4k1hq1nygnw53fnet2Iws",
+		"id": "Ugyat9XBNa87Mi6OFc14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "TctWlPq1dk_zgRfjyU1rkzbCW2g",
+				"id": "Ugyat9XBNa87Mi6OFc14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "ผมเองมักจะฝันถึงความผิดพลาดในอดีตความผิดหวังเรื่องความรักเรื่องงานมันทำให้ผมตื่นมากลางดึกและก็ไม่สามารถหลับต่อไปต่อไปได้อีก",
+					"textOriginal": "ผมเองมักจะฝันถึงความผิดพลาดในอดีตความผิดหวังเรื่องความรักเรื่องงานมันทำให้ผมตื่นมากลางดึกและก็ไม่สามารถหลับต่อไปต่อไปได้อีก",
+					"authorDisplayName": "@OppoAs-fx7ue",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSDiLDt_WSZPeVv_wp969_1Uj2J2drWmBN9fw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjhaXKFWKDkQCldV8Oh-UkA",
+					"authorChannelId": {
+						"value": "UCjhaXKFWKDkQCldV8Oh-UkA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-01T23:43:47Z",
+					"updatedAt": "2023-07-01T23:43:47Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "Qa3xjlsERGsiN4pEgt6pkWgLx-8",
+		"id": "Ugw-sdErJ0NHgHYDE5B4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "7-tO0F42swNPm2cwKRwvA5KJ_N4",
+				"id": "Ugw-sdErJ0NHgHYDE5B4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "ไม่รู้ทำไม แต่อาการผมในแต่ละช่วง ผมมักจะตั้งคำถาม พอตั้งได้ไม่กี่วันหรือสัปดาห์ หรือบางวันตั้งคำถามปุ๊บ เนื้อหาที่มาพูดคุยเรื่องพวกนั้นก็จะออกมาทันทีเลย ขอบคุณกำลังใจที่มีให้เสมอมานะครับ",
+					"textOriginal": "ไม่รู้ทำไม แต่อาการผมในแต่ละช่วง ผมมักจะตั้งคำถาม พอตั้งได้ไม่กี่วันหรือสัปดาห์ หรือบางวันตั้งคำถามปุ๊บ เนื้อหาที่มาพูดคุยเรื่องพวกนั้นก็จะออกมาทันทีเลย ขอบคุณกำลังใจที่มีให้เสมอมานะครับ",
+					"authorDisplayName": "@namatamago0001",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/4hQ1g1s-p5BOdamg-JtJlNqwvGA-fnvB3v9RrA-03nQ-utTYuiDngkWw6ljZSICED6QL3W0X=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCzTj7-v_R5DioY8EN99VBCw",
+					"authorChannelId": {
+						"value": "UCzTj7-v_R5DioY8EN99VBCw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-01T20:20:06Z",
+					"updatedAt": "2023-07-01T20:20:06Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "UXzflTTjVLVaKDHmuB3667NAMxo",
+		"id": "UgyK5Cq9vYJhQXJBk9N4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "pAuggKRq2W6yqz8TVJ6FW_6VRvg",
+				"id": "UgyK5Cq9vYJhQXJBk9N4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "เคยฝัน แล้วเกิดขึ้นจริงตามนั้นหลังจากฝันผ่านไปแล้วสักระยะหนึ่ง และส่วนใหญ่จะเกิดขึ้นแต่เรื่องร้ายๆ ซึ่งไม่ชอบเลย ทำให้กลายเป็นคนเกลียดเรื่องของการฝันที่สุด พยายามจะไม่ฝัน พยายามจะไม่คิดมาก แต่บางครั้งเรื่องราวที่ฝันคือไม่เคยคาดคิดว่าจะฝันแบบนั้นเลย 😞",
+					"textOriginal": "เคยฝัน แล้วเกิดขึ้นจริงตามนั้นหลังจากฝันผ่านไปแล้วสักระยะหนึ่ง และส่วนใหญ่จะเกิดขึ้นแต่เรื่องร้ายๆ ซึ่งไม่ชอบเลย ทำให้กลายเป็นคนเกลียดเรื่องของการฝันที่สุด พยายามจะไม่ฝัน พยายามจะไม่คิดมาก แต่บางครั้งเรื่องราวที่ฝันคือไม่เคยคาดคิดว่าจะฝันแบบนั้นเลย 😞",
+					"authorDisplayName": "@ayumunakashima3222",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR41E-Toebn7asJTF1ZpmoWVmQ9SptBlC0O79Ed=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCcg9X28GjgpCFRCSw50YPYw",
+					"authorChannelId": {
+						"value": "UCcg9X28GjgpCFRCSw50YPYw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2023-07-01T16:34:35Z",
+					"updatedAt": "2023-07-01T16:34:35Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Vg0YJo83uerD4MWvHEOnV88Dxao",
+					"id": "UgyK5Cq9vYJhQXJBk9N4AaABAg.9rcquTJ3OxY9rmqhAwq6r-",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "L2O9CrcKvIg",
+						"textDisplay": "เคยฝันว่าได้ไปเที่ยววัดพระแก้วกับเพื่อน แล้ว1คนในกลุ่มใส่ขาสั้นไป ต้องซื้อขายาวหน้าประตูใส่ สรุป 4 เดือนต่อมาเกิดขึ้นจริง 😂😂😂",
+						"textOriginal": "เคยฝันว่าได้ไปเที่ยววัดพระแก้วกับเพื่อน แล้ว1คนในกลุ่มใส่ขาสั้นไป ต้องซื้อขายาวหน้าประตูใส่ สรุป 4 เดือนต่อมาเกิดขึ้นจริง 😂😂😂",
+						"parentId": "UgyK5Cq9vYJhQXJBk9N4AaABAg",
+						"authorDisplayName": "@Anonymousbb",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/u9iMSEXGmdjUpHiDNisdWaBIoj-V08cYVy-3jOLJXA0doECLshFVocifLH19eEPW2v15GpK4SA=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCeTpf023hS-_IRV53P7sEnQ",
+						"authorChannelId": {
+							"value": "UCeTpf023hS-_IRV53P7sEnQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2023-07-05T13:45:10Z",
+						"updatedAt": "2023-07-05T13:45:10Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "zpCaX_Sd9OgsieJFyQffvGdwoSc",
+					"id": "UgyK5Cq9vYJhQXJBk9N4AaABAg.9rcquTJ3OxY9vFso6J5c3n",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "L2O9CrcKvIg",
+						"textDisplay": "เห้อ",
+						"textOriginal": "เห้อ",
+						"parentId": "UgyK5Cq9vYJhQXJBk9N4AaABAg",
+						"authorDisplayName": "@hackernn",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/2rbRdU9oN72eziF7mFmrVnwxg41h6NttvDdqYtsl_07RGrCG2rZ85nRVyPt4PQVmLUen5ZTcig=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCf3NZ8Wkifvgps9ubLx-fXg",
+						"authorChannelId": {
+							"value": "UCf3NZ8Wkifvgps9ubLx-fXg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-09-29T19:14:59Z",
+						"updatedAt": "2023-09-29T19:14:59Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "6qTCT9LAD90aeSl4Rv8feRhnX0s",
+		"id": "UgzDAab9q4VbNSNaGUt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "tPgz5RX2VpfvZJ_olp1k3HCB7B0",
+				"id": "UgzDAab9q4VbNSNaGUt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "เคยฝันเห็นตัวเองครับไม่ชัดมากแต่รู้ว่าไม่ใช่หน้าผม",
+					"textOriginal": "เคยฝันเห็นตัวเองครับไม่ชัดมากแต่รู้ว่าไม่ใช่หน้าผม",
+					"authorDisplayName": "@mgz.40game6",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/mmrrxnfHmmT3vcnXN_SGRdheRakUQXFHlMbJnnbdvvPArfp8tj4EqVz1ehJWfY_hCfE-cQ3tSw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC7X0gXsecklybj7CJOqeRBg",
+					"authorChannelId": {
+						"value": "UC7X0gXsecklybj7CJOqeRBg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-01T16:06:15Z",
+					"updatedAt": "2023-07-01T16:06:15Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "kCHP225eRTw2DBhVYdJZRFT_HNY",
+		"id": "UgwKXMbo55bC5I2UFGt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "L2O9CrcKvIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "FRsapob8a_wgjjrv_mTFTjpKq98",
+				"id": "UgwKXMbo55bC5I2UFGt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "L2O9CrcKvIg",
+					"textDisplay": "😢",
+					"textOriginal": "😢",
+					"authorDisplayName": "@user-qy4ur1wh9l",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSZDZvvOOGPtlC9FbLVpUsbUlifwnCzjl5lmg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCvVgot9ngkhbbkmz7Z8tJUA",
+					"authorChannelId": {
+						"value": "UCvVgot9ngkhbbkmz7Z8tJUA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-01T15:07:05Z",
+					"updatedAt": "2023-07-01T15:07:05Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

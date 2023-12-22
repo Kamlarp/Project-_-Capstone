@@ -1,0 +1,337 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HTQwUIMAfDT-SrdRQhdvUFx9iVg",
+		"id": "UgzSWBvws6DcafRWMbl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ocNbRf75uKw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "CCxL8cFyzEKCAdQIB4SVa2E5rVQ",
+				"id": "UgzSWBvws6DcafRWMbl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ocNbRf75uKw",
+					"textDisplay": "แอปพลิเคชัน ระบายความในใจฟรี  💓\r<br>คุณสามารถรับฟังผู้อื่นได้ หรือคุณระบายความในใจโดยไม่เปิดเผยตัวตนได้\r<br>Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "แอปพลิเคชัน ระบายความในใจฟรี  💓\r\nคุณสามารถรับฟังผู้อื่นได้ หรือคุณระบายความในใจโดยไม่เปิดเผยตัวตนได้\r\nAlljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2021-10-16T17:03:07Z",
+					"updatedAt": "2021-10-16T17:03:07Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "YuhWZTV5QokftRSb8kjRo1pi5Ds",
+		"id": "Ugz4awF62uOpc0c7xU14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ocNbRf75uKw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "L85BOBj0Kl28ZfAcH0-7eDC9XAE",
+				"id": "Ugz4awF62uOpc0c7xU14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ocNbRf75uKw",
+					"textDisplay": "ขอบคุณ..ข้อคิด...เคยนั่งปล่อยโฮ...เป็นเวลานานๆๆๆ แล้ว ใจโล่งสบาย...เราอยู่คนเดียว..เข้าใจค่ะ  แต่มีความสุขค่ะ",
+					"textOriginal": "ขอบคุณ..ข้อคิด...เคยนั่งปล่อยโฮ...เป็นเวลานานๆๆๆ แล้ว ใจโล่งสบาย...เราอยู่คนเดียว..เข้าใจค่ะ  แต่มีความสุขค่ะ",
+					"authorDisplayName": "@krunamfa6416",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQuXvUG9FcY272CIYpQLO87OaaLhJbiWbq706JG=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC9EYQPcLw_q55PWIDGnF3kg",
+					"authorChannelId": {
+						"value": "UC9EYQPcLw_q55PWIDGnF3kg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-10-26T21:59:22Z",
+					"updatedAt": "2022-10-26T21:59:22Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "sXT7gAH9XiuT6YcMCr43WCIWVWo",
+					"id": "Ugz4awF62uOpc0c7xU14AaABAg.9heqwFiB3Wm9hfUJq-W9Ba",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ocNbRf75uKw",
+						"textDisplay": "เป็นกำลังใจให้นะคะ🤍",
+						"textOriginal": "เป็นกำลังใจให้นะคะ🤍",
+						"parentId": "Ugz4awF62uOpc0c7xU14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-27T03:52:15Z",
+						"updatedAt": "2022-10-27T03:52:15Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "OG23JmSAnyDe19Bw4hxBdD-pT2o",
+		"id": "Ugxz451szfizpQVgUS94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ocNbRf75uKw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "AwvdkkIp-ST699zU9AdRTcMvybk",
+				"id": "Ugxz451szfizpQVgUS94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ocNbRf75uKw",
+					"textDisplay": "สังคมที่มองความอ่อนแอของเราเป็นเพียงแค่การแสดง",
+					"textOriginal": "สังคมที่มองความอ่อนแอของเราเป็นเพียงแค่การแสดง",
+					"authorDisplayName": "@OppoAs-fx7ue",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSDiLDt_WSZPeVv_wp969_1Uj2J2drWmBN9fw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCjhaXKFWKDkQCldV8Oh-UkA",
+					"authorChannelId": {
+						"value": "UCjhaXKFWKDkQCldV8Oh-UkA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-04-26T23:57:56Z",
+					"updatedAt": "2022-04-26T23:57:56Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "sD6BFFbDTEqNV03BExEX5hXJglQ",
+					"id": "Ugxz451szfizpQVgUS94AaABAg.9aIr1_FMCIF9aJ12h2TNhx",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ocNbRf75uKw",
+						"textDisplay": "เพราะต่างคนต่างมีความคิดและมีมุมมองเป็นของตัวเอง เราไม่สามารถควบคุมความคิดของเขาหรืออธิบายทุกอย่างเกี่ยวกับตัวเราให้เขาเข้าใจได้ ขอแค่เราเข้าใจตัวเอง รู้ทันความคิดความรู้สึกตัวเราเอง และมีความสุขให้ได้ด้วยตัวของเราเองนะคะ เป็นกำลังใจให้ค่ะ❤",
+						"textOriginal": "เพราะต่างคนต่างมีความคิดและมีมุมมองเป็นของตัวเอง เราไม่สามารถควบคุมความคิดของเขาหรืออธิบายทุกอย่างเกี่ยวกับตัวเราให้เขาเข้าใจได้ ขอแค่เราเข้าใจตัวเอง รู้ทันความคิดความรู้สึกตัวเราเอง และมีความสุขให้ได้ด้วยตัวของเราเองนะคะ เป็นกำลังใจให้ค่ะ❤",
+						"parentId": "Ugxz451szfizpQVgUS94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-04-27T01:34:12Z",
+						"updatedAt": "2022-04-27T01:34:12Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "Trx_d3zfDz3os8BGicHJloe-pqM",
+		"id": "UgyKnxl9R3BovONgICt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ocNbRf75uKw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "_1ulm5RMCVPfi2TEL8Dqu0WeIIk",
+				"id": "UgyKnxl9R3BovONgICt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ocNbRf75uKw",
+					"textDisplay": "พอสุดๆ ก็ได้แค่ร้องไห้คนเดียว",
+					"textOriginal": "พอสุดๆ ก็ได้แค่ร้องไห้คนเดียว",
+					"authorDisplayName": "@pitchayareepiluek602",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTuI8Qfl_B632I8vZQyPnZOwjwsjnn_fOdGnvtT0w=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCMjpLP3kLf0yAa39m_K92vw",
+					"authorChannelId": {
+						"value": "UCMjpLP3kLf0yAa39m_K92vw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-03-04T17:17:30Z",
+					"updatedAt": "2022-03-04T17:17:30Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "t_P8CXIohvnJtUmdu3kDr3Xl7E0",
+					"id": "UgyKnxl9R3BovONgICt4AaABAg.9Z9f4L1mX4G9ZNpJiVqygW",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ocNbRf75uKw",
+						"textDisplay": "กอดๆน้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "กอดๆน้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgyKnxl9R3BovONgICt4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-03-10T05:16:21Z",
+						"updatedAt": "2022-03-10T05:16:21Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "XJSjF_8oSaNjAI-6W4s63HUDoNM",
+		"id": "UgxpQ5-IUbPSuEyaLjN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ocNbRf75uKw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "kH7MjN4z8I__H_zv1xBv7uBb4kw",
+				"id": "UgxpQ5-IUbPSuEyaLjN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ocNbRf75uKw",
+					"textDisplay": "กู​​&quot;อ่อนแอ&quot;แกร่งกล้า​จริงๆ​🦉",
+					"textOriginal": "กู​​\"อ่อนแอ\"แกร่งกล้า​จริงๆ​🦉",
+					"authorDisplayName": "@user-qc4jm5ny5f",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQiVcSKJ4BNGUDdvcC7QTMwbbYunC64-2Gjdg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC3CVBBoyPaoJA7Yrb-nCu2g",
+					"authorChannelId": {
+						"value": "UC3CVBBoyPaoJA7Yrb-nCu2g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-12-03T13:12:11Z",
+					"updatedAt": "2021-12-03T13:12:11Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "ArlAaSOAHR-gvH-Gq9qw5s4-hd4",
+		"id": "Ugzl9LpQkwUcuNwh7qx4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ocNbRf75uKw",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ahIHZsKF__U2BegAsBko7QNx2ss",
+				"id": "Ugzl9LpQkwUcuNwh7qx4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ocNbRf75uKw",
+					"textDisplay": "เคยร้องไห้แล้วโดนสายตาพ่อแม่รังเกียจ โดยที่ตอนนั้นเป็นเวลาที่เราอ่อนแอที่สุด จากนั้นเราก็ไม่เคยร้องไห้ให้คนในบ้านเห็นอีกเลย ทำให้เรากลายเป็นคนที่รู้สึกตัวเองไร้ค่าและไม่ยอมร้องไห้อีกเลย พอโตขึ้นได้เจอเหตุการณ์สูญเสีย ทำให้ความเข้มแข็งทั้งหมดของเราพลังทลาย กลายเป็นคนร้องไห้ง่าย แต่ก็พยายามแอบร้องไห้คนเดียวในห้องเสมอ แล้วพอร้องไห้ทีไร ก็จะรู้สึกตัวเองไร้ความสามารถและไร้ค่ามากๆตลอด.... มันรู้สึกแย่มากจริงๆค่ะ...",
+					"textOriginal": "เคยร้องไห้แล้วโดนสายตาพ่อแม่รังเกียจ โดยที่ตอนนั้นเป็นเวลาที่เราอ่อนแอที่สุด จากนั้นเราก็ไม่เคยร้องไห้ให้คนในบ้านเห็นอีกเลย ทำให้เรากลายเป็นคนที่รู้สึกตัวเองไร้ค่าและไม่ยอมร้องไห้อีกเลย พอโตขึ้นได้เจอเหตุการณ์สูญเสีย ทำให้ความเข้มแข็งทั้งหมดของเราพลังทลาย กลายเป็นคนร้องไห้ง่าย แต่ก็พยายามแอบร้องไห้คนเดียวในห้องเสมอ แล้วพอร้องไห้ทีไร ก็จะรู้สึกตัวเองไร้ความสามารถและไร้ค่ามากๆตลอด.... มันรู้สึกแย่มากจริงๆค่ะ...",
+					"authorDisplayName": "@TNRAPPOR",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSRK_gXITy1jC582g18g2oJvhiBTzZii1z_NoPyFA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCszGxzLE5N4vQf0Or2Ultew",
+					"authorChannelId": {
+						"value": "UCszGxzLE5N4vQf0Or2Ultew"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 4,
+					"publishedAt": "2021-10-18T02:22:56Z",
+					"updatedAt": "2021-10-18T02:22:56Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "0tL7jBLEdmKKKD1-QcB9VIg3mpM",
+					"id": "Ugzl9LpQkwUcuNwh7qx4AaABAg.9TcInPXTbjV9Tcd968880H",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ocNbRf75uKw",
+						"textDisplay": "การร้องไห้นั้นไม่ได้หมายความว่าเราอ่อนแอ หรือไม่มีค่าเลยนะคะ แอดมองว่าน้ำตาเป็นสิ่งที่ช่วยให้เราระบายความรู้สึกต่างๆออกมาได้ดีมากๆเลย เราไม่สามารถที่จะเข้มแข็งได้ตลอดเวลา ไม่สามารถเก็บความรู้สึกอึดอัดใจ ทุกข์ใจไปได้ตลอด เพราะฉะนั้นให้เวลากับตัวเองได้ร้องไห้ ได้ปลดปล่อยความรู้สึกต่างๆออกมาบ้าง เพื่อให้ความรู้สึกต่างๆเบาบางลง และเมื่อเราระบายมันออกมาแล้ว อย่าลืมที่จะยิ้มให้กับตัวเอง ให้กำลังใจตัวเอง และบอกรักตัวเองด้วยนะคะ แอดเป็นกำลังใจให้เสมอน้า 💕",
+						"textOriginal": "การร้องไห้นั้นไม่ได้หมายความว่าเราอ่อนแอ หรือไม่มีค่าเลยนะคะ แอดมองว่าน้ำตาเป็นสิ่งที่ช่วยให้เราระบายความรู้สึกต่างๆออกมาได้ดีมากๆเลย เราไม่สามารถที่จะเข้มแข็งได้ตลอดเวลา ไม่สามารถเก็บความรู้สึกอึดอัดใจ ทุกข์ใจไปได้ตลอด เพราะฉะนั้นให้เวลากับตัวเองได้ร้องไห้ ได้ปลดปล่อยความรู้สึกต่างๆออกมาบ้าง เพื่อให้ความรู้สึกต่างๆเบาบางลง และเมื่อเราระบายมันออกมาแล้ว อย่าลืมที่จะยิ้มให้กับตัวเอง ให้กำลังใจตัวเอง และบอกรักตัวเองด้วยนะคะ แอดเป็นกำลังใจให้เสมอน้า 💕",
+						"parentId": "Ugzl9LpQkwUcuNwh7qx4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 4,
+						"publishedAt": "2021-10-18T05:29:32Z",
+						"updatedAt": "2021-10-18T05:29:32Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "MhNvuKv0oA_adNy6XbgU-vcdphc",
+					"id": "Ugzl9LpQkwUcuNwh7qx4AaABAg.9TcInPXTbjV9TdYFcDNN8z",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ocNbRf75uKw",
+						"textDisplay": "@@alljit2899 ขอบคุณมากๆนะคะ วันนี้เจอแต่เรื่องแย่ๆ ทุกข์มากๆ พอได้มาอ่านคำตอบและฟังคลิ๊ปนี้ไปด้วย ก็ร้องไห้ไปยกนึง เลยลองปล่อยให้ตัวเองได้ร้องไห้ได้ปล่อยให้ตัวเองระบายปลดปล่อยอารมณ์ แล้วพอร้องเสร็จก็ลองกอดตัวเองและตบไหล่เบาๆ ชมตัวเองดูที่ยอมปลดปล่อยให้อารมณ์ได้มาอยู่ข้างๆเรา ทำให้รู้สึกดีขึ้นกว่าเมื่อก่อนที่เอาแต่ร้องไห้และกดความรู้สึกเอาไว้ ขอบคุณมากๆเลยนะคะ<a href=\"about:invalid#zCSafez\"></a>",
+						"textOriginal": "@@alljit2899 ขอบคุณมากๆนะคะ วันนี้เจอแต่เรื่องแย่ๆ ทุกข์มากๆ พอได้มาอ่านคำตอบและฟังคลิ๊ปนี้ไปด้วย ก็ร้องไห้ไปยกนึง เลยลองปล่อยให้ตัวเองได้ร้องไห้ได้ปล่อยให้ตัวเองระบายปลดปล่อยอารมณ์ แล้วพอร้องเสร็จก็ลองกอดตัวเองและตบไหล่เบาๆ ชมตัวเองดูที่ยอมปลดปล่อยให้อารมณ์ได้มาอยู่ข้างๆเรา ทำให้รู้สึกดีขึ้นกว่าเมื่อก่อนที่เอาแต่ร้องไห้และกดความรู้สึกเอาไว้ ขอบคุณมากๆเลยนะคะ",
+						"parentId": "Ugzl9LpQkwUcuNwh7qx4AaABAg",
+						"authorDisplayName": "@TNRAPPOR",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSRK_gXITy1jC582g18g2oJvhiBTzZii1z_NoPyFA=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCszGxzLE5N4vQf0Or2Ultew",
+						"authorChannelId": {
+							"value": "UCszGxzLE5N4vQf0Or2Ultew"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-10-18T13:57:14Z",
+						"updatedAt": "2021-10-18T13:57:14Z"
+					}
+				}
+			]
+		}
+	}
+]

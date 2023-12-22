@@ -1,0 +1,681 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "XmOYw_jUEHoXN4JPXBXJhrBaoh4",
+		"id": "UgwduHH6YSp7F5wvUnN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "1vGOqgp8mVKpfvN3CZGiTOKxlJM",
+				"id": "UgwduHH6YSp7F5wvUnN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "สามารถเป็นผู้สนับสนุนช่อง Alljit <a href=\"about:invalid#zCSafez\"></a>ได้แล้ววันนี้ <a href=\"https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join\">https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join</a>",
+					"textOriginal": "สามารถเป็นผู้สนับสนุนช่อง Alljit ได้แล้ววันนี้ https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 6,
+					"publishedAt": "2022-08-23T15:20:51Z",
+					"updatedAt": "2022-08-23T15:20:51Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "iF2RYTqIuNTo1qoV6r12Zx7aiBM",
+					"id": "UgwduHH6YSp7F5wvUnN4AaABAg.9f4LSOiWEeM9fivVw3C4oU",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ช😂😂",
+						"textOriginal": "ช😂😂",
+						"parentId": "UgwduHH6YSp7F5wvUnN4AaABAg",
+						"authorDisplayName": "@nang1623",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQTrzCryo96nmDs8pRS-JD5UpS1IYGk4VgTwbf8kQFT47mCZjKqRraTd-Mjr9km=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCiBWsBCPPq2aOc5XfhZL7Iw",
+						"authorChannelId": {
+							"value": "UCiBWsBCPPq2aOc5XfhZL7Iw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-09-08T18:53:30Z",
+						"updatedAt": "2022-09-08T18:53:30Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "BfdXQ3JAdeS24P1GrzykJJtDDT8",
+		"id": "UgyaTpxk-KYhal2OJ9B4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "789CdlRdnD0gF7Px-ew-rEtLg6w",
+				"id": "UgyaTpxk-KYhal2OJ9B4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "ขอถามครับ.ถ้าสมัครสมาชิก แล้ว ขอคุยปรึกษาเรื่อง สุขภาพจิตกับผู้ดำเนินรายการ โดยคุยแบบปิดได้ไหมครับ.ซึ่งผมเป็นคน ไม่เข้าใจตนเอง อยากหาทางแก้ไข..ครับ.กังวลว่าตนเองจะเป์นต้วสร้างปัญหาให้คนรอบข้างอ่ะครับ.",
+					"textOriginal": "ขอถามครับ.ถ้าสมัครสมาชิก แล้ว ขอคุยปรึกษาเรื่อง สุขภาพจิตกับผู้ดำเนินรายการ โดยคุยแบบปิดได้ไหมครับ.ซึ่งผมเป็นคน ไม่เข้าใจตนเอง อยากหาทางแก้ไข..ครับ.กังวลว่าตนเองจะเป์นต้วสร้างปัญหาให้คนรอบข้างอ่ะครับ.",
+					"authorDisplayName": "@user-kk9ey4mx2f",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQaPBYaoi4B6dMV4Ehe40ezQY6rwJC-lTRe2qe7gA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCFirmYXL2iMaz9194ghhxDQ",
+					"authorChannelId": {
+						"value": "UCFirmYXL2iMaz9194ghhxDQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-12-18T13:00:13Z",
+					"updatedAt": "2022-12-18T13:03:01Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "OJ4jt2WzKVDKmjEflq_VrsyjH3I",
+					"id": "UgyaTpxk-KYhal2OJ9B4AaABAg.9jmMMlMO2iH9jnx2QlHT3S",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgyaTpxk-KYhal2OJ9B4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-12-19T03:48:44Z",
+						"updatedAt": "2022-12-19T03:48:44Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "QbiaSPkVUcz8K14DLTwpaHvdUVw",
+		"id": "UgwJCxd6jj3PpXsEIqd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "6BrsHAsXtxZtfd6iBnSGzohjiCc",
+				"id": "UgwJCxd6jj3PpXsEIqd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "<a href=\"about:invalid#zCSafez\"></a><a href=\"about:invalid#zCSafez\"></a><a href=\"about:invalid#zCSafez\"></a>",
+					"textOriginal": "",
+					"authorDisplayName": "@terdcho8006",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/-TVNqL4N8BznVSTZk3SjhZKslpkuTChM5dLWI69ULJj6Qlez1dgW84cb6olLkxI5EEYPo4vUPw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCE0SOyZXZDVKsHEpN27RV_A",
+					"authorChannelId": {
+						"value": "UCE0SOyZXZDVKsHEpN27RV_A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-11-27T15:09:06Z",
+					"updatedAt": "2022-11-27T15:09:06Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "e0-B12piteAAICGEf9A_C1gUHd4",
+					"id": "UgwJCxd6jj3PpXsEIqd4AaABAg.9iwWQK6sw-E9j-cmtVKftx",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "❤️❤️",
+						"textOriginal": "❤️❤️",
+						"parentId": "UgwJCxd6jj3PpXsEIqd4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-11-29T05:30:26Z",
+						"updatedAt": "2022-11-29T05:30:26Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "81W4XNY37MfuGwGw3NVUIhQ4zhE",
+		"id": "Ugw65WGV-3khmbQf_UZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Vz8tsCF0sEaTQe5cctyiao8moYU",
+				"id": "Ugw65WGV-3khmbQf_UZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "ผมเริ่มมาฟังช่องพี่ ๆ ในช่วงต้นเดือน หลังจากนั้นผมฟังทุกวัน อย่างน้อยวันละ1เรื่อง รู้สึกช่งนี้เป็นช่องพร้อมเข้าใจเรา ปลอดภัย เหมือนสโลแกนก่อนเริ่มคลิปจริงๆ มันทำให้เราได้เรียนรู้อะไรเยอะเกี่ยยวกับชีวิต ชอบคลิปพวกพี่ ๆ มากนะครับ <br>(ชอบคลิปเวลา2คนนั่ง พูดคุยแลกเปลี่ยนกัน มากที่สุดครับ)",
+					"textOriginal": "ผมเริ่มมาฟังช่องพี่ ๆ ในช่วงต้นเดือน หลังจากนั้นผมฟังทุกวัน อย่างน้อยวันละ1เรื่อง รู้สึกช่งนี้เป็นช่องพร้อมเข้าใจเรา ปลอดภัย เหมือนสโลแกนก่อนเริ่มคลิปจริงๆ มันทำให้เราได้เรียนรู้อะไรเยอะเกี่ยยวกับชีวิต ชอบคลิปพวกพี่ ๆ มากนะครับ \n(ชอบคลิปเวลา2คนนั่ง พูดคุยแลกเปลี่ยนกัน มากที่สุดครับ)",
+					"authorDisplayName": "@ttorpanuwat1079",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS6KDH_V3zV8qGlagFQV3C0_at0LBBbBxf-Yw4U9A=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCJiixAsRGyeQIevRpaOCenA",
+					"authorChannelId": {
+						"value": "UCJiixAsRGyeQIevRpaOCenA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-09-30T16:12:13Z",
+					"updatedAt": "2022-09-30T16:12:13Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "ggCxqZ2TPlyCNTT-c33dUjULhVk",
+					"id": "Ugw65WGV-3khmbQf_UZ4AaABAg.9gbHXxtu0yS9ghfX7Ndh7t",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ขอบคุณมาก ๆ เลยค่ะ เป็นกำลังใจให้นะคะ❤",
+						"textOriginal": "ขอบคุณมาก ๆ เลยค่ะ เป็นกำลังใจให้นะคะ❤",
+						"parentId": "Ugw65WGV-3khmbQf_UZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-03T03:46:00Z",
+						"updatedAt": "2022-10-03T03:46:00Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "bcR6eyqAz2CXylZ3c4bQehzPjik",
+		"id": "UgwWlRzUG2UW6oRtQw94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "CffDir7ESN_6SYGVcqUfjSm7O-U",
+				"id": "UgwWlRzUG2UW6oRtQw94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "ผมหาปุ่มสมัครสมาชิกไม่เจอครับ พอกดที่ลิงค์ในคำอธิบาย ก็เด้งไปหน้าแรกของช่องแล้วไม่มีปุ่มให้สมัครครับ 😢",
+					"textOriginal": "ผมหาปุ่มสมัครสมาชิกไม่เจอครับ พอกดที่ลิงค์ในคำอธิบาย ก็เด้งไปหน้าแรกของช่องแล้วไม่มีปุ่มให้สมัครครับ 😢",
+					"authorDisplayName": "@siripoom.7578",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQTTWGyPwwWnxnpucihJzBZuRjta4A6dfSul8Tb=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC53G5RAM0rBDTiudiERYtjQ",
+					"authorChannelId": {
+						"value": "UC53G5RAM0rBDTiudiERYtjQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2022-09-21T17:37:49Z",
+					"updatedAt": "2022-09-21T17:37:49Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 4,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "NskGjO2ChWUdl5vCsSv51pSc6Xk",
+					"id": "UgwWlRzUG2UW6oRtQw94AaABAg.9gFGB0iI1A69gob_5-y6V5",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ใช่ครับ",
+						"textOriginal": "ใช่ครับ",
+						"parentId": "UgwWlRzUG2UW6oRtQw94AaABAg",
+						"authorDisplayName": "@nongyo3491",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/iGHbCjkGjCHiNocoRXklAsbUWiMqt8gM9xnWaZeWRyQLlZpD1-uJN7O_fceGc57nlBL6knLc5g=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCwb4oOOaRIFAuYsXKvgPbkw",
+						"authorChannelId": {
+							"value": "UCwb4oOOaRIFAuYsXKvgPbkw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-05T20:26:09Z",
+						"updatedAt": "2022-10-05T20:26:09Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "aB60wpT9bqpVvEyyPOhoimdT2tg",
+					"id": "UgwWlRzUG2UW6oRtQw94AaABAg.9gFGB0iI1A69gobag1vU9D",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "หาไม่เจอ",
+						"textOriginal": "หาไม่เจอ",
+						"parentId": "UgwWlRzUG2UW6oRtQw94AaABAg",
+						"authorDisplayName": "@nongyo3491",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/iGHbCjkGjCHiNocoRXklAsbUWiMqt8gM9xnWaZeWRyQLlZpD1-uJN7O_fceGc57nlBL6knLc5g=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCwb4oOOaRIFAuYsXKvgPbkw",
+						"authorChannelId": {
+							"value": "UCwb4oOOaRIFAuYsXKvgPbkw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-05T20:26:22Z",
+						"updatedAt": "2022-10-05T20:26:22Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "RyX-789MdN2GQniXXSt5QTgp5u0",
+					"id": "UgwWlRzUG2UW6oRtQw94AaABAg.9gFGB0iI1A69grwU42R7Wr",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ต้องขออภัยมากๆเลยค่ะ ตอนนี้ระบบสมาชิกขัดข้อง ถ้ากลับมาใช้งานได้ปกติเดี๋ยวแอดจะเเจ้งอีกทีนะคะ ขอบคุณสำหรับการติดตามและสนับสนุนด้วยน้า🥰💙",
+						"textOriginal": "ต้องขออภัยมากๆเลยค่ะ ตอนนี้ระบบสมาชิกขัดข้อง ถ้ากลับมาใช้งานได้ปกติเดี๋ยวแอดจะเเจ้งอีกทีนะคะ ขอบคุณสำหรับการติดตามและสนับสนุนด้วยน้า🥰💙",
+						"parentId": "UgwWlRzUG2UW6oRtQw94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-07T03:26:33Z",
+						"updatedAt": "2022-10-07T03:26:33Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "xaTaO7yrXaXwpEIsmN3BIHm6E6U",
+					"id": "UgwWlRzUG2UW6oRtQw94AaABAg.9gFGB0iI1A69grwfXo9d-m",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ต้องขออภัยมากๆเลยค่ะ ตอนนี้ระบบสมาชิกขัดข้อง ถ้ากลับมาใช้งานได้ปกติเดี๋ยวแอดจะเเจ้งอีกทีนะคะ ขอบคุณสำหรับการติดตามและสนับสนุนด้วยน้า🥰💙",
+						"textOriginal": "ต้องขออภัยมากๆเลยค่ะ ตอนนี้ระบบสมาชิกขัดข้อง ถ้ากลับมาใช้งานได้ปกติเดี๋ยวแอดจะเเจ้งอีกทีนะคะ ขอบคุณสำหรับการติดตามและสนับสนุนด้วยน้า🥰💙",
+						"parentId": "UgwWlRzUG2UW6oRtQw94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-07T03:28:15Z",
+						"updatedAt": "2022-10-07T03:28:15Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "M_qAKw7LDM4gzR3xY2bnyPG8LI0",
+		"id": "UgxXd_CGJcBUtVxCcIp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "PZzNmdb-r89oQ-RJVsCsjI4LB7U",
+				"id": "UgxXd_CGJcBUtVxCcIp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "ต้องการสมัครสมาชิกค่ะ",
+					"textOriginal": "ต้องการสมัครสมาชิกค่ะ",
+					"authorDisplayName": "@sirilak856",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSoXoc5QMtEB80Py2oJoMLp5mI2Y3NWuTazWkJQ6A=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC7o_tvF3A1bgjOukCjKRvtw",
+					"authorChannelId": {
+						"value": "UC7o_tvF3A1bgjOukCjKRvtw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-09-20T05:45:39Z",
+					"updatedAt": "2022-09-20T05:45:39Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "wuwuAY-60JC6FTkOTPo8TZovuW8",
+					"id": "UgxXd_CGJcBUtVxCcIp4AaABAg.9gBPt-cERvX9gDmIddCLUY",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "คลิ๊ก Link เพื่อสมัครเป็นสมาชิกของช่องได้เลยค่ะ😊<br><a href=\"https://www.youtube.com/channel/UCKIE..\">https://www.youtube.com/channel/UCKIE..</a>.",
+						"textOriginal": "คลิ๊ก Link เพื่อสมัครเป็นสมาชิกของช่องได้เลยค่ะ😊\nhttps://www.youtube.com/channel/UCKIE...",
+						"parentId": "UgxXd_CGJcBUtVxCcIp4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-09-21T03:48:44Z",
+						"updatedAt": "2022-09-21T03:48:44Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "LD_A-Ldj6YGr7PemqMOznhxVBZI",
+		"id": "Ugxy3fLrHy40DZ7HYrl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "qf7EkV3zr_W5bWKEt11gQyMlegs",
+				"id": "Ugxy3fLrHy40DZ7HYrl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "อยากทราบว่าตัวอย่างคอนเทนต์​พิเศษ คืออะไรค่ะ",
+					"textOriginal": "อยากทราบว่าตัวอย่างคอนเทนต์​พิเศษ คืออะไรค่ะ",
+					"authorDisplayName": "@multitintin7003",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/QTdGJ9Y9s9enFpcaN4v9r_QgjH-NwNDn2JEyCVGXu_BRXHJqzklB2WBurpF8Ch-DV2O_kqL6KCM=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCouWdSJzMKi-YhUJ7y3A3Ng",
+					"authorChannelId": {
+						"value": "UCouWdSJzMKi-YhUJ7y3A3Ng"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-08-26T18:55:02Z",
+					"updatedAt": "2022-08-26T18:55:02Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Gv0q3vNLldjmPqJMUmVSUF567bM",
+					"id": "Ugxy3fLrHy40DZ7HYrl4AaABAg.9fCSLoZrXhS9fJ0o3-kGu6",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "จะเป็นคอนเทนต์เกี่ยวกับสุขภาพจิตที่เราไม่ได้เผยแพร่แบบสาธารณะมีเพียง Member ที่จะดูได้เท่านั้นค่ะ😊",
+						"textOriginal": "จะเป็นคอนเทนต์เกี่ยวกับสุขภาพจิตที่เราไม่ได้เผยแพร่แบบสาธารณะมีเพียง Member ที่จะดูได้เท่านั้นค่ะ😊",
+						"parentId": "Ugxy3fLrHy40DZ7HYrl4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 2,
+						"publishedAt": "2022-08-29T08:09:03Z",
+						"updatedAt": "2022-08-29T08:09:03Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "I02TizLUWbcjuWhD7W8wkEcM8Sw",
+		"id": "UgyH9ARwyXka3ZGLJIl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "O_iZGmgLbWjEI2ri-V5gcPntv_E",
+				"id": "UgyH9ARwyXka3ZGLJIl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "ขอบคุณทางช่องที่ให้มุมมองหลายๆอย่างครับ",
+					"textOriginal": "ขอบคุณทางช่องที่ให้มุมมองหลายๆอย่างครับ",
+					"authorDisplayName": "@ban9843",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRVtCV5zi2lWWuiRLFLUvY7FlEyI_lsIYr5vO0ZBQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCBGngfDd5y4ooK0xUF7fRqw",
+					"authorChannelId": {
+						"value": "UCBGngfDd5y4ooK0xUF7fRqw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-08-23T15:51:40Z",
+					"updatedAt": "2022-08-23T15:51:40Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "-DTsEV86RSqccy0j4EyGdpj-gM4",
+					"id": "UgyH9ARwyXka3ZGLJIl4AaABAg.9f4Oz6jt9OO9f5fJZd590Z",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ยินดีมาก ๆ เลยค่า😊",
+						"textOriginal": "ยินดีมาก ๆ เลยค่า😊",
+						"parentId": "UgyH9ARwyXka3ZGLJIl4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-24T03:42:23Z",
+						"updatedAt": "2022-08-24T03:42:23Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "Sci0R55Tm0QiF6Zib_wSsaNinOE",
+		"id": "Ugw4rvfcUsaAV8LS9xV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "HiCthAnZyCzBEczweNTK7r3DRnM",
+				"id": "Ugw4rvfcUsaAV8LS9xV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "เดือนละ80บ. เก็บต่าบริการอย่างไรครับ? เก็บรวมไปกับค่าโทรศัพท์หรือเปล่าครับ?",
+					"textOriginal": "เดือนละ80บ. เก็บต่าบริการอย่างไรครับ? เก็บรวมไปกับค่าโทรศัพท์หรือเปล่าครับ?",
+					"authorDisplayName": "@chatrapeep6369",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT1v05uHgxwa-kwy3RZu-AClp_WHAG9oMTX2LOo=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCmBhq23dWQo1CJTZnt78NOg",
+					"authorChannelId": {
+						"value": "UCmBhq23dWQo1CJTZnt78NOg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-23T15:30:12Z",
+					"updatedAt": "2022-08-23T15:30:12Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "QDNlfc7_1excRbQQ2O-zk5ufB-c",
+					"id": "Ugw4rvfcUsaAV8LS9xV4AaABAg.9f4MWz2B9WW9f5fHcztlVs",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "ไม่รวมกับค่าโทรศัพท์ค่ะ สามารถสมัครสมาชิกโดยคลิ๊กที่ลิงค์นี้ได้เลยค่ะ ➡ <a href=\"https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join\">https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join</a>",
+						"textOriginal": "ไม่รวมกับค่าโทรศัพท์ค่ะ สามารถสมัครสมาชิกโดยคลิ๊กที่ลิงค์นี้ได้เลยค่ะ ➡ https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join",
+						"parentId": "Ugw4rvfcUsaAV8LS9xV4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-24T03:42:07Z",
+						"updatedAt": "2022-08-24T03:42:07Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "T71oTk6seL4dFGi0BEh8JpyfpDg",
+		"id": "Ugz7TXCsQsFDiBnW1hp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "zlt73mXhfac",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "k4X51rjFLx3WboWpyIk8LtQep6s",
+				"id": "Ugz7TXCsQsFDiBnW1hp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "zlt73mXhfac",
+					"textDisplay": "👌🙏",
+					"textOriginal": "👌🙏",
+					"authorDisplayName": "@arminsaleh3141",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRdO8ko4-rKXxwHeNPChElyW7PPABmHg0W5fsc_Ig=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCTpG1qWuHCGOqQ6ESc3xhww",
+					"authorChannelId": {
+						"value": "UCTpG1qWuHCGOqQ6ESc3xhww"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-23T15:20:14Z",
+					"updatedAt": "2022-08-23T15:20:14Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "moHOXMgpi4yrPhXP0RTKeGc3wzE",
+					"id": "Ugz7TXCsQsFDiBnW1hp4AaABAg.9f4LNwHDu3y9f5f3FDhQrR",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "zlt73mXhfac",
+						"textDisplay": "💙💙💙",
+						"textOriginal": "💙💙💙",
+						"parentId": "Ugz7TXCsQsFDiBnW1hp4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-08-24T03:40:09Z",
+						"updatedAt": "2022-08-24T03:40:09Z"
+					}
+				}
+			]
+		}
+	}
+]

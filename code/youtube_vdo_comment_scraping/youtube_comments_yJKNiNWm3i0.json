@@ -1,0 +1,70 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "BJ7HEAm48EprfoYCXOqT0DVpjMo",
+		"id": "UgxGtWmxM_uW8KvbG9h4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "yJKNiNWm3i0",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "IQyZ4PIhcsWGEW36RA30DewV-GI",
+				"id": "UgxGtWmxM_uW8KvbG9h4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "yJKNiNWm3i0",
+					"textDisplay": "ซื้อมา 2 ปี ยังอ่านไม่จบสักทีเลยครับ แต่หนังสือเล่มนี้ทำให้มุมมองการคิดผมเปลี่ยนไปเลย เพราะมันทำให้รู้ว่า ทุกคำถาม มักจะต้องมีคำตอบ มีที่มาและที่ไปเสมอ",
+					"textOriginal": "ซื้อมา 2 ปี ยังอ่านไม่จบสักทีเลยครับ แต่หนังสือเล่มนี้ทำให้มุมมองการคิดผมเปลี่ยนไปเลย เพราะมันทำให้รู้ว่า ทุกคำถาม มักจะต้องมีคำตอบ มีที่มาและที่ไปเสมอ",
+					"authorDisplayName": "@plugKantamett",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQr1z7cOEOG4VgioVwFbT-tLSGHQL679jghyMgh6Q=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCOJMTNoqP_6PggCEat0vd6g",
+					"authorChannelId": {
+						"value": "UCOJMTNoqP_6PggCEat0vd6g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-01-12T15:45:40Z",
+					"updatedAt": "2022-01-12T15:45:40Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "kZqAQju0HOJLCKTOfoEa4Cn6ND8",
+		"id": "Ugz8oobPsH5aQz85qd94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "yJKNiNWm3i0",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "cJdpjmI5FJkn9xe6z9tP-oao3HU",
+				"id": "Ugz8oobPsH5aQz85qd94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "yJKNiNWm3i0",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-01-12T11:25:25Z",
+					"updatedAt": "2022-01-12T11:25:25Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

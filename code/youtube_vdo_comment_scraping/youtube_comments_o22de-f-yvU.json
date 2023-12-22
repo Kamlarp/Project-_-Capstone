@@ -1,0 +1,120 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "hhCQaSHgrtq-tZ3-ULf6JVSNBKQ",
+		"id": "UgzsYXDuhQhur7E_XOt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "o22de-f-yvU",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "8xFRoLEsQRIghf-Q5eBas0fdUWI",
+				"id": "UgzsYXDuhQhur7E_XOt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "o22de-f-yvU",
+					"textDisplay": "มีลูกพร้อมนะครับทุกคน..",
+					"textOriginal": "มีลูกพร้อมนะครับทุกคน..",
+					"authorDisplayName": "@maxkreangkrai7903",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/_srtu_CjPYsxSNpKeYUj7NVQeM1dNrbWsubTDfXO0jg2KBOmjBsD7KjQkYtZeZ89AtEG7tYcnw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC5_A1CRCPSMaHT5y1Hr-E6w",
+					"authorChannelId": {
+						"value": "UC5_A1CRCPSMaHT5y1Hr-E6w"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-07-01T13:12:12Z",
+					"updatedAt": "2021-07-01T13:12:12Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HWtm_hDssgu4TqbIre9HDIQ7X1c",
+		"id": "UgwQdrcnrqWLgF3AGxd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "o22de-f-yvU",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "B4yOEYkQLPwAd3yai9bu8oVGM2I",
+				"id": "UgwQdrcnrqWLgF3AGxd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "o22de-f-yvU",
+					"textDisplay": "มีความเชื่อมโยงกับ attachment styles เลย ถ้าในอนาคตมีหัวข้อนี้ในแง่มุมเกี่ยวกับความรักก็อยากฟังนะคะ <br><br>ขอสอบถามได้ไหมคะ ผู้ปกครองที่เพิกเฉยต่อความรู้สึกของเด็กเป็นไปไหมที่ตอนเขายังเด็กก็ถูกเพิกเฉยต่อความรู้สึกเหมือนกันเลยทำให้จิตใจว่างเปล่าและไม่สามารถมอบความรักให้ใครได้",
+					"textOriginal": "มีความเชื่อมโยงกับ attachment styles เลย ถ้าในอนาคตมีหัวข้อนี้ในแง่มุมเกี่ยวกับความรักก็อยากฟังนะคะ \n\nขอสอบถามได้ไหมคะ ผู้ปกครองที่เพิกเฉยต่อความรู้สึกของเด็กเป็นไปไหมที่ตอนเขายังเด็กก็ถูกเพิกเฉยต่อความรู้สึกเหมือนกันเลยทำให้จิตใจว่างเปล่าและไม่สามารถมอบความรักให้ใครได้",
+					"authorDisplayName": "@j.jannie7207",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTAGmrVL-y6gfMwWqSgPjb6qvYFyEGZEuYrRy-47Q=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCmMgn3lmhgYX_vjMFrNDNpw",
+					"authorChannelId": {
+						"value": "UCmMgn3lmhgYX_vjMFrNDNpw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-07-01T08:57:34Z",
+					"updatedAt": "2021-07-01T08:57:34Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "wCDHLRjJvE0ox2B4mv4kDKIscW8",
+					"id": "UgwQdrcnrqWLgF3AGxd4AaABAg.9PFLJPExpx69PPBdt_6yQV",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "o22de-f-yvU",
+						"textDisplay": "แอดคิดว่าก็อาจจะมีความเป็นไปได้นะคะ สุดท้ายแล้วการแก้ปัญหาจริงๆอาจจะต้องเปิดใจคุยกัน เพราะแอดเชื่อว่าคนเราเจอเรื่องราวต่างๆมาไม่เหมือนกัน ความต้องการ ความคิดที่ต่างกัน ลองพูดคุยกันดูก่อนน้า 💕",
+						"textOriginal": "แอดคิดว่าก็อาจจะมีความเป็นไปได้นะคะ สุดท้ายแล้วการแก้ปัญหาจริงๆอาจจะต้องเปิดใจคุยกัน เพราะแอดเชื่อว่าคนเราเจอเรื่องราวต่างๆมาไม่เหมือนกัน ความต้องการ ความคิดที่ต่างกัน ลองพูดคุยกันดูก่อนน้า 💕",
+						"parentId": "UgwQdrcnrqWLgF3AGxd4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-07-05T04:45:31Z",
+						"updatedAt": "2021-07-05T04:45:31Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "fqiliZIFYKx4Xi5u_HwrA8TTuSI",
+					"id": "UgwQdrcnrqWLgF3AGxd4AaABAg.9PFLJPExpx69PPJ7tZVCJa",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "o22de-f-yvU",
+						"textDisplay": "@@alljit2899 เดินเข้าไปคุยก็ไม่ตอบเลยค่ะ 5555+ เฉยคูณสองไปเลยค่ะ",
+						"textOriginal": "@@alljit2899 เดินเข้าไปคุยก็ไม่ตอบเลยค่ะ 5555+ เฉยคูณสองไปเลยค่ะ",
+						"parentId": "UgwQdrcnrqWLgF3AGxd4AaABAg",
+						"authorDisplayName": "@j.jannie7207",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTAGmrVL-y6gfMwWqSgPjb6qvYFyEGZEuYrRy-47Q=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCmMgn3lmhgYX_vjMFrNDNpw",
+						"authorChannelId": {
+							"value": "UCmMgn3lmhgYX_vjMFrNDNpw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-07-05T05:50:55Z",
+						"updatedAt": "2021-07-05T05:50:55Z"
+					}
+				}
+			]
+		}
+	}
+]

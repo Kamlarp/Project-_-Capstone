@@ -1,0 +1,97 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "okJHSwHqDVmopxNDqusQMSSfvdo",
+		"id": "UgzwhBIelYEu5_BMABl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "z4Hbkj2JcqM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "zJOG545DrSlTS0Htv6Xogd3gic8",
+				"id": "UgzwhBIelYEu5_BMABl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "z4Hbkj2JcqM",
+					"textDisplay": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r<br>บนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r\nบนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-11-13T06:23:25Z",
+					"updatedAt": "2021-11-13T06:23:25Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "y0R-7SsypiyBRjQeOXYsGlYjGjY",
+		"id": "Ugy5JixOoHWVVwPRQHt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "z4Hbkj2JcqM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "vHEiiybPfoA1GDZpvE7B1Offu2s",
+				"id": "Ugy5JixOoHWVVwPRQHt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "z4Hbkj2JcqM",
+					"textDisplay": "เสียงพูดไพเราะ ฟังแล้วรู้สึกสบายใจและผ่อนคลายเลยครับ  เป็นพอดแคสต์ที่ดีมาก ให้ข้อคิดจากหนังได้ดีจริงๆ เรื่องนี้เป็นหนังที่ผมชอบอีกเรื่องนึงเลยครับ ดีใจจังเลยที่ได้มาเจอคลิปนี้ครับ",
+					"textOriginal": "เสียงพูดไพเราะ ฟังแล้วรู้สึกสบายใจและผ่อนคลายเลยครับ  เป็นพอดแคสต์ที่ดีมาก ให้ข้อคิดจากหนังได้ดีจริงๆ เรื่องนี้เป็นหนังที่ผมชอบอีกเรื่องนึงเลยครับ ดีใจจังเลยที่ได้มาเจอคลิปนี้ครับ",
+					"authorDisplayName": "@nattn.t.m7268",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTJKnFO5MBrwuCCQlXuIaKl1Y9wXgff8klVKYt7n8k=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCgh3bqeLU9F746ZfccQ0jWQ",
+					"authorChannelId": {
+						"value": "UCgh3bqeLU9F746ZfccQ0jWQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-03-14T09:08:13Z",
+					"updatedAt": "2022-03-14T09:08:47Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "pFx-3mU7_O59eILHmH0qKRslVzM",
+					"id": "Ugy5JixOoHWVVwPRQHt4AaABAg.9ZYY1UTeAn29Z_Vf_1556Y",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "z4Hbkj2JcqM",
+						"textDisplay": "ขอบคุณมากๆนะคะ❤",
+						"textOriginal": "ขอบคุณมากๆนะคะ❤",
+						"parentId": "Ugy5JixOoHWVVwPRQHt4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-03-15T03:26:06Z",
+						"updatedAt": "2022-03-15T03:26:06Z"
+					}
+				}
+			]
+		}
+	}
+]

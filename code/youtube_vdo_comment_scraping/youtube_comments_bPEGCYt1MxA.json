@@ -1,0 +1,1516 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "gwJTgfcEV2E91VTPIcz0lDQkcIU",
+		"id": "UgwhcgdLvJRkPbBL0gl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "8JWWFz734gVlNCCLrVcgUmnyW64",
+				"id": "UgwhcgdLvJRkPbBL0gl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r<br>บนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r\nบนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 8,
+					"publishedAt": "2021-09-18T16:04:21Z",
+					"updatedAt": "2021-09-18T16:04:21Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "-5CX4MP6dDuwauOCvpnJrSKnuVE",
+					"id": "UgwhcgdLvJRkPbBL0gl4AaABAg.9SRWxSnjW-m9TRtW9BS9yg",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "🙏❤️",
+						"textOriginal": "🙏❤️",
+						"parentId": "UgwhcgdLvJRkPbBL0gl4AaABAg",
+						"authorDisplayName": "@raneat1811",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR4YIAhvw8q23NnbK25X-cwUt87o4AYH-FoVWPV=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC9SqV1Yq7MjfRZ7NVQQg0-A",
+						"authorChannelId": {
+							"value": "UC9SqV1Yq7MjfRZ7NVQQg0-A"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-13T16:01:36Z",
+						"updatedAt": "2021-10-13T16:01:36Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "hxk6GbePWSD-wHv2qqiDTuvTz0M",
+					"id": "UgwhcgdLvJRkPbBL0gl4AaABAg.9SRWxSnjW-m9U-jRT1NzDu",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "ดิฉันก็เป็นค่ะชอบอยู่คนเดียวมีโลกส่วนตัวสูงไม่ชอบสุงสิงกับใครค่ะ",
+						"textOriginal": "ดิฉันก็เป็นค่ะชอบอยู่คนเดียวมีโลกส่วนตัวสูงไม่ชอบสุงสิงกับใครค่ะ",
+						"parentId": "UgwhcgdLvJRkPbBL0gl4AaABAg",
+						"authorDisplayName": "@chalidasomrit7550",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQRNta2i607j9nGZf3uDCfyT12RGYDkZDs5eMViKun6USteic7D_gunBci1Iuc3=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC-nlR4kbJl3qVqzyOS4ZWXg",
+						"authorChannelId": {
+							"value": "UC-nlR4kbJl3qVqzyOS4ZWXg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-27T14:06:14Z",
+						"updatedAt": "2021-10-27T14:06:14Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "rH2-xCsxr0HbUodnBXyihlPy08g",
+		"id": "UgzFemY7x83U8_mQbVJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "c7XAsNlu_KJTv0lhYZiaU5X7Ujo",
+				"id": "UgzFemY7x83U8_mQbVJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "จริงทุกข้อเลยครับ❤",
+					"textOriginal": "จริงทุกข้อเลยครับ❤",
+					"authorDisplayName": "@user-cx1jv7me6d",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSrCFV7m_fwXdsPEKRbNVDzchWDMIg8wjzdxaffkmncQFOcEUan8IngoQzV1fNq=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCFOo8eMKBy34G8FHdixLq-A",
+					"authorChannelId": {
+						"value": "UCFOo8eMKBy34G8FHdixLq-A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-12-03T12:28:54Z",
+					"updatedAt": "2023-12-03T12:28:54Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "vg1LQYXYpvMkQG0EddNexIC_JWU",
+					"id": "UgzFemY7x83U8_mQbVJ4AaABAg.9xrX-bazUwz9xtgxWKQqby",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "💖💖",
+						"textOriginal": "💖💖",
+						"parentId": "UgzFemY7x83U8_mQbVJ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-12-04T08:43:04Z",
+						"updatedAt": "2023-12-04T08:43:04Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "RxdtBb44FaAhQSRTG7RAoYe6Xww",
+		"id": "Ugxeh_sniOkJ50GIo314AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "MzGbPFSFe_hLyqzn_t7zSSx0_nY",
+				"id": "Ugxeh_sniOkJ50GIo314AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ตรง ทุกข้อครับ",
+					"textOriginal": "ตรง ทุกข้อครับ",
+					"authorDisplayName": "@ctp_jb7110",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/xhDVZmZ0WmCHlrXpuBSITMwNXfYiHUO3kiKARKLsNA51mdFPddOqOh9eR-t8NtY5JLoXHQ7A=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC49N2iUGk-Gg-2fpThsj53g",
+					"authorChannelId": {
+						"value": "UC49N2iUGk-Gg-2fpThsj53g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-11-20T09:47:00Z",
+					"updatedAt": "2023-11-20T09:47:00Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "UiTEu_tRZIqluP7s3MqUYTACBOE",
+		"id": "UgxhE7KLvbjUaN93NJd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "OxL4xleqHWWiqVUBARUGiY4He90",
+				"id": "UgxhE7KLvbjUaN93NJd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "เคยหลายๆครั้งเวลาไปสังสรรค์กับเพื่อนฝูงแล้วรู้สึกเป็นส่วนเกินครับ แบบว่ากูมาทำอะไรตรงนี้ คนรอบข้างที่รู้สึกอยู่ด้วยแล้วมีความสุขคือแฟน เพื่อน2-3คนที่เราสามารถคุยได้ทุกเรื่องรู้สึกว่าเรามีความสำคัญ รู้สึกอยู่กับตัวเองแล้วมีความสุขใส่หูฟัง เล่นเกม ดูnetflix สรรหาดูอะไรที่เราชอบคือจบ ไปไหนมาไหนคนเดียวสบายใจสุดไม่ต้องไปคอยแคร์ความรู้สึกใคร สบายใจ แต่บางทีเห็นเพื่อนฝูงไปไหนด้วยกันก็แอบน้อยใจ แต่ก็ช่างแม่งพวกมึงเถอะ❤️",
+					"textOriginal": "เคยหลายๆครั้งเวลาไปสังสรรค์กับเพื่อนฝูงแล้วรู้สึกเป็นส่วนเกินครับ แบบว่ากูมาทำอะไรตรงนี้ คนรอบข้างที่รู้สึกอยู่ด้วยแล้วมีความสุขคือแฟน เพื่อน2-3คนที่เราสามารถคุยได้ทุกเรื่องรู้สึกว่าเรามีความสำคัญ รู้สึกอยู่กับตัวเองแล้วมีความสุขใส่หูฟัง เล่นเกม ดูnetflix สรรหาดูอะไรที่เราชอบคือจบ ไปไหนมาไหนคนเดียวสบายใจสุดไม่ต้องไปคอยแคร์ความรู้สึกใคร สบายใจ แต่บางทีเห็นเพื่อนฝูงไปไหนด้วยกันก็แอบน้อยใจ แต่ก็ช่างแม่งพวกมึงเถอะ❤️",
+					"authorDisplayName": "@North-ie9kd",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQKOqP2WwkHhq-WzuKoUbfDalTWRVfqGnCtPKqKDIZpPMWVt_5dXvZDjEYamL-Z=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCh98TYEomH1rSkVYM1x9M0g",
+					"authorChannelId": {
+						"value": "UCh98TYEomH1rSkVYM1x9M0g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-04-07T20:15:30Z",
+					"updatedAt": "2023-04-07T20:15:30Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "JTj9FNFUDJ7N-meE-aRUaTALBos",
+		"id": "UgzQ-X9J0Na1p9mXqR54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "kMXTdwppvG_LkY_gXM_iMU0FSnE",
+				"id": "UgzQ-X9J0Na1p9mXqR54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "หรือว่าเราเปน พึ่งรู้นะเนี่ยว่าอาการแบบนี้เปนอินๆอะไรนั้นนะ <br>1.เวลา โรงเรียนมีกิจกกรม ชอบปลีกตัวไปยุคนเดียว เพื่อนมาชวนไปดูกิจกรรม ก้ไม่อยากไป ชอบยุเงียบๆ <br>2ไม่ชอบคนเยอะๆ รู้สึกไม่เปนตัวของตัวเอง เวลายุคนเดียวแล้วสบายใจกว่า<br>3เวลายุกับคนที่ไม่สนิท คือจะเงียบเลย แต่ถ้ายุกับคนสนิทก้จะคุยเก่งมาก เพื่อนทุกคนที่สนิทจะบอกว่า เหนครั้งแรกคือเปนคนหยิ่ง เข้าหายาก แต่พอได้สนิทแล้วต่างจากที่เจอครั่งแรกมาก<br>4ชอบเล่นคนเดียว ถึงกระทั่งเล่นกับตัวเอง5555  เปนแบบนี้ตั้งแต่ประถม<br>5จะทำไรคิดแล้วคิดอีก<br>6ทุกวันนี้เวลามีใครมาจับจ่องเวลาเราทำอะไร คือเราจะสั่นตื่นเต้นมากกกกก",
+					"textOriginal": "หรือว่าเราเปน พึ่งรู้นะเนี่ยว่าอาการแบบนี้เปนอินๆอะไรนั้นนะ \n1.เวลา โรงเรียนมีกิจกกรม ชอบปลีกตัวไปยุคนเดียว เพื่อนมาชวนไปดูกิจกรรม ก้ไม่อยากไป ชอบยุเงียบๆ \n2ไม่ชอบคนเยอะๆ รู้สึกไม่เปนตัวของตัวเอง เวลายุคนเดียวแล้วสบายใจกว่า\n3เวลายุกับคนที่ไม่สนิท คือจะเงียบเลย แต่ถ้ายุกับคนสนิทก้จะคุยเก่งมาก เพื่อนทุกคนที่สนิทจะบอกว่า เหนครั้งแรกคือเปนคนหยิ่ง เข้าหายาก แต่พอได้สนิทแล้วต่างจากที่เจอครั่งแรกมาก\n4ชอบเล่นคนเดียว ถึงกระทั่งเล่นกับตัวเอง5555  เปนแบบนี้ตั้งแต่ประถม\n5จะทำไรคิดแล้วคิดอีก\n6ทุกวันนี้เวลามีใครมาจับจ่องเวลาเราทำอะไร คือเราจะสั่นตื่นเต้นมากกกกก",
+					"authorDisplayName": "@rittirongsurasit4871",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRafSLYuCHW_R8SAlNQr0lGiMmSUWrKfCpus7yElA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCaL8S7AG9aEyZ6fOoBWJ3iw",
+					"authorChannelId": {
+						"value": "UCaL8S7AG9aEyZ6fOoBWJ3iw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-04-03T10:59:26Z",
+					"updatedAt": "2023-04-03T10:59:26Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "lzruZGzmc7Z75pyetW65342JMYI",
+					"id": "UgzQ-X9J0Na1p9mXqR54AaABAg.9o24nummn7N9o4DSqCTjS7",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgzQ-X9J0Na1p9mXqR54AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-04-04T06:53:32Z",
+						"updatedAt": "2023-04-04T06:53:32Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "2sAT3wN_K2lr0Xzw0rB94Uq3edA",
+		"id": "UgzbuNYcYXeKTJPkHxF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "z9vpOIbFfgb_y48gxgpfgn0Ekr8",
+				"id": "UgzbuNYcYXeKTJPkHxF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "อยู่คนเดียวมากไปก็รู้สึกดิ่ง แต่พออยู่กับคนเยอะๆ คิดว่าอยู่คนเดียวดีกว่า อยากก้าวผ่านความอินโทรเวิตแต่ทำไม่ได้สักที",
+					"textOriginal": "อยู่คนเดียวมากไปก็รู้สึกดิ่ง แต่พออยู่กับคนเยอะๆ คิดว่าอยู่คนเดียวดีกว่า อยากก้าวผ่านความอินโทรเวิตแต่ทำไม่ได้สักที",
+					"authorDisplayName": "@plies4men",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSI2odNH4NH-6XAae6m4QOt-YXJVJ2h4FlFakOkAw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCgpTOfi0S9pHmLQUE3dM3Pg",
+					"authorChannelId": {
+						"value": "UCgpTOfi0S9pHmLQUE3dM3Pg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-12-16T17:21:49Z",
+					"updatedAt": "2021-12-16T17:21:49Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "ntV8RLZ2cH0HLpnl6OxWBAJod0c",
+					"id": "UgzbuNYcYXeKTJPkHxF4AaABAg.9W0pZbdBuJu9W25EXGDRQP",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgzbuNYcYXeKTJPkHxF4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-12-17T05:06:43Z",
+						"updatedAt": "2021-12-17T05:06:43Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "mnNfbDgGE45HzWdPFTNVjmW5BwI",
+		"id": "UgwB46m9sOoavylghg14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "1RYClPhChmUM1oYTEdjFrhhK35U",
+				"id": "UgwB46m9sOoavylghg14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "กู​ปกติ​ความสุข​มาก​ก​กก​จริงๆ​😌",
+					"textOriginal": "กู​ปกติ​ความสุข​มาก​ก​กก​จริงๆ​😌",
+					"authorDisplayName": "@user-qc4jm5ny5f",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQiVcSKJ4BNGUDdvcC7QTMwbbYunC64-2Gjdg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC3CVBBoyPaoJA7Yrb-nCu2g",
+					"authorChannelId": {
+						"value": "UC3CVBBoyPaoJA7Yrb-nCu2g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-12-05T02:24:50Z",
+					"updatedAt": "2021-12-05T02:24:50Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "GnW4ofgDf6s9gsU_dcmKKjniuL0",
+		"id": "UgyWmX1zam_E8drqeBd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "WWsbkSTG4W8kGunAP28g8_ad2wo",
+				"id": "UgyWmX1zam_E8drqeBd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "กู​เซฟ​คนเดียว​เท่านั้น​🦍",
+					"textOriginal": "กู​เซฟ​คนเดียว​เท่านั้น​🦍",
+					"authorDisplayName": "@user-qc4jm5ny5f",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQiVcSKJ4BNGUDdvcC7QTMwbbYunC64-2Gjdg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC3CVBBoyPaoJA7Yrb-nCu2g",
+					"authorChannelId": {
+						"value": "UC3CVBBoyPaoJA7Yrb-nCu2g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-12-05T02:21:40Z",
+					"updatedAt": "2021-12-05T02:21:40Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "-SiB0HNUOUcVoa5shwEXaTaibgE",
+		"id": "UgxoNGoYAAiUi8MA7ll4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "JnFPWlgobEZcDsqRYoO0e-V2MKQ",
+				"id": "UgxoNGoYAAiUi8MA7ll4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "อยุ่ตัวคนเดียวมา20กว่าปี มันก็มีช่วงที่ดิ่งนะ แต่พอไปอยุ่กับใครมันก็ทนไม่ไหวจริงๆ",
+					"textOriginal": "อยุ่ตัวคนเดียวมา20กว่าปี มันก็มีช่วงที่ดิ่งนะ แต่พอไปอยุ่กับใครมันก็ทนไม่ไหวจริงๆ",
+					"authorDisplayName": "@user-nz5yk1le6r",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/hiAz6AYw3NddADCcBYCASbZHYPsJ21zCjhn4tB5XYlulidZmXKnLxS0C_pfr8nKb1WeR8a1nMvw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCseZHpXoLHybJk4N46ZKaBw",
+					"authorChannelId": {
+						"value": "UCseZHpXoLHybJk4N46ZKaBw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-30T14:29:37Z",
+					"updatedAt": "2021-10-30T14:29:37Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "hbofO7yYXFgI7xg2wr55EVlwzJM",
+					"id": "UgxoNGoYAAiUi8MA7ll4AaABAg.9U7VVI3d9D59UBiG6t0cWo",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจมระบายที่แอป Alljit ได้เสมอนะคะ💕",
+						"textOriginal": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจมระบายที่แอป Alljit ได้เสมอนะคะ💕",
+						"parentId": "UgxoNGoYAAiUi8MA7ll4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-11-01T05:46:50Z",
+						"updatedAt": "2021-11-01T05:46:50Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "4k2TaNC7oxp3damX6fGYfKTIHR0",
+		"id": "UgxBSHmRtb96srkTj7h4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ZN4W9M0e3qx9Zcw2CbJgRfu1QY0",
+				"id": "UgxBSHmRtb96srkTj7h4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ตรงหลายข้อแฮะ ชอบคบคนกลุ่มเล็กๆ<br>เวลาจะเลือกคบใคร จะให้ใจมากๆ<br>จะไม่สัญญาอะไรกับใครง่ายๆ ชอบมองโลก",
+					"textOriginal": "ตรงหลายข้อแฮะ ชอบคบคนกลุ่มเล็กๆ\nเวลาจะเลือกคบใคร จะให้ใจมากๆ\nจะไม่สัญญาอะไรกับใครง่ายๆ ชอบมองโลก",
+					"authorDisplayName": "@rangbandaljai1108",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTm11TWxDtXmEgaWwfMDwFqhWISxatVFo-tBP2QSA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCcJbCcjk6AvFJFUizFzRfjA",
+					"authorChannelId": {
+						"value": "UCcJbCcjk6AvFJFUizFzRfjA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-28T17:58:53Z",
+					"updatedAt": "2021-10-28T17:59:17Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "kij8YZBypHGt85_t7kyR-hrR9zw",
+					"id": "UgxBSHmRtb96srkTj7h4AaABAg.9U2irI9h1KC9U4G-kFyxKO",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgxBSHmRtb96srkTj7h4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-29T08:16:31Z",
+						"updatedAt": "2021-10-29T08:16:31Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "v_F8aj0h7B2vEHuehx2PTQbPFMQ",
+		"id": "Ugz8Nnu3PErehaTehvN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "72JvIKWD1l0z2AfTuuwQFjf6mlA",
+				"id": "Ugz8Nnu3PErehaTehvN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "เป็นคนชอบอยู่คนเดียวเงียบๆ   ถ้ามีเสียงดังเช่นใครเปิดเพลง  เสียงสุนัขเห่าหอน  เสียงเด็กร้อง  รถเสียงดังเป็นต้น              จะรำคาญและหงุดหงิดมาก  ยิ่งถ้ามีคนทะเลาะกันจะไม่หงุดหงิดแต่จะเครียด ถึงเครียดมาก  เหมือนจิตเสื่อมจิตตก!",
+					"textOriginal": "เป็นคนชอบอยู่คนเดียวเงียบๆ   ถ้ามีเสียงดังเช่นใครเปิดเพลง  เสียงสุนัขเห่าหอน  เสียงเด็กร้อง  รถเสียงดังเป็นต้น              จะรำคาญและหงุดหงิดมาก  ยิ่งถ้ามีคนทะเลาะกันจะไม่หงุดหงิดแต่จะเครียด ถึงเครียดมาก  เหมือนจิตเสื่อมจิตตก!",
+					"authorDisplayName": "@jefhhdhdid9334",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQkpjuCf6hLVz8SNazNlUiVHlRXKeDIpEItDQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCb78rXj9e4d_nMeGqV4SDJw",
+					"authorChannelId": {
+						"value": "UCb78rXj9e4d_nMeGqV4SDJw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-28T12:19:01Z",
+					"updatedAt": "2021-10-28T12:19:01Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "2bF5Wm9mstaohS_KPqtC3vMWiQw",
+					"id": "Ugz8Nnu3PErehaTehvN4AaABAg.9U26y-HatRP9UUAPGmFFz1",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "อาจจะเป็นเพราะเสียงเหล่านี้เข้ามามีอิทธิพลต่อความรู้สึกของคนเรามากๆเลยค่ะ บางคนก็อาจจะเซนซิทีฟกับเสียงมากเป็นพิเศษ ลองสำรวจและทำความเข้าใจกับอาการที่เกิดขึ้น ค่อยๆหาทางออกให้กับตัวเอง ว่าพอจะมีทางไหนไหมที่เราจะหลีกเลี่ยงเสียงเหล่านั้นได้นะคะ💙",
+						"textOriginal": "อาจจะเป็นเพราะเสียงเหล่านี้เข้ามามีอิทธิพลต่อความรู้สึกของคนเรามากๆเลยค่ะ บางคนก็อาจจะเซนซิทีฟกับเสียงมากเป็นพิเศษ ลองสำรวจและทำความเข้าใจกับอาการที่เกิดขึ้น ค่อยๆหาทางออกให้กับตัวเอง ว่าพอจะมีทางไหนไหมที่เราจะหลีกเลี่ยงเสียงเหล่านั้นได้นะคะ💙",
+						"parentId": "Ugz8Nnu3PErehaTehvN4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-11-08T09:47:49Z",
+						"updatedAt": "2021-11-08T09:47:49Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "gOo-dN8kIAGtNNlDr8ASyADsAIw",
+		"id": "Ugwb89HSwzPhSlek16F4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "T5hfX7YZ4r45nvPb9emn3nN6laE",
+				"id": "Ugwb89HSwzPhSlek16F4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "อยากเป็นintrovert คนส.ามารถทำอะไรคนเดียวำด้แล้วมีความสุขถือว่าโชคดี ตอนนี้ฝึกอยู่คนเดุยวได้แบบสบายตั้งแต่มีโควืดคิเว่าสำคัญมากการฝึกอยู่กับตัวเอง",
+					"textOriginal": "อยากเป็นintrovert คนส.ามารถทำอะไรคนเดียวำด้แล้วมีความสุขถือว่าโชคดี ตอนนี้ฝึกอยู่คนเดุยวได้แบบสบายตั้งแต่มีโควืดคิเว่าสำคัญมากการฝึกอยู่กับตัวเอง",
+					"authorDisplayName": "@user-sp4fl9jt2d",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRUYVUcVgBvItWhI08pfTdY95rcL7_cHaO09A=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCdYxyvWdxmUdil3MXIFykPQ",
+					"authorChannelId": {
+						"value": "UCdYxyvWdxmUdil3MXIFykPQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2021-10-26T12:44:43Z",
+					"updatedAt": "2021-10-26T12:44:43Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "IaJs-KotGnsHrCUxUB0XMHs55vs",
+					"id": "Ugwb89HSwzPhSlek16F4AaABAg.9Ty0JTUM2Mf9U-2ayVhoEV",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "แอดขอให้เรามีความสุขในทุกๆวันที่ได้มีเวลาอยู่กับตัวเอง และกับคนอื่นๆด้วยนะคะ💕",
+						"textOriginal": "แอดขอให้เรามีความสุขในทุกๆวันที่ได้มีเวลาอยู่กับตัวเอง และกับคนอื่นๆด้วยนะคะ💕",
+						"parentId": "Ugwb89HSwzPhSlek16F4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-10-27T07:43:11Z",
+						"updatedAt": "2021-10-27T07:43:11Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "BKnrjBiQcd6BRIf2WAfdgUzKZ3k",
+		"id": "Ugxo7gZeGpeAyXMJGQt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ujj3M-egijq8K9qj2yP05JS4GAc",
+				"id": "Ugxo7gZeGpeAyXMJGQt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "เอาจริงนะการที่เราอยู่คนเดียวมันรู้สึกมีความสุข",
+					"textOriginal": "เอาจริงนะการที่เราอยู่คนเดียวมันรู้สึกมีความสุข",
+					"authorDisplayName": "@chaianunboonchoo8001",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZThY3icbo9RpAYjKPCYWTvmx7MZuha1XWTMmXpQhA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCAbp8iFF39uIkxhXzbO6TUw",
+					"authorChannelId": {
+						"value": "UCAbp8iFF39uIkxhXzbO6TUw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2021-10-26T12:33:04Z",
+					"updatedAt": "2021-10-26T12:33:04Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "0qzhbOKsBvwLdj_F6JXv3LuHE9M",
+					"id": "Ugxo7gZeGpeAyXMJGQt4AaABAg.9Txzz8dDDaY9U-2So1bMxb",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "และการอยู่คนเดียวหรือการได้อยู่กับตัวเอง ก็ทำให้เรามีเวลาทบทวนตัวเองมากขึ้นด้วยเช่นกันค่ะ💕",
+						"textOriginal": "และการอยู่คนเดียวหรือการได้อยู่กับตัวเอง ก็ทำให้เรามีเวลาทบทวนตัวเองมากขึ้นด้วยเช่นกันค่ะ💕",
+						"parentId": "Ugxo7gZeGpeAyXMJGQt4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-27T07:41:56Z",
+						"updatedAt": "2021-10-27T07:41:56Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "NvK2Z-bM8OIwjYvliO67A2ggIpE",
+		"id": "UgxN6QGleBf1-SgHHQB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "bkCsnpiE2tHZ9bT0A0Z3fZx-Qcs",
+				"id": "UgxN6QGleBf1-SgHHQB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ชอบอยู่คนเดียวมีควๅมสุข",
+					"textOriginal": "ชอบอยู่คนเดียวมีควๅมสุข",
+					"authorDisplayName": "@user-ci1ke8cz5m",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQkyCSggC332WMHiwT2nTcUMcENz-xc3s6Qu4zhCnu1xQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCZRR2IhpYHYHrYj-0zynM5Q",
+					"authorChannelId": {
+						"value": "UCZRR2IhpYHYHrYj-0zynM5Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-25T13:10:21Z",
+					"updatedAt": "2021-10-25T13:10:21Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Li5gmVnTEJdY3efGNvG8G66PYNc",
+					"id": "UgxN6QGleBf1-SgHHQB4AaABAg.9TvUSR6c8iR9Tx98NbktET",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgxN6QGleBf1-SgHHQB4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-26T04:42:36Z",
+						"updatedAt": "2021-10-26T04:42:36Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "JI0Ulxv8ah76NMjCpDdrb_YZvUM",
+		"id": "UgxDznnhBm_63MWTQEZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "E7ZsIb2Ts_VYgnD-GVnnPwhDmjs",
+				"id": "UgxDznnhBm_63MWTQEZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ชอบอยู่คนเดียวตั้งแต่เด็ก",
+					"textOriginal": "ชอบอยู่คนเดียวตั้งแต่เด็ก",
+					"authorDisplayName": "@sunisanirunprasert5833",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ21jCGWN0wD-GYaKG9-l2Ucv9o-QfttWSqmA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC6NvD0V4C0IdpFDa-nH9o8w",
+					"authorChannelId": {
+						"value": "UC6NvD0V4C0IdpFDa-nH9o8w"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-25T12:57:16Z",
+					"updatedAt": "2021-10-25T12:57:16Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Rb7Zx_U_oIURRyQQeRuO7RXQIzM",
+					"id": "UgxDznnhBm_63MWTQEZ4AaABAg.9TvSxY5wUHx9Tx97-AZurP",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgxDznnhBm_63MWTQEZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-26T04:42:24Z",
+						"updatedAt": "2021-10-26T04:42:24Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "aZxPg6rQFR37b34wkRTCTAXcQJo",
+		"id": "Ugx5iObkGC34mhgHKnt4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ypyNm3mLKq_rRKRalqTlui6QxDw",
+				"id": "Ugx5iObkGC34mhgHKnt4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "เธอคือใคร",
+					"textOriginal": "เธอคือใคร",
+					"authorDisplayName": "@phiphatwanna6216",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS1e2P5icu5aFyOxgmdolLMAmd_G-XXqPyeuFhKRg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCU86RSrnfTAcJXTYTZ2zH8A",
+					"authorChannelId": {
+						"value": "UCU86RSrnfTAcJXTYTZ2zH8A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-10-25T12:46:20Z",
+					"updatedAt": "2021-10-25T12:46:20Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "6qMnWSuLQrIFudAGmy_qxZhQoXo",
+					"id": "Ugx5iObkGC34mhgHKnt4AaABAg.9TvRhSRv3CL9Tx94eSnx0N",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "Ugx5iObkGC34mhgHKnt4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-26T04:42:05Z",
+						"updatedAt": "2021-10-26T04:42:05Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "l8d9tn2A0O3sUeraiLOLMr4uLnw",
+		"id": "Ugyss4FzlI0kqPUS4ed4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "HVA3LrZxbTVveRBMF27zsLtI9_M",
+				"id": "Ugyss4FzlI0kqPUS4ed4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ชอบอยู่คนเดียวมากไม่ชอบไปไหนไม่ชอบคุยกับใครนานๆไม่ชอบแต่งตัว",
+					"textOriginal": "ชอบอยู่คนเดียวมากไม่ชอบไปไหนไม่ชอบคุยกับใครนานๆไม่ชอบแต่งตัว",
+					"authorDisplayName": "@daowzi5545",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/-shNCHRvroYC2E7qFll8LnXPv2pY3MvT7i12J-2jTaVWNCY40SLmqzJvtYQSeiw4739LBDt1Dg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC3mZercieaszyf88POrA12Q",
+					"authorChannelId": {
+						"value": "UC3mZercieaszyf88POrA12Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2021-10-25T10:01:46Z",
+					"updatedAt": "2021-10-25T10:01:46Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Z7etNQz8XaJTE0RmzkL2U6Nubso",
+					"id": "Ugyss4FzlI0kqPUS4ed4AaABAg.9Tv8s7V3ZSX9Tx8rlx9_y0",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "Ugyss4FzlI0kqPUS4ed4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-26T04:40:12Z",
+						"updatedAt": "2021-10-26T04:40:12Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "bOg8vKu5p9OxrvNUD-vbmz2wbIA",
+		"id": "Ugyi534ChdViZm-iPZ94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "2eJn6_5U66DVRrMcMQ6PquDeDt4",
+				"id": "Ugyi534ChdViZm-iPZ94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ผมนอนมองท้องฟ้าได้เป็นวันๆเลย",
+					"textOriginal": "ผมนอนมองท้องฟ้าได้เป็นวันๆเลย",
+					"authorDisplayName": "@heartless1141",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTY3U2Mmtmc-CslUiBrySDqP2s106bzdd3vPQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCGUsulrgpty03dGhPOTH5lw",
+					"authorChannelId": {
+						"value": "UCGUsulrgpty03dGhPOTH5lw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 5,
+					"publishedAt": "2021-10-23T19:59:29Z",
+					"updatedAt": "2021-10-23T19:59:29Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "0-ggUZ9LQDer3Za1DK16RL8tYEo",
+					"id": "Ugyi534ChdViZm-iPZ94AaABAg.9Tr3gFordh49TuxqLR1msO",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💕",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💕",
+						"parentId": "Ugyi534ChdViZm-iPZ94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-25T08:16:40Z",
+						"updatedAt": "2021-10-25T08:16:40Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "G9zNd7-WjqJZg7gO2u6ItFzQK88",
+		"id": "UgzSSpLjByzBWxPH6Al4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Jnaz-d9XEqQfihD0Q6o0LSF0q7k",
+				"id": "UgzSSpLjByzBWxPH6Al4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ชอบทุกอย่างนะครับยกเว้นที่ต้องอ่านใจคนอื่น<br>สังเกตคนอื่น ไม่ได้เป็นตัวเองเวลาอยู่กับคนอื่น<br>รู้สึกเหมือนแคร์เค้ามากไป คิดแต่จะทำยังไงให้เขามีความสุข บางทีก็เหนื่อยมาก ครับที่เป็นแบบนี้",
+					"textOriginal": "ชอบทุกอย่างนะครับยกเว้นที่ต้องอ่านใจคนอื่น\nสังเกตคนอื่น ไม่ได้เป็นตัวเองเวลาอยู่กับคนอื่น\nรู้สึกเหมือนแคร์เค้ามากไป คิดแต่จะทำยังไงให้เขามีความสุข บางทีก็เหนื่อยมาก ครับที่เป็นแบบนี้",
+					"authorDisplayName": "@raneat1811",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR4YIAhvw8q23NnbK25X-cwUt87o4AYH-FoVWPV=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC9SqV1Yq7MjfRZ7NVQQg0-A",
+					"authorChannelId": {
+						"value": "UC9SqV1Yq7MjfRZ7NVQQg0-A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2021-10-09T12:41:03Z",
+					"updatedAt": "2021-10-09T12:41:03Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Xq2lmf5rt2FW-UKQwsN-rFGxRs4",
+					"id": "UgzSSpLjByzBWxPH6Al4AaABAg.9THENjse9Ru9TOUbXAu9tH",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "บางครั้งการที่เราแคร์คนอื่นมากเกินไป กังวลว่าคนนั้นจะมีความสุขหรือไม่ สุดท้ายแล้วคนทุกข์ใจนั้นก็คือเราเอง แอดคิดว่าแค่เราเป็นตัวของตัวเองโดยที่ไม่ทำอะไรให้ใครเดือดร้อนหรือเป็นทุกข์ใจก็เพียงพอแล้วนะคะ",
+						"textOriginal": "บางครั้งการที่เราแคร์คนอื่นมากเกินไป กังวลว่าคนนั้นจะมีความสุขหรือไม่ สุดท้ายแล้วคนทุกข์ใจนั้นก็คือเราเอง แอดคิดว่าแค่เราเป็นตัวของตัวเองโดยที่ไม่ทำอะไรให้ใครเดือดร้อนหรือเป็นทุกข์ใจก็เพียงพอแล้วนะคะ",
+						"parentId": "UgzSSpLjByzBWxPH6Al4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 3,
+						"publishedAt": "2021-10-12T08:17:33Z",
+						"updatedAt": "2021-10-12T08:17:33Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HrI_7i7Y1WRxBqojqNIXTRv8xCU",
+		"id": "UgxfBR2c3j44fv-4L_V4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "0JJtNDGV5ufrg5hy_D77_JOY1no",
+				"id": "UgxfBR2c3j44fv-4L_V4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ที่กล่าวมามาตรงกับตัวผมทุกอย่างเลยครับ เฮอะ ที่ผ่านมาได้แต่โทษตัวเองว่าเราไม่ดีเหมือนคนปกติคนอื่นๆทั่วไปแต่ตอนนี้เข้าใจแล้วว่าตัวเองนั้นเป็นอย่างไร",
+					"textOriginal": "ที่กล่าวมามาตรงกับตัวผมทุกอย่างเลยครับ เฮอะ ที่ผ่านมาได้แต่โทษตัวเองว่าเราไม่ดีเหมือนคนปกติคนอื่นๆทั่วไปแต่ตอนนี้เข้าใจแล้วว่าตัวเองนั้นเป็นอย่างไร",
+					"authorDisplayName": "@user-sk4dg4do1q",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSDv1jlFs315w9yKRUWRAVCRBrYXkj4GtHXVt9agO9bMA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCSlFwWcbrNdR4nj3c5w7vmQ",
+					"authorChannelId": {
+						"value": "UCSlFwWcbrNdR4nj3c5w7vmQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-10-07T14:18:10Z",
+					"updatedAt": "2021-10-07T14:18:10Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "R4mKKOLsA0QdGPFifTpa-6dZSDg",
+					"id": "UgxfBR2c3j44fv-4L_V4AaABAg.9TCFuLSdjOA9TDan-DDOfb",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "แอดดีใจที่เราเข้าใจตัวเองน้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอพ Alljit ได้นะคะ💙",
+						"textOriginal": "แอดดีใจที่เราเข้าใจตัวเองน้า มีเรื่องอะไรไม่สบายใจมาระบายที่แอพ Alljit ได้นะคะ💙",
+						"parentId": "UgxfBR2c3j44fv-4L_V4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-08T02:48:38Z",
+						"updatedAt": "2021-10-08T02:48:38Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "3TxhBnOIS8fc-2r1THJd7LhQn-U",
+		"id": "UgxDeDiVgf3pbZIZAOF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "B2ydnyhRoXOiF2te9DBerw_s-68",
+				"id": "UgxDeDiVgf3pbZIZAOF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ตอนนี้สามารถรับฟัง Alljit Podcast ได้ที่ Spotify แล้ว ❤\r<br><a href=\"https://open.spotify.com/show/6cI6XXv5JzS8iTRgA7KDc2\">https://open.spotify.com/show/6cI6XXv5JzS8iTRgA7KDc2</a>",
+					"textOriginal": "ตอนนี้สามารถรับฟัง Alljit Podcast ได้ที่ Spotify แล้ว ❤\r\nhttps://open.spotify.com/show/6cI6XXv5JzS8iTRgA7KDc2",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-10-06T06:58:27Z",
+					"updatedAt": "2021-10-06T06:58:27Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "wy0KAL9_RCsl7KwUwsAKcNyI9ek",
+		"id": "UgzRLz0wh6-c4jq7Iex4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "aXTSylDxOtiQ5yXUqDoXpNpUyxE",
+				"id": "UgzRLz0wh6-c4jq7Iex4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "เราเป็น introvert เรามีความสุขกับการอยู่เงียบๆคนเดียว ไม่ชอบเข้าสังคม (แต่ก็มีเพื่อนนะ) แม่คิดว่าเราป่วย ให้ไปหาหมอ เอ่อ.... หนู ปกติดีค่ะแม่😅",
+					"textOriginal": "เราเป็น introvert เรามีความสุขกับการอยู่เงียบๆคนเดียว ไม่ชอบเข้าสังคม (แต่ก็มีเพื่อนนะ) แม่คิดว่าเราป่วย ให้ไปหาหมอ เอ่อ.... หนู ปกติดีค่ะแม่😅",
+					"authorDisplayName": "@mildmelo_li",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTMtIphod9-0ta2Pld3rlh4_2OwTOG0vWisNuT_HQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCdEtz5XX1dgcZ87C4IatUHg",
+					"authorChannelId": {
+						"value": "UCdEtz5XX1dgcZ87C4IatUHg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 5,
+					"publishedAt": "2021-09-22T19:00:27Z",
+					"updatedAt": "2021-09-22T19:00:27Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "M7xgGWHI3bCQ6yvzwQT6xxiXpIQ",
+		"id": "UgyGpdBmqvd3gjzETkB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "eih2IwjYfKJqyrTs2dHdnvve1HQ",
+				"id": "UgyGpdBmqvd3gjzETkB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ตรงเลยค่ะ",
+					"textOriginal": "ตรงเลยค่ะ",
+					"authorDisplayName": "@pang-kp7ct",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/8sx-KgO6yqJV3UPcIEab7zx2uikCIJHmIukMm24YScX_VQn0_CZEk12vbhmNyZmxQp75nbaKjg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCkB3-4NlU50PiW-0jl7D7Gw",
+					"authorChannelId": {
+						"value": "UCkB3-4NlU50PiW-0jl7D7Gw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2021-09-19T14:11:32Z",
+					"updatedAt": "2021-09-19T14:11:32Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "YezryCzoKyHskDQ8Pi_frO_UizM",
+		"id": "UgynofhpBTKKoOhbJfF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "zlNHak_Y79HKA474xa1SqZBEkIc",
+				"id": "UgynofhpBTKKoOhbJfF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ชอบการอยู่คนเดียว ไม่ชอบการเข้าสังคม เป็นแบบนี้มาตั้งแต่เด็ก เวลาที่พ่อแม่ทะเลาะกัน ก็จะแอบไปร้องไห้ในสวนที่บ้านคนเดียวเงียบๆ พอมีแฟน ทะเลาะกับแฟนบ่อย จนไม่อยากอยู่กับแฟน อยากอยู่คนเดียว รู้สึกระแวงเวลาที่แฟนอยู่ด้วย พอรู้ว่าถ้าอยู่ด้วยกันต้องทะเลาะกันแน่นอน กลายเป็นคนที่เบื่ออะไรทุกๆอย่าง",
+					"textOriginal": "ชอบการอยู่คนเดียว ไม่ชอบการเข้าสังคม เป็นแบบนี้มาตั้งแต่เด็ก เวลาที่พ่อแม่ทะเลาะกัน ก็จะแอบไปร้องไห้ในสวนที่บ้านคนเดียวเงียบๆ พอมีแฟน ทะเลาะกับแฟนบ่อย จนไม่อยากอยู่กับแฟน อยากอยู่คนเดียว รู้สึกระแวงเวลาที่แฟนอยู่ด้วย พอรู้ว่าถ้าอยู่ด้วยกันต้องทะเลาะกันแน่นอน กลายเป็นคนที่เบื่ออะไรทุกๆอย่าง",
+					"authorDisplayName": "@ploysaiploy6813",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT44eQHTC85lvbVQND2BVZXUF0UYo0GcY5_VRpmHA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCnlC5rj-abLbkNKHTEJ8G_A",
+					"authorChannelId": {
+						"value": "UCnlC5rj-abLbkNKHTEJ8G_A"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 10,
+					"publishedAt": "2021-09-19T12:01:32Z",
+					"updatedAt": "2021-09-20T07:26:26Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "IhyjY9V5eAcdvQ-8xceAoUrFcUY",
+		"id": "UgwUUcqrmYaPg9xcb4R4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "jtIaTbcMhAF9s-fBhsqHpeBmtgs",
+				"id": "UgwUUcqrmYaPg9xcb4R4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ทุกข้อเลยครับ..ปัจจุบันนี้ก็เป็น..ข้อเสีย..ไม่สนใจสังคมคอบข้างเท่าที่ควร..ไม่สนใจคนไม่รู้จัก..",
+					"textOriginal": "ทุกข้อเลยครับ..ปัจจุบันนี้ก็เป็น..ข้อเสีย..ไม่สนใจสังคมคอบข้างเท่าที่ควร..ไม่สนใจคนไม่รู้จัก..",
+					"authorDisplayName": "@bomtreetengpakwan4044",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSff9pw50VUp-BDVy8wKmuchKnXXcrVPOJB2w=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCXudFhFFi1e23stZdrb28hg",
+					"authorChannelId": {
+						"value": "UCXudFhFFi1e23stZdrb28hg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2021-09-19T03:15:54Z",
+					"updatedAt": "2021-09-19T03:15:54Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "odrSHjksqQj8ag2uFafTBHWNsbw",
+		"id": "UgxhDc_gST7lhhaDdfp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "20Ds5bKu3jK7cr2bSVIKi7wNJT4",
+				"id": "UgxhDc_gST7lhhaDdfp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "เป็นค่ะ",
+					"textOriginal": "เป็นค่ะ",
+					"authorDisplayName": "@chatdaounjanam8090",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ4hlk_2g-yzW3-QIEeET5VhOkKVrxfu_gLjA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCSGze-9fkg9n1Vm_gT_q7sw",
+					"authorChannelId": {
+						"value": "UCSGze-9fkg9n1Vm_gT_q7sw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-09-18T17:01:31Z",
+					"updatedAt": "2021-09-18T17:01:31Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "SnBzh_N_mhMFAsLJby6NY-iRE4U",
+		"id": "UgybnrPO25GbWNHpCSF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "elOD4I2rVKi9jVAUZShylfcXCgc",
+				"id": "UgybnrPO25GbWNHpCSF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "หมดศรัทธากับคำว่า เพื่อน จนกลัวการเข้าหาสังคม แต่ก็ไปทำงานปกติ เขาทักทายเรา เราก็โต้ตอบปกติ แต่ก็รู้สึกว่าอยากอยู่กับตัวเองมากกว่า",
+					"textOriginal": "หมดศรัทธากับคำว่า เพื่อน จนกลัวการเข้าหาสังคม แต่ก็ไปทำงานปกติ เขาทักทายเรา เราก็โต้ตอบปกติ แต่ก็รู้สึกว่าอยากอยู่กับตัวเองมากกว่า",
+					"authorDisplayName": "@user-xr7ju3jj9p",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/SlE9yAXj-64P4scbMo8SOJf08VW2Y0K8DfRdolnuviraFm_wB7T1nZQ4PCr3Dfl-MgWy4cBI=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCxMZYpwaZtJC07AF698KlSw",
+					"authorChannelId": {
+						"value": "UCxMZYpwaZtJC07AF698KlSw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 21,
+					"publishedAt": "2021-09-18T16:01:18Z",
+					"updatedAt": "2021-09-18T16:01:18Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 3,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "6wzaw-fTOEfUVBMZljq_Hpg9ToA",
+					"id": "UgybnrPO25GbWNHpCSF4AaABAg.9SRWb2R4ZVL9SVgzbyMrAh",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "+1 ความรู้สึกเดียวกันค่ะ 😥",
+						"textOriginal": "+1 ความรู้สึกเดียวกันค่ะ 😥",
+						"parentId": "UgybnrPO25GbWNHpCSF4AaABAg",
+						"authorDisplayName": "@DongminLover1",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTJcEj19Wtj8MEE7_wCkBtm3PXhvzfho1EZPrDibg=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCng_QsgqvfysoXKgohw3pbw",
+						"authorChannelId": {
+							"value": "UCng_QsgqvfysoXKgohw3pbw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-09-20T06:57:44Z",
+						"updatedAt": "2021-09-20T06:57:44Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "vpcQJ0Jo9U-_5U-kB6mBmKAAC1Q",
+					"id": "UgybnrPO25GbWNHpCSF4AaABAg.9SRWb2R4ZVL9la6_7nc5Tb",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "ผมก็เป็น",
+						"textOriginal": "ผมก็เป็น",
+						"parentId": "UgybnrPO25GbWNHpCSF4AaABAg",
+						"authorDisplayName": "@THE-oe7is",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQWY0vvgAwVYJi9D-RpimAnxVfr7xEfFEJLzwx8=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UChb-mdZ2sYS2IhejqBxT2qA",
+						"authorChannelId": {
+							"value": "UChb-mdZ2sYS2IhejqBxT2qA"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-02-01T11:54:08Z",
+						"updatedAt": "2023-02-01T11:54:08Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "NKjpCtM0GklSJ02SXNwonOvk3Ro",
+					"id": "UgybnrPO25GbWNHpCSF4AaABAg.9SRWb2R4ZVL9safrDvCrC8",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "bPEGCYt1MxA",
+						"textDisplay": "ใช่คะ",
+						"textOriginal": "ใช่คะ",
+						"parentId": "UgybnrPO25GbWNHpCSF4AaABAg",
+						"authorDisplayName": "@user-xd8os5hz8m",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR6Pto44SP3zA3m25kqYcR8XCJCSnqH45txSQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCq1MksQ9awJqaOeN9YJzw7g",
+						"authorChannelId": {
+							"value": "UCq1MksQ9awJqaOeN9YJzw7g"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-07-25T16:50:56Z",
+						"updatedAt": "2023-07-25T16:50:56Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "BM69yeEyhuSljQEZry0FEm8k_IA",
+		"id": "UgwSjpDTZyreqmIIQmV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Msh25diL3uXUqODJfk_KqnNn8Jg",
+				"id": "UgwSjpDTZyreqmIIQmV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "ตรงกับผมเลยครับ",
+					"textOriginal": "ตรงกับผมเลยครับ",
+					"authorDisplayName": "@tieroboyzks1931",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/7y-NL4MYV1baz9xgtjAwfMeA97tsisqneLepUcq3BvLqxAApbYXNqMR4j1lf1lhPDlznxHrb=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCmbPvNedtcf6wfLp_W-GvMw",
+					"authorChannelId": {
+						"value": "UCmbPvNedtcf6wfLp_W-GvMw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2021-09-18T15:09:59Z",
+					"updatedAt": "2021-09-18T15:09:59Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "tJgeRquunPOQYvs8szp9WrEYi6M",
+		"id": "Ugxj6RNDFyPULm95fRx4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "bPEGCYt1MxA",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "deJHkLqoadQ82ZVDPyFqkrwPZ1I",
+				"id": "Ugxj6RNDFyPULm95fRx4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "bPEGCYt1MxA",
+					"textDisplay": "การอยู่กับตัวเอง เป็นเซฟโซนที่ดีที่สุดแล้วค่ะ",
+					"textOriginal": "การอยู่กับตัวเอง เป็นเซฟโซนที่ดีที่สุดแล้วค่ะ",
+					"authorDisplayName": "@user-ux9ms8xz8s",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRgneQo0YgZwgT6s5_8a3mEOwJagEvKF6f6CQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCnpSlJNGnyu8H809scvmkZQ",
+					"authorChannelId": {
+						"value": "UCnpSlJNGnyu8H809scvmkZQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 9,
+					"publishedAt": "2021-09-18T15:07:10Z",
+					"updatedAt": "2021-09-18T15:07:10Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

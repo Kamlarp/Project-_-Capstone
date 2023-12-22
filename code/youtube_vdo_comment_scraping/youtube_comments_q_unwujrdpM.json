@@ -1,0 +1,192 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "jA_DUgDkGvwnOJuh98aICeaZAWo",
+		"id": "UgyFT5P3Fme1PuQGJh14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "q_unwujrdpM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "RFa3R7MoR8sUmG4IHYbPSkK5bqI",
+				"id": "UgyFT5P3Fme1PuQGJh14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "q_unwujrdpM",
+					"textDisplay": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r<br>บนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r\nบนแอปพลิเคชั่นออลล์จิต Alljit (พื้นที่ปลอดภัยสำหรับคุณ)\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 4,
+					"publishedAt": "2022-01-03T17:30:19Z",
+					"updatedAt": "2022-01-03T17:30:19Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "PICVTrV--ZJwal8TS_2lBVKnB8s",
+		"id": "Ugx7Pp5_y707tEswB_p4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "q_unwujrdpM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "WMxSQ50IaYYVzY_mG6Q1J90qOhc",
+				"id": "Ugx7Pp5_y707tEswB_p4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "q_unwujrdpM",
+					"textDisplay": "ขอบคุณ​ขอบคุณ​ขอบคุณ​ค่ะ",
+					"textOriginal": "ขอบคุณ​ขอบคุณ​ขอบคุณ​ค่ะ",
+					"authorDisplayName": "@user-gc8ur1mh2k",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSZC5J3m2NzCv-Mymqk01QSxm6ojNwIHnziCEiZvw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCrmBe9PLglHGsjGnLEIkGWw",
+					"authorChannelId": {
+						"value": "UCrmBe9PLglHGsjGnLEIkGWw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-17T04:58:55Z",
+					"updatedAt": "2022-08-17T04:58:55Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "GOF2gvwu_D01-WXcK2CGGiJhBD0",
+					"id": "Ugx7Pp5_y707tEswB_p4AaABAg.9eomVzWzR9m9eopd7ajG6R",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "q_unwujrdpM",
+						"textDisplay": "ยินดีมาก ๆ เลยค่ะ เป็นกำลังใจให้นะคะ😊",
+						"textOriginal": "ยินดีมาก ๆ เลยค่ะ เป็นกำลังใจให้นะคะ😊",
+						"parentId": "Ugx7Pp5_y707tEswB_p4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-17T05:26:14Z",
+						"updatedAt": "2022-08-17T05:26:14Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "CV5sIQI_tmpU2najvYC1ZYJ-BJ0",
+		"id": "UgyixR6r4PFAlM-DCBh4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "q_unwujrdpM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "dKDvfsFlb5czkXZkQWX026DBLJw",
+				"id": "UgyixR6r4PFAlM-DCBh4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "q_unwujrdpM",
+					"textDisplay": "คอนเทนต์​ดีมาก เสียงก็ฟังสบายยย",
+					"textOriginal": "คอนเทนต์​ดีมาก เสียงก็ฟังสบายยย",
+					"authorDisplayName": "@multitintin7003",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/QTdGJ9Y9s9enFpcaN4v9r_QgjH-NwNDn2JEyCVGXu_BRXHJqzklB2WBurpF8Ch-DV2O_kqL6KCM=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCouWdSJzMKi-YhUJ7y3A3Ng",
+					"authorChannelId": {
+						"value": "UCouWdSJzMKi-YhUJ7y3A3Ng"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-04-13T23:08:34Z",
+					"updatedAt": "2022-04-13T23:08:34Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "Jx4HXXNzjR6iBx72jknGJ4pLIkQ",
+		"id": "UgyBv8Fh5FKR1dxZKNV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "q_unwujrdpM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "rhj9DISnzheRPqaRQNwZJmQkKC8",
+				"id": "UgyBv8Fh5FKR1dxZKNV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "q_unwujrdpM",
+					"textDisplay": "เนื้อหาที่นำมาเสนอในคลิปนี้ ถือเป็นประโยชน์มากเลยครับ และดูหลายคนในยุคนี้ก็ละเลยการนอนที่ดีจริงๆครับ ผมก็เป็นหนึ่งในนั้น หลังจากนี้จะปรับการนอนแล้วครับ ขอบคุณมากเลยนะครับ <br>ปล. ผมแอบรู้สึก...ตลกรัาย กับการสร้างหลอดไฟของโทมัส อัลวา เอดิสันมากเลยครับ เปลี่ยนแปลงมนุษยชาติทั้งโลกไปตลอดกาลเลย",
+					"textOriginal": "เนื้อหาที่นำมาเสนอในคลิปนี้ ถือเป็นประโยชน์มากเลยครับ และดูหลายคนในยุคนี้ก็ละเลยการนอนที่ดีจริงๆครับ ผมก็เป็นหนึ่งในนั้น หลังจากนี้จะปรับการนอนแล้วครับ ขอบคุณมากเลยนะครับ \nปล. ผมแอบรู้สึก...ตลกรัาย กับการสร้างหลอดไฟของโทมัส อัลวา เอดิสันมากเลยครับ เปลี่ยนแปลงมนุษยชาติทั้งโลกไปตลอดกาลเลย",
+					"authorDisplayName": "@user-yi9sq6gd8p",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/UFg0tBw-W12QUYsicayp8OjVDF6QuJlsUeQ9g4NokjojVialjkCegky1Qg8QemICmu5OB4jJZy8=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCFc-C_pURdf0UeTEEmwcjJw",
+					"authorChannelId": {
+						"value": "UCFc-C_pURdf0UeTEEmwcjJw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-03-22T10:45:55Z",
+					"updatedAt": "2022-03-22T10:48:50Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "qWiBMRZsGtDo5oPjr8FG_8Si4OI",
+					"id": "UgyBv8Fh5FKR1dxZKNV4AaABAg.9ZsJ_3puN689ZuBSMu-QvW",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "q_unwujrdpM",
+						"textDisplay": "ขอบคุณมากๆนะคะ❤❤",
+						"textOriginal": "ขอบคุณมากๆนะคะ❤❤",
+						"parentId": "UgyBv8Fh5FKR1dxZKNV4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-03-23T04:13:27Z",
+						"updatedAt": "2022-03-23T04:13:27Z"
+					}
+				}
+			]
+		}
+	}
+]

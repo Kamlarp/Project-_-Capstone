@@ -1,0 +1,63 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "7-bpTXLRK1T8AAtgIqXVaRYvpvY",
+		"id": "UgxwO-qjFkOtJrRsWK94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "TWevjv_2jdo",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "flCbqqEacjVvdoSC-fvfYNBvjio",
+				"id": "UgxwO-qjFkOtJrRsWK94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "TWevjv_2jdo",
+					"textDisplay": "งื้อออ โดนไป 4 ข้อ ! 😅 ขอบคุณนะคะ💓",
+					"textOriginal": "งื้อออ โดนไป 4 ข้อ ! 😅 ขอบคุณนะคะ💓",
+					"authorDisplayName": "@kridsanalainok689",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZT8rC6WaKpZYNslQRwEuPjrROMAYZhQlUBjuOJF=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCmluDdT20rzzsyDzEShygzw",
+					"authorChannelId": {
+						"value": "UCmluDdT20rzzsyDzEShygzw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-10-04T00:20:36Z",
+					"updatedAt": "2021-10-04T00:20:36Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "DskHfOipFKdxDsB3kAJ0Hb2X3xo",
+					"id": "UgxwO-qjFkOtJrRsWK94AaABAg.9T31fAcmxzZ9T6_Mt6xxLA",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "TWevjv_2jdo",
+						"textDisplay": "แอดเป็นกำลังใจให้น้า💕",
+						"textOriginal": "แอดเป็นกำลังใจให้น้า💕",
+						"parentId": "UgxwO-qjFkOtJrRsWK94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-10-05T09:21:31Z",
+						"updatedAt": "2021-10-05T09:21:31Z"
+					}
+				}
+			]
+		}
+	}
+]

@@ -1,0 +1,124 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "M4lDYzwthL3xikVmW05G9Yt83M4",
+		"id": "UgwqlKwyxoopPz5Boi14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "OTbT-f4r_70",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "A0BNqHanx394wm0a1JukrOBA3yw",
+				"id": "UgwqlKwyxoopPz5Boi14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "OTbT-f4r_70",
+					"textDisplay": "ถอนตะปูออก.มาก็ยังทิ้งร่องรอย",
+					"textOriginal": "ถอนตะปูออก.มาก็ยังทิ้งร่องรอย",
+					"authorDisplayName": "@malintira5412",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR9lpt8dKuEdwLubtM-krtentwP4JLR3Nq10fL26Zf-ciz6rYBbCm36pxDTWpZO=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC2p6W_qr5bJ6oqyWhsEFZLg",
+					"authorChannelId": {
+						"value": "UC2p6W_qr5bJ6oqyWhsEFZLg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-06T12:27:39Z",
+					"updatedAt": "2022-08-06T12:27:39Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Svj3A9fHiasEuc5alCuzoF78IWo",
+					"id": "UgwqlKwyxoopPz5Boi14AaABAg.9eOG6ybC62d9eSkHgL4oTb",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "OTbT-f4r_70",
+						"textDisplay": "👍🏻👍🏻",
+						"textOriginal": "👍🏻👍🏻",
+						"parentId": "UgwqlKwyxoopPz5Boi14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-08T06:16:57Z",
+						"updatedAt": "2022-08-08T06:16:57Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "OvCVZbLJo_CWR1r691M0e66-Iqg",
+		"id": "UgzmbKTP48whFxPCXZ54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "OTbT-f4r_70",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "EZm-VJH45qec4IxmIsLbCWo6Msc",
+				"id": "UgzmbKTP48whFxPCXZ54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "OTbT-f4r_70",
+					"textDisplay": "คนสวยมาให้คำสอนอีกแล้ว มาบ่อยๆนะ",
+					"textOriginal": "คนสวยมาให้คำสอนอีกแล้ว มาบ่อยๆนะ",
+					"authorDisplayName": "@user-ug6fd3zb1e",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR3SvZ2Ut1SN2DsZjLU5rGuK5i0sWmYvbvxX1axaA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC9or-r5-dA-UpaZHAeeW7EA",
+					"authorChannelId": {
+						"value": "UC9or-r5-dA-UpaZHAeeW7EA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-05-09T00:49:43Z",
+					"updatedAt": "2021-05-09T00:49:43Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "uwYWHukjQYKybcc1yFEOLVLOIfQ",
+					"id": "UgzmbKTP48whFxPCXZ54AaABAg.9N6-LzKf_AB9NH8F6VOX8v",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "OTbT-f4r_70",
+						"textDisplay": "ขอบคุณมากๆนะคะ",
+						"textOriginal": "ขอบคุณมากๆนะคะ",
+						"parentId": "UgzmbKTP48whFxPCXZ54AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-05-13T08:39:04Z",
+						"updatedAt": "2021-05-13T08:39:04Z"
+					}
+				}
+			]
+		}
+	}
+]

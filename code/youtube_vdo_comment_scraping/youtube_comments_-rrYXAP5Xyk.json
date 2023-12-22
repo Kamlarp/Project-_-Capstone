@@ -1,0 +1,425 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "bJJEITfRZS3gBoaNoYZoeATwDH4",
+		"id": "Ugw9T37Vn6zDWHLvm_14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "3lwpQGB6YJ6dAV3pMunzVxnIMBk",
+				"id": "Ugw9T37Vn6zDWHLvm_14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "ทำไมเราวิตกกัังวลมากขึ้น เราเป็นห่วงมันมากเกินไปจนเราเครียด ไม่สามารถหยุดได้",
+					"textOriginal": "ทำไมเราวิตกกัังวลมากขึ้น เราเป็นห่วงมันมากเกินไปจนเราเครียด ไม่สามารถหยุดได้",
+					"authorDisplayName": "@hyuna_pm",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/o8JzIEkq-nFDcq6hcpaMdEXIG-y8RNCdCnl7S6lkQCLbA0oy_cRoxs0ucgu8I8FWIqZxT0kT-g=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCs3Tc1jpDvsvJJ1gHH11LvA",
+					"authorChannelId": {
+						"value": "UCs3Tc1jpDvsvJJ1gHH11LvA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-11-14T03:11:08Z",
+					"updatedAt": "2022-11-14T03:11:08Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "BCj6QAN8qb-7AjkmicwxWk8GMf0",
+					"id": "Ugw9T37Vn6zDWHLvm_14AaABAg.9iOkvWXN4s19iPIOfahH0I",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "Ugw9T37Vn6zDWHLvm_14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-11-14T08:12:21Z",
+						"updatedAt": "2022-11-14T08:12:21Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "xe6tQ1rgO5eKfzlHu_703Y6kO5s",
+		"id": "UgzhvKb-GGjJWkm9wXN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "MMsofbwv8klHkKJ3HzH9AuoTFqo",
+				"id": "UgzhvKb-GGjJWkm9wXN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "ช่วยได้จริงๆค่ะ จากที่คิดว่าไม่มีใครเคียงข้างเรา ในวันที่แย่ เเราแค่หันมาข้างๆ น้องแมวก็ยุ่ ข้างๆตัวเราตลอดเวลา เดินไปมุมไหนก็ตามเราตลอดเวลา เราระบายความรู้สึกออกไป ก็ยังมีแมวมานั่งฟังเราน้ะ กอดได้หอมได้ โดยไม่ปฏิเสธเรา เหมือนกับคน ลดความเครียดได้จากสภาสะภายนอกที่เราพยเจอมา แต่แมวไม่คิดร้ายกับเรา มาคลอเคลีย ให้เรารู้สึกผ่อนคลายได้",
+					"textOriginal": "ช่วยได้จริงๆค่ะ จากที่คิดว่าไม่มีใครเคียงข้างเรา ในวันที่แย่ เเราแค่หันมาข้างๆ น้องแมวก็ยุ่ ข้างๆตัวเราตลอดเวลา เดินไปมุมไหนก็ตามเราตลอดเวลา เราระบายความรู้สึกออกไป ก็ยังมีแมวมานั่งฟังเราน้ะ กอดได้หอมได้ โดยไม่ปฏิเสธเรา เหมือนกับคน ลดความเครียดได้จากสภาสะภายนอกที่เราพยเจอมา แต่แมวไม่คิดร้ายกับเรา มาคลอเคลีย ให้เรารู้สึกผ่อนคลายได้",
+					"authorDisplayName": "@wonderja146",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSEZTXsUenSreoegC0OVjCUg2gMplWBeRG4ofrHTg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UChYYaamUaaoOXcV3kfKtuJQ",
+					"authorChannelId": {
+						"value": "UChYYaamUaaoOXcV3kfKtuJQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-09-22T08:07:17Z",
+					"updatedAt": "2022-09-22T08:07:17Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "cgJlRjuzMWwgVr8ceFvA7l94hxM",
+					"id": "UgzhvKb-GGjJWkm9wXN4AaABAg.9gGogA0wyJb9gItnc0lQLG",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "❤❤❤",
+						"textOriginal": "❤❤❤",
+						"parentId": "UgzhvKb-GGjJWkm9wXN4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-09-23T03:30:28Z",
+						"updatedAt": "2022-09-23T03:30:28Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "0XqExa1q9HkRyYdBV6wWvPTSA28",
+		"id": "Ugw4VvEXdEILldZpUj54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "UcpdoHV-oXZlHLUZMtk831X1MAg",
+				"id": "Ugw4VvEXdEILldZpUj54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "พึ้งเป็นเมื่อคืนเลยค่ะ นั่งร้องไห้แล้วน้องหมาที่เลี้ยงก็มองหน้าเราพอเขาได้ยินเสียงเราร้องไห้ เขาก็ลุกมาหาเราเลย เอาหัวมาถูๆมุดๆเรา ทำให้รู้สึกดีมากๆเลยค่ะ เจ้าเต้าหู้",
+					"textOriginal": "พึ้งเป็นเมื่อคืนเลยค่ะ นั่งร้องไห้แล้วน้องหมาที่เลี้ยงก็มองหน้าเราพอเขาได้ยินเสียงเราร้องไห้ เขาก็ลุกมาหาเราเลย เอาหัวมาถูๆมุดๆเรา ทำให้รู้สึกดีมากๆเลยค่ะ เจ้าเต้าหู้",
+					"authorDisplayName": "@aopaop836",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRrnn557VnjvKPfTnLwT7o3Xr2cJ8lMR8wpHycG2MA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCsO5pxcKgjB97SWa8eG9sJw",
+					"authorChannelId": {
+						"value": "UCsO5pxcKgjB97SWa8eG9sJw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-06-03T10:38:09Z",
+					"updatedAt": "2022-06-03T10:38:09Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "6r9HO62vwoHRkIPG-71Fd9ogj8Y",
+					"id": "Ugw4VvEXdEILldZpUj54AaABAg.9boGi1RU5_G9bvCB-gAtZi",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "❤❤❤",
+						"textOriginal": "❤❤❤",
+						"parentId": "Ugw4VvEXdEILldZpUj54AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-06-06T03:13:14Z",
+						"updatedAt": "2022-06-06T03:13:14Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "R0eUAYtmP-2oKNISkjJPDGFkVqA",
+		"id": "UgzLAn497E4oeteQh3p4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Q5-nsxXgd-WYgaA0AnPuHb3F7lI",
+				"id": "UgzLAn497E4oeteQh3p4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "เวลาฉันเศร้าธรรมชาติไม่มีใครอยากฟังปัญหาใครและน้องหมาน้องแมวเขาเยียวยาใจได้มีที่เวลาฉัยนั่งคอตกร้องให้เขาเอาขาหน้ามาแตะขาและเลียที่หน้าส่วนน้องแมวเขาจะเอาขาหน้ามาแตะขาค่ะเหมือนอยากให้ฉันมองเขาหน่อยความรักแบบนี้มันบริสุทธิ์นะคะ..และถ้าน้องแมวเขามีมารยาทถ้าฉันบอกอย่าเข้ามานะเวลานอนเขาจะไม่เข้าเขาเข้าใจ",
+					"textOriginal": "เวลาฉันเศร้าธรรมชาติไม่มีใครอยากฟังปัญหาใครและน้องหมาน้องแมวเขาเยียวยาใจได้มีที่เวลาฉัยนั่งคอตกร้องให้เขาเอาขาหน้ามาแตะขาและเลียที่หน้าส่วนน้องแมวเขาจะเอาขาหน้ามาแตะขาค่ะเหมือนอยากให้ฉันมองเขาหน่อยความรักแบบนี้มันบริสุทธิ์นะคะ..และถ้าน้องแมวเขามีมารยาทถ้าฉันบอกอย่าเข้ามานะเวลานอนเขาจะไม่เข้าเขาเข้าใจ",
+					"authorDisplayName": "@user-el7ec2no3d",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/QWfSiP4uvzVjz3cbq9A3AXTdzIiFo36h4rLyKOLfxAKO136pnCZTh3GoQLpXBDLpXiNfYdqi=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCF_Ifozx2RejLWnsuiDcmOw",
+					"authorChannelId": {
+						"value": "UCF_Ifozx2RejLWnsuiDcmOw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-05-13T05:11:21Z",
+					"updatedAt": "2022-05-13T05:14:02Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "kIdyJbW7s-8X9LQweTWvzOsufRI",
+					"id": "UgzLAn497E4oeteQh3p4AaABAg.9axbc6WGidm9axduxfwmEM",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "UgzLAn497E4oeteQh3p4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-05-13T05:31:24Z",
+						"updatedAt": "2022-05-13T05:31:24Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "Sdp2cccZGB2AaLj6OJrT_YCYkqA",
+					"id": "UgzLAn497E4oeteQh3p4AaABAg.9axbc6WGidm9axe8vESpjp",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "@@alljit2899 ปัญหาโลกแตกคะแอดแก้ยาก...พยายามอยู่ขอบคุณมากนะคะ🙂",
+						"textOriginal": "@@alljit2899 ปัญหาโลกแตกคะแอดแก้ยาก...พยายามอยู่ขอบคุณมากนะคะ🙂",
+						"parentId": "UgzLAn497E4oeteQh3p4AaABAg",
+						"authorDisplayName": "@user-el7ec2no3d",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/QWfSiP4uvzVjz3cbq9A3AXTdzIiFo36h4rLyKOLfxAKO136pnCZTh3GoQLpXBDLpXiNfYdqi=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCF_Ifozx2RejLWnsuiDcmOw",
+						"authorChannelId": {
+							"value": "UCF_Ifozx2RejLWnsuiDcmOw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-13T05:33:27Z",
+						"updatedAt": "2022-05-13T07:55:58Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "PJ-Bj8SWYGQPDjuv9bozQNc6mlc",
+		"id": "UgxO6nuFXUkonmNId1N4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "lzkUEi5JSBgh8ifketMDcJCODeg",
+				"id": "UgxO6nuFXUkonmNId1N4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "น้องช่วยได้จริงๆค่ะ แลเวแต่นิสัยแมวแต่ละตัวด้วย แมวตัวที่เคยเลี้ยงมาคอยเป็นห่วงเดินตาม ไม่ว่าจะทำอะไรน้องจะตามตลอดคอยนั่งเฝ้า เราออกไปข้างนอกก็รอเรากลับบ้านวิ่งมาหาเมื่อเจอเรา ตอนเรานั่งร้องไห้น้องจะร้องแล้วปีนเอามือทาบตรงอกแล้วจุ๊บที่แก้มเรา น้องจะทำแบบนี้ทุกครั้งที่เราร้องไห้ค่ะ น้องเป็นเหมือนคนในครอบครัวที่คอยเป็นห่วงเรามากๆ ในตลอดเวลาจากที่เค้าแสดงออกกับเรา เป็นห่วงเรามากกว่าคนในครอบครัวอีก😅 ตอนนี้น้องตายไป15ปีแล้วเราไม่เคยลืมเค้าเลย นิสัยแบบนี้ส่วนใหญ่จะเจอจากแมวไทยธรรมดาทั่วไป ปัจจุบันเลี้ยงแมวพันธ์ดื้อมากไม่ยอมให้อุ้มเลย แตกต่างกันมากค่ะ",
+					"textOriginal": "น้องช่วยได้จริงๆค่ะ แลเวแต่นิสัยแมวแต่ละตัวด้วย แมวตัวที่เคยเลี้ยงมาคอยเป็นห่วงเดินตาม ไม่ว่าจะทำอะไรน้องจะตามตลอดคอยนั่งเฝ้า เราออกไปข้างนอกก็รอเรากลับบ้านวิ่งมาหาเมื่อเจอเรา ตอนเรานั่งร้องไห้น้องจะร้องแล้วปีนเอามือทาบตรงอกแล้วจุ๊บที่แก้มเรา น้องจะทำแบบนี้ทุกครั้งที่เราร้องไห้ค่ะ น้องเป็นเหมือนคนในครอบครัวที่คอยเป็นห่วงเรามากๆ ในตลอดเวลาจากที่เค้าแสดงออกกับเรา เป็นห่วงเรามากกว่าคนในครอบครัวอีก😅 ตอนนี้น้องตายไป15ปีแล้วเราไม่เคยลืมเค้าเลย นิสัยแบบนี้ส่วนใหญ่จะเจอจากแมวไทยธรรมดาทั่วไป ปัจจุบันเลี้ยงแมวพันธ์ดื้อมากไม่ยอมให้อุ้มเลย แตกต่างกันมากค่ะ",
+					"authorDisplayName": "@akiran.6684",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/TkDOxC_pvTqO00n2VSKNqC18sUy9BwZfmwnyP8xG7YUTiEdOl-aXzVkvNsvQtliyxKSyv24Y=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCgBrmYsssckxTX2dp2fxcNw",
+					"authorChannelId": {
+						"value": "UCgBrmYsssckxTX2dp2fxcNw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-05-10T11:00:09Z",
+					"updatedAt": "2022-05-10T11:00:09Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "LCypcMywze4JlHxMdEk9eqoNLlw",
+		"id": "UgyOIV2lFvrPj2c2qJd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "0JCcDYTxGNDg7-xH8XNMl0Ajo9I",
+				"id": "UgyOIV2lFvrPj2c2qJd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "อยากได้แนวทางหรือวิธีการมูฟออนจากปมในอดีต จะใช้ชีวิตอยู่กับมันอย่างไร และจะรับมืออย่างไรถ้าต้องเผชิญกับมันอีกครั้ง (เช่น ปมครอบครัวค่ะ)",
+					"textOriginal": "อยากได้แนวทางหรือวิธีการมูฟออนจากปมในอดีต จะใช้ชีวิตอยู่กับมันอย่างไร และจะรับมืออย่างไรถ้าต้องเผชิญกับมันอีกครั้ง (เช่น ปมครอบครัวค่ะ)",
+					"authorDisplayName": "@BlueMoonVRYNY",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQ5q9I3QyWSe6MzhyYACbLt7clCeNcXYOgIV2jt=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCswJbrW1Bg_VRWv_D8ePIPw",
+					"authorChannelId": {
+						"value": "UCswJbrW1Bg_VRWv_D8ePIPw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 9,
+					"publishedAt": "2022-05-09T17:23:29Z",
+					"updatedAt": "2022-05-09T17:23:29Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "PaHdQWEkuImyUXeZohYitd0A6Hc",
+					"id": "UgyOIV2lFvrPj2c2qJd4AaABAg.9aocDwaasRx9aph_tVaZB6",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "แอดคิดว่าหากเราอยากจะมูฟออนจากเรื่องในอดีตและอยากเผชิญหน้ากับเรื่องนั้นให้ได้อีก เราเองอาจจะต้องเปิดใจยอมรับในสิ่งที่เป็นไป ทำความเข้าใจกับเรื่องนั้นและมองดูเหตุผล ดูสาเหตุที่มาที่ไปมองหาข้อดีของเรื่องนั้นๆ เรียนรู้ว่าเรากำลังคิดและรู้สึกยังไงและมีวิธีจัดการกับความรู้สึกตัวเอง ทบทวนกับตัวเองว่าอะไรที่ช่วยให้รู้สึกดีขึ้นเมื่อเจอกับเรื่องแย่ๆ หาพลังบวกและเซฟโซนให้กับตัวเองและให้กำลังใจตัวเองในทุกๆวันนะคะ แอดเป็นกำลังใจให้นะคะ❤",
+						"textOriginal": "แอดคิดว่าหากเราอยากจะมูฟออนจากเรื่องในอดีตและอยากเผชิญหน้ากับเรื่องนั้นให้ได้อีก เราเองอาจจะต้องเปิดใจยอมรับในสิ่งที่เป็นไป ทำความเข้าใจกับเรื่องนั้นและมองดูเหตุผล ดูสาเหตุที่มาที่ไปมองหาข้อดีของเรื่องนั้นๆ เรียนรู้ว่าเรากำลังคิดและรู้สึกยังไงและมีวิธีจัดการกับความรู้สึกตัวเอง ทบทวนกับตัวเองว่าอะไรที่ช่วยให้รู้สึกดีขึ้นเมื่อเจอกับเรื่องแย่ๆ หาพลังบวกและเซฟโซนให้กับตัวเองและให้กำลังใจตัวเองในทุกๆวันนะคะ แอดเป็นกำลังใจให้นะคะ❤",
+						"parentId": "UgyOIV2lFvrPj2c2qJd4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-05-10T03:29:33Z",
+						"updatedAt": "2022-05-10T03:29:33Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "WFFqQ3KQ0kupMftEDVWb2do0aI4",
+		"id": "Ugw5Sz6gVVXSg4kheIl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "-rrYXAP5Xyk",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "fiN2X_sGOmsE-HHbmOl5dL9BPzE",
+				"id": "Ugw5Sz6gVVXSg4kheIl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "-rrYXAP5Xyk",
+					"textDisplay": "ได้จริงนะ  แล้วเหมือนนางรู้ว่าเราแย่  นางจะเดินเข้าหา นิ่งให้กอด ทัังที่จริงๆซนอย่างกะลิง<br>  สำคัญคือตอนดาวน์สุดๆ คิดจะไป  แต่พอคิดว่าใครจะดูหมาแมว คือ ตายไม่ได้จริงๆ",
+					"textOriginal": "ได้จริงนะ  แล้วเหมือนนางรู้ว่าเราแย่  นางจะเดินเข้าหา นิ่งให้กอด ทัังที่จริงๆซนอย่างกะลิง\n  สำคัญคือตอนดาวน์สุดๆ คิดจะไป  แต่พอคิดว่าใครจะดูหมาแมว คือ ตายไม่ได้จริงๆ",
+					"authorDisplayName": "@mamphyz_th1211",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRCijxBTqFeOARGXBPL6oLrGupuUs16XnBz9u9o=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCSSMBD0ckIAX6_1iofYps_Q",
+					"authorChannelId": {
+						"value": "UCSSMBD0ckIAX6_1iofYps_Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 11,
+					"publishedAt": "2022-05-09T13:02:35Z",
+					"updatedAt": "2022-05-09T13:02:35Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "6RdmzbfOyZ-wVVmst7O4biyAOLo",
+					"id": "Ugw5Sz6gVVXSg4kheIl4AaABAg.9ao9N-qleC79aphpHL6OvI",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "-rrYXAP5Xyk",
+						"textDisplay": "❤❤",
+						"textOriginal": "❤❤",
+						"parentId": "Ugw5Sz6gVVXSg4kheIl4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-10T03:31:39Z",
+						"updatedAt": "2022-05-10T03:31:39Z"
+					}
+				}
+			]
+		}
+	}
+]

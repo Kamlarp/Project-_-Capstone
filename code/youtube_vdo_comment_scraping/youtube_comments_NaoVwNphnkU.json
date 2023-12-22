@@ -1,0 +1,36 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "yIbf_5krxGXm6Lv8XLomx1EI9pw",
+		"id": "Ugw7sZe-GkKmAieNj4x4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "NaoVwNphnkU",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "SwoNr937Mp7grw-lDyBrKU7uvnU",
+				"id": "Ugw7sZe-GkKmAieNj4x4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "NaoVwNphnkU",
+					"textDisplay": "ถูกต้องเลยค่ะ",
+					"textOriginal": "ถูกต้องเลยค่ะ",
+					"authorDisplayName": "@tinkerbellkatzy970",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQEEcaED2pwpa5QdgUADCqf_Ic7pE_auEdc9j3_FA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCFTTYxWNz8qdSuKyHmqgWgQ",
+					"authorChannelId": {
+						"value": "UCFTTYxWNz8qdSuKyHmqgWgQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-07-25T16:22:21Z",
+					"updatedAt": "2022-07-25T16:22:21Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

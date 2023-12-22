@@ -1,0 +1,104 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "160GpW6ToTc4tkrmGPCAawha86w",
+		"id": "Ugw4gWSzG2Nwa72o73V4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "5sAtjk8kBSY",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "37IRTD1LhQd89lj5HI01AHRSIQ0",
+				"id": "Ugw4gWSzG2Nwa72o73V4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "5sAtjk8kBSY",
+					"textDisplay": "รอ ep.11 ครับ",
+					"textOriginal": "รอ ep.11 ครับ",
+					"authorDisplayName": "@thankyoumisterp1eng375",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/UKM9V-oyW9L4gkDD-Utl0-s3AOwPFEFgKvdvsuuZTRlhjo5ClGLjA3_IIWWH-c4keWFWms_D7A=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCYOtnNhk7uz5cXFoK1duokA",
+					"authorChannelId": {
+						"value": "UCYOtnNhk7uz5cXFoK1duokA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-10-18T14:15:47Z",
+					"updatedAt": "2022-10-18T14:15:47Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "p4I5uSKhnWGGKi101Mxh1vDovOE",
+		"id": "Ugz6JU2CRsWtVjrobcF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "5sAtjk8kBSY",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "A2oARcPUUN92pEp7Hbu_538lVas",
+				"id": "Ugz6JU2CRsWtVjrobcF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "5sAtjk8kBSY",
+					"textDisplay": "2222",
+					"textOriginal": "2222",
+					"authorDisplayName": "@twosmoke7210",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/4C-cdf1Zlklichgh7wBbzOwRpdonE8oxdqgtHaEq5OKKVSJ5NtvEA8vxJi-g79Hde6p8h4lP=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCnE9TIMofxQqWSTrrOdzRKA",
+					"authorChannelId": {
+						"value": "UCnE9TIMofxQqWSTrrOdzRKA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-01-10T14:31:19Z",
+					"updatedAt": "2022-01-10T14:31:19Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "aZpQ1afiRAPMBen4ZUOUEzMaY3A",
+		"id": "Ugx68zJwKJX72fPCf2x4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "5sAtjk8kBSY",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "B02pAlZ-wFxiHMq12EbSZcSHiKs",
+				"id": "Ugx68zJwKJX72fPCf2x4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "5sAtjk8kBSY",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-01-10T13:08:53Z",
+					"updatedAt": "2022-01-10T13:08:53Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]

@@ -1,0 +1,436 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "OKAommWdxTNPO8UkZ9yEvuUIR8Q",
+		"id": "Ugw6GNNCQpOG4wXbOgd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "1zIeQcjZsNJO9KtyX672JXHQbQA",
+				"id": "Ugw6GNNCQpOG4wXbOgd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r<br>บนแอปพลิเคชั่นออลล์จิต Alljit\r<br>\r<br>ดาวน์โหลดของ IOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>\r<br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "พูดความในใจ ระบายกับเราได้ฟรี 💓\r\nบนแอปพลิเคชั่นออลล์จิต Alljit\r\n\r\nดาวน์โหลดของ IOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\n\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2021-07-28T09:44:13Z",
+					"updatedAt": "2021-07-28T09:44:13Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "o_EWGz9SyGK3iIPDvoliFfNegUs",
+		"id": "UgwhQOIOOpWQ9WdzMp54AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "wcVV8YaiVkOyx1c7B4y4fB3aHF8",
+				"id": "UgwhQOIOOpWQ9WdzMp54AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "สามีชอบพูดเซ้าซี้พอเราบอกไห้เงียบเข้าก็ไม่เงียบทำไห้เราโมโหแล้วทำร้ายข้าวของทั้งทีเราก็เคยบอกเข้าแล้วถ้าเราหงุดหงิดไม่ต้องถามต้องพูดแต่เข้าชอบถามชอบพูดชำ้ๆทำไห้เราโมโหแล้วควบคุมอารฌ์ไม่ใด้",
+					"textOriginal": "สามีชอบพูดเซ้าซี้พอเราบอกไห้เงียบเข้าก็ไม่เงียบทำไห้เราโมโหแล้วทำร้ายข้าวของทั้งทีเราก็เคยบอกเข้าแล้วถ้าเราหงุดหงิดไม่ต้องถามต้องพูดแต่เข้าชอบถามชอบพูดชำ้ๆทำไห้เราโมโหแล้วควบคุมอารฌ์ไม่ใด้",
+					"authorDisplayName": "@user-oe4qd4fj3f",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTiyPpfwezxtl85jeVnPuQtsV_1l77lPjo5ewulZlMxCDrVJIzLebzcVExEqiya=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC1NM8Af4QyToMtssKpohPfg",
+					"authorChannelId": {
+						"value": "UC1NM8Af4QyToMtssKpohPfg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-07-15T06:19:15Z",
+					"updatedAt": "2023-07-15T06:19:15Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "agNlIkB_gwV4T0Dayav-1ezb5FQ",
+					"id": "UgwhQOIOOpWQ9WdzMp54AaABAg.9sAnbrDix5B9sBvFMPcg6K",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Eyhl2dxeCmQ",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ💙",
+						"parentId": "UgwhQOIOOpWQ9WdzMp54AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-07-15T16:45:11Z",
+						"updatedAt": "2023-07-15T16:45:11Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "qorFa8wd1i3sI99BDjADzNdhmTI",
+		"id": "Ugz-msgeNxbiGZ_njIJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "8IAhxYopseoLF6xk271joufIUnE",
+				"id": "Ugz-msgeNxbiGZ_njIJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "ขอบคุณครับ",
+					"textOriginal": "ขอบคุณครับ",
+					"authorDisplayName": "@Aem_88",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSGHcHDceDumNFoKq-txbR5dJiclKQFhe3rW_qBJajW3Iq3faioCFrfzuIxvMbd=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC84I4ZAvX0LjnovDAOfmoJA",
+					"authorChannelId": {
+						"value": "UC84I4ZAvX0LjnovDAOfmoJA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2023-03-18T12:00:18Z",
+					"updatedAt": "2023-03-18T12:00:18Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "vjObg9TEMPRzNYofKONMBK69BY8",
+		"id": "UgxVmyUp-nU67HUyLUp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "5vRFj5AOALzgDnqjO3g6RDQgo3M",
+				"id": "UgxVmyUp-nU67HUyLUp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "ผมก็เป็น โมโหง่าย หงุดหงิดง่าย อารมณ์เสีย ใครพูดไม่เข้าหู ปากคืตอบโต ทันที ผมให้คำแนะนำคนอื่น แต่ตัวเองไม่สามารถควบคุมอารมณ์ได้เลย",
+					"textOriginal": "ผมก็เป็น โมโหง่าย หงุดหงิดง่าย อารมณ์เสีย ใครพูดไม่เข้าหู ปากคืตอบโต ทันที ผมให้คำแนะนำคนอื่น แต่ตัวเองไม่สามารถควบคุมอารมณ์ได้เลย",
+					"authorDisplayName": "@mindphakinchannel4520",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSh2743OqWox-P7NJt-PMdisQYfAqoIHDejCW9WFlM=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCPoRp9YxqZhpax4zZSwZXfA",
+					"authorChannelId": {
+						"value": "UCPoRp9YxqZhpax4zZSwZXfA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-07T02:39:37Z",
+					"updatedAt": "2022-08-07T02:39:37Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "tOTc4DBVj_O2a2ICntCrMn17rHs",
+					"id": "UgxVmyUp-nU67HUyLUp4AaABAg.9ePmc2fs-Ho9eS_ZeYcGXB",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Eyhl2dxeCmQ",
+						"textDisplay": "แอดแนะนำว่าเวลาที่มีคนพูดไม่เข้าหูหรือไม่ถูกใจให้หยุดและหายใจเข้าลึก ๆ ก่อนที่จะตอบกลับ ช ส่วนในเรื่องของอารมณ์ค่อย ๆ ปรับนะคะ หายใจเข้าลึก ๆ อยู่กับตัวเองหรืออาจะเดินหนีเพื่อหลีกเลี่ยงการปะทะ ฝึกทีละนิดละหน่อยอาจจะช่วยได้ค่ะ หากยิ่งเป็ฯคนใกล้ตัวเองบางคำพูดอาจจะทำให้ร้ายคนฟังและทำให้เป็นบาดแผลภายในจิตใจของเขาได้เลยค่ะ แอดเป็นกำลังใจให้นะคะ🤍",
+						"textOriginal": "แอดแนะนำว่าเวลาที่มีคนพูดไม่เข้าหูหรือไม่ถูกใจให้หยุดและหายใจเข้าลึก ๆ ก่อนที่จะตอบกลับ ช ส่วนในเรื่องของอารมณ์ค่อย ๆ ปรับนะคะ หายใจเข้าลึก ๆ อยู่กับตัวเองหรืออาจะเดินหนีเพื่อหลีกเลี่ยงการปะทะ ฝึกทีละนิดละหน่อยอาจจะช่วยได้ค่ะ หากยิ่งเป็ฯคนใกล้ตัวเองบางคำพูดอาจจะทำให้ร้ายคนฟังและทำให้เป็นบาดแผลภายในจิตใจของเขาได้เลยค่ะ แอดเป็นกำลังใจให้นะคะ🤍",
+						"parentId": "UgxVmyUp-nU67HUyLUp4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-08T04:43:17Z",
+						"updatedAt": "2022-08-08T04:43:17Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "nBKVFG8Km4qgaNjnm49F1Z6Ds9Y",
+		"id": "UgwIbNMjWBEQcTI-XfN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "WMjmLQes2qr-M8eqJrHsN_XZAwg",
+				"id": "UgwIbNMjWBEQcTI-XfN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "คือแม่ใช้อะไรนิดหน่อยก็หัวร้อนแล้วอ่ะหัวร้อนง่ายมากแทบจะคุมตัวเองไม่ได้แล้ว",
+					"textOriginal": "คือแม่ใช้อะไรนิดหน่อยก็หัวร้อนแล้วอ่ะหัวร้อนง่ายมากแทบจะคุมตัวเองไม่ได้แล้ว",
+					"authorDisplayName": "@cashbianshanal1814",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/z8TzspF17f8m6Kpwj9HAKIX25JkbWzwsIBoYDU8Emktj7Rpa6KG6uQeGbSK3r6CD3J8rO42XLA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCe32GOcoCXQeqLjZ9nuR0ug",
+					"authorChannelId": {
+						"value": "UCe32GOcoCXQeqLjZ9nuR0ug"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-06-22T10:40:33Z",
+					"updatedAt": "2022-06-22T10:40:33Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "BBZWv5my8vFtrD3dg5tWQ33SatI",
+					"id": "UgwIbNMjWBEQcTI-XfN4AaABAg.9c_C5EVA_7c9clUzhJq_V1",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Eyhl2dxeCmQ",
+						"textDisplay": "ลองค่อยๆฝึกทำสมาธิ กำหนดลมหายใจเข้าออก และนับ1-10ในใจ เพื่อให้ความคิดความรู้สึกของเราช้าลงและเย็นลงนะคะ แรกๆอาจจะยังทำได้ยากแต่ถ้าหากฝึกบ่อยๆแอดคิดว่าอาจจะช่วยให้ความใจร้อนหัวร้อนต่างๆดีขึ้นน้า",
+						"textOriginal": "ลองค่อยๆฝึกทำสมาธิ กำหนดลมหายใจเข้าออก และนับ1-10ในใจ เพื่อให้ความคิดความรู้สึกของเราช้าลงและเย็นลงนะคะ แรกๆอาจจะยังทำได้ยากแต่ถ้าหากฝึกบ่อยๆแอดคิดว่าอาจจะช่วยให้ความใจร้อนหัวร้อนต่างๆดีขึ้นน้า",
+						"parentId": "UgwIbNMjWBEQcTI-XfN4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-06-27T05:16:34Z",
+						"updatedAt": "2022-06-27T05:16:34Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "AXnTpdHhh7rX4wL5hun2TxHMUVc",
+		"id": "UgxT_4s0SB1eL_CKI0Z4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "jt__NDagrxs8pHgFiaW5MS8KDZo",
+				"id": "UgxT_4s0SB1eL_CKI0Z4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "ถ้าคุยกับเพื่อนคนนึงทีไรหงุดหงิดทุกที ทำไงดีคะ เขามักจะพูดไม่เข้าใจแล้วเรารู้สึกโดนยั่วโมโหทุกที",
+					"textOriginal": "ถ้าคุยกับเพื่อนคนนึงทีไรหงุดหงิดทุกที ทำไงดีคะ เขามักจะพูดไม่เข้าใจแล้วเรารู้สึกโดนยั่วโมโหทุกที",
+					"authorDisplayName": "@pawlyly",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/TQWPnWOSzFjXJaWGMt1iaNe_8V2qLXo7oXNLAksk8KH0CBV_XbTvikPZaBRVNY8SdzmHYDvviA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCIYurSpoyiv3stCt_Unjipg",
+					"authorChannelId": {
+						"value": "UCIYurSpoyiv3stCt_Unjipg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-02-11T11:30:23Z",
+					"updatedAt": "2022-02-11T11:30:23Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "yyTf1xm6aRwegy6EDOxpt56Cx9A",
+					"id": "UgxT_4s0SB1eL_CKI0Z4AaABAg.9YIyeXtuA9H9YQPBplpoc5",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Eyhl2dxeCmQ",
+						"textDisplay": "เราต้องลองหาสาเหตุว่าทำไมเราถึงหงุดหงิดกับเพื่อนคนนี้ แล้วเพื่อนคนนี้เป็นแค่เฉพาะกับเราไหม คนอื่นๆที่คุยกับเพื่อนคนนี้เป็นแบบเราหรือเปล่า ถ้าเราหาสาเหตุเจอเราอาจจะเจอคำตอบว่าเป็นเพราะอะไร และถ้ามันแก้ไม่ได้จนเกิดความ toxic กับตัวเราการห่างออกมาจากสิ่งที่รบกวนใจของเราก็ไม่ใช่เรื่องที่แย่นะคะ 🤍",
+						"textOriginal": "เราต้องลองหาสาเหตุว่าทำไมเราถึงหงุดหงิดกับเพื่อนคนนี้ แล้วเพื่อนคนนี้เป็นแค่เฉพาะกับเราไหม คนอื่นๆที่คุยกับเพื่อนคนนี้เป็นแบบเราหรือเปล่า ถ้าเราหาสาเหตุเจอเราอาจจะเจอคำตอบว่าเป็นเพราะอะไร และถ้ามันแก้ไม่ได้จนเกิดความ toxic กับตัวเราการห่างออกมาจากสิ่งที่รบกวนใจของเราก็ไม่ใช่เรื่องที่แย่นะคะ 🤍",
+						"parentId": "UgxT_4s0SB1eL_CKI0Z4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-02-14T08:45:40Z",
+						"updatedAt": "2022-02-14T08:45:40Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "28WXhf65fLPXnLWv0pyYglT4pOg",
+		"id": "UgwhIu_5mff--m1Vna94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "YUF6o6g3ND2vPPPfyMC__7ad0Ks",
+				"id": "UgwhIu_5mff--m1Vna94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "ขอบคุณสำหรับข้อมูลนะคะ ของเราเป็นแบบที่1 ที่ไม่แสดงค่ะ แต่เวลาโกรธ/เสียใจ แล้วมักจะรู้สึกปวดหัวตื้อๆ หมดแรง คิดอะไรไม่ออก แล่นมา พยายามหาทำอย่างอื่นที่สงบใจ แต่ไม่ค่อยหายหัวอื้อเลยค่ะ ต้องพักเกือบวันเลยค่ะ มีวิธีแก้ไหมคะ",
+					"textOriginal": "ขอบคุณสำหรับข้อมูลนะคะ ของเราเป็นแบบที่1 ที่ไม่แสดงค่ะ แต่เวลาโกรธ/เสียใจ แล้วมักจะรู้สึกปวดหัวตื้อๆ หมดแรง คิดอะไรไม่ออก แล่นมา พยายามหาทำอย่างอื่นที่สงบใจ แต่ไม่ค่อยหายหัวอื้อเลยค่ะ ต้องพักเกือบวันเลยค่ะ มีวิธีแก้ไหมคะ",
+					"authorDisplayName": "@BlackWhite-rm9cc",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/slgj2F7zgELAHJN8TE2Q5_I07fUrEqvG4ZI3U0QK17t240OuYFHpstz2m5gMQkcWCvhtpZ23qg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCvrBrATRhmzLPEoX9A_TyxQ",
+					"authorChannelId": {
+						"value": "UCvrBrATRhmzLPEoX9A_TyxQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-01-20T08:33:08Z",
+					"updatedAt": "2022-01-20T08:34:55Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "nzop_bu4S4WWSENs-Ouf_d0L_KQ",
+					"id": "UgwhIu_5mff--m1Vna94AaABAg.9XQ-t6Rho__9XSC70HCMHP",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Eyhl2dxeCmQ",
+						"textDisplay": "หากส่งผลกระทบต่อร่างกายแอดแนะนำให้ปรึกษาคุณหมอเพื่อวินิจฉัยและรักษาอย่างตรงจุดและถูกวิธีนะคะ❤",
+						"textOriginal": "หากส่งผลกระทบต่อร่างกายแอดแนะนำให้ปรึกษาคุณหมอเพื่อวินิจฉัยและรักษาอย่างตรงจุดและถูกวิธีนะคะ❤",
+						"parentId": "UgwhIu_5mff--m1Vna94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-01-21T04:58:30Z",
+						"updatedAt": "2022-01-21T04:58:30Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "_sqhpUcFCpLLLJg7aVzC_uqj65g",
+		"id": "UgzWK5wQy36tS7Ly_dN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Eyhl2dxeCmQ",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "MhPb9IGxdlM4T30XZ0IRnP-W4jA",
+				"id": "UgzWK5wQy36tS7Ly_dN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Eyhl2dxeCmQ",
+					"textDisplay": "ผมเวลาโกรธ ไม่พูด หน้ายิ้ม ไม่แสดงอาการแต่ รู้สึกว่าเก็บกด อาจจะมีบางทีการกระทำเราประชดเค้า แตเหมือนรอวันระเบิดเลย ผมต้องทพไงดีเนี่ยะ",
+					"textOriginal": "ผมเวลาโกรธ ไม่พูด หน้ายิ้ม ไม่แสดงอาการแต่ รู้สึกว่าเก็บกด อาจจะมีบางทีการกระทำเราประชดเค้า แตเหมือนรอวันระเบิดเลย ผมต้องทพไงดีเนี่ยะ",
+					"authorDisplayName": "@mynameisfriend9636",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRTEDVzftpGqpuR0GYS4G6CJtlwQXk7ibe3TiH_XA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCcdnkDRfFPj_JEmDyzY9asA",
+					"authorChannelId": {
+						"value": "UCcdnkDRfFPj_JEmDyzY9asA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-11-07T13:53:05Z",
+					"updatedAt": "2021-11-07T13:53:05Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "leovEtSmklSspy14dnOBiSmlJmY",
+					"id": "UgzWK5wQy36tS7Ly_dN4AaABAg.9US1fhqADya9UTzAXj4Kcw",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Eyhl2dxeCmQ",
+						"textDisplay": "ลองถามตัวเราเองก่อนนะคะว่าการที่เราเก็บเอาไว้แล้วแสดงออกมาด้วยการประชดเราโอเคไหม การกระทำนั้นของเราส่งผลอะไรต่อความรู้สึกตัวเราเองบ้าง ค่อยๆทำความเข้าใจตระหนักรู้กับอารมณ์ความคิดของเราว่าเรารู้สึกยังไงคิดอะไรอยู่ในขณะนั้น สาเหตุมาจากอะไร อาจจะค่อยๆฝึกกำหนดลมหายใจเพื่อให้เราได้อยู่กับตัวเองให้มากที่สุด หรือเขียนระบายออกมาเพื่อให้เราได้ทบทวนตัวเองมากขึ้นนะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้ค่ะ❤",
+						"textOriginal": "ลองถามตัวเราเองก่อนนะคะว่าการที่เราเก็บเอาไว้แล้วแสดงออกมาด้วยการประชดเราโอเคไหม การกระทำนั้นของเราส่งผลอะไรต่อความรู้สึกตัวเราเองบ้าง ค่อยๆทำความเข้าใจตระหนักรู้กับอารมณ์ความคิดของเราว่าเรารู้สึกยังไงคิดอะไรอยู่ในขณะนั้น สาเหตุมาจากอะไร อาจจะค่อยๆฝึกกำหนดลมหายใจเพื่อให้เราได้อยู่กับตัวเองให้มากที่สุด หรือเขียนระบายออกมาเพื่อให้เราได้ทบทวนตัวเองมากขึ้นนะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้ค่ะ❤",
+						"parentId": "UgzWK5wQy36tS7Ly_dN4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-11-08T08:00:57Z",
+						"updatedAt": "2021-11-08T08:00:57Z"
+					}
+				}
+			]
+		}
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "4oAVcAQtbDj7kmPG_8QnQ2o3UC0",
+		"id": "UgyzsnysuZddg35elxl4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "3pipMTAxSH8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Tf_gWQ7OSkOf9aSZOWFGhhg2aWM",
+				"id": "UgyzsnysuZddg35elxl4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "3pipMTAxSH8",
+					"textDisplay": "เราเป็นอะไรก็ไม่รู้ค่ะ จู่ๆก็อยากร้องไห้โดยไม่รู้สาเหตุ มันรู้สึกแค่อยากร้องไห้ออกมาเฉยๆ พอร้องออกมา มันก็เกิดคำถามนี้ทุกครั้งที่ร้อง คือ &quot;ที่เราร้องไห้เพราะเรารู้สึกแบบนี้จริงๆ หรือ ที่เราร้อง เพียงแค่อยากให้ตัวเองร้องไห้&quot; มันเกิดคำถามแบบนี้ซ้ำๆ แต่พอเวลาผ่านไปสักพักความรู้สึกก็หายไปเอง เราคงไม่ได้เป็นซึมเศร้าหรอกค่ะ แค่อยากระบายความอึดอัดในใจที่บอกใครไปก็ไม่มีใครเข้าใจ ขอบคุณที่อ่านจนจบนะคะ 💕",
+					"textOriginal": "เราเป็นอะไรก็ไม่รู้ค่ะ จู่ๆก็อยากร้องไห้โดยไม่รู้สาเหตุ มันรู้สึกแค่อยากร้องไห้ออกมาเฉยๆ พอร้องออกมา มันก็เกิดคำถามนี้ทุกครั้งที่ร้อง คือ \"ที่เราร้องไห้เพราะเรารู้สึกแบบนี้จริงๆ หรือ ที่เราร้อง เพียงแค่อยากให้ตัวเองร้องไห้\" มันเกิดคำถามแบบนี้ซ้ำๆ แต่พอเวลาผ่านไปสักพักความรู้สึกก็หายไปเอง เราคงไม่ได้เป็นซึมเศร้าหรอกค่ะ แค่อยากระบายความอึดอัดในใจที่บอกใครไปก็ไม่มีใครเข้าใจ ขอบคุณที่อ่านจนจบนะคะ 💕",
+					"authorDisplayName": "@user-ug1ve2pw9c",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/CvkgXH1k0jtyZC6JtcMxlKK09flfv2641cQm1RF3JYeIlyKUeSRS548dUR7xyh5UqgICJ-Yl=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCzvDJrwG0Ue8aUJbnogrXXQ",
+					"authorChannelId": {
+						"value": "UCzvDJrwG0Ue8aUJbnogrXXQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 7,
+					"publishedAt": "2021-09-09T14:04:05Z",
+					"updatedAt": "2021-09-09T14:04:05Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "7CMeAL-frrpo50N1csywbj8ahAo",
+					"id": "UgyzsnysuZddg35elxl4AaABAg.9S481htDefR9SLE0VwcQ2r",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "3pipMTAxSH8",
+						"textDisplay": "กอดๆนะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอพ Alljit ได้เสมอค่ะ💙",
+						"textOriginal": "กอดๆนะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอพ Alljit ได้เสมอค่ะ💙",
+						"parentId": "UgyzsnysuZddg35elxl4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-09-16T05:23:26Z",
+						"updatedAt": "2021-09-16T05:23:26Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "XUnxlZxK8EbcL2y7nWgBDl37wFU",
+					"id": "UgyzsnysuZddg35elxl4AaABAg.9S481htDefR9SLvD37rxo2",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "3pipMTAxSH8",
+						"textDisplay": "@@alljit2899 🥰🙏😍",
+						"textOriginal": "@@alljit2899 🥰🙏😍",
+						"parentId": "UgyzsnysuZddg35elxl4AaABAg",
+						"authorDisplayName": "@user-ug1ve2pw9c",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/CvkgXH1k0jtyZC6JtcMxlKK09flfv2641cQm1RF3JYeIlyKUeSRS548dUR7xyh5UqgICJ-Yl=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCzvDJrwG0Ue8aUJbnogrXXQ",
+						"authorChannelId": {
+							"value": "UCzvDJrwG0Ue8aUJbnogrXXQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2021-09-16T11:49:38Z",
+						"updatedAt": "2021-09-16T11:49:38Z"
+					}
+				}
+			]
+		}
+	}
+]

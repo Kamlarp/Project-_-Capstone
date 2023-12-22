@@ -1,0 +1,547 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "G9HYSmAcGTAW-GtHd86qXjuc-iQ",
+		"id": "UgzOTuHj13YPR7Q1Czd4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "ZS0vF5k5YPa0ZOGC1-fNU6Hd1Oc",
+				"id": "UgzOTuHj13YPR7Q1Czd4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-05-12T13:21:57Z",
+					"updatedAt": "2022-05-12T13:21:57Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "-Kwlwy9jKqww4ctbNrhSXZ0KpbI",
+		"id": "UgxjxV8tGcVSfzGSXk94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "wRmdL_MkdFUund0rxcsod3a9AyY",
+				"id": "UgxjxV8tGcVSfzGSXk94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "ทำอย่างไร จะฝึกตัวเองให้เเข้มเเข็ง โนสน โนเคร์กับทุกเรื่อง ...   เเข็งเกร่งกับทุกอย่างที่จะเข้ามาในชีวิต",
+					"textOriginal": "ทำอย่างไร จะฝึกตัวเองให้เเข้มเเข็ง โนสน โนเคร์กับทุกเรื่อง ...   เเข็งเกร่งกับทุกอย่างที่จะเข้ามาในชีวิต",
+					"authorDisplayName": "@user-yd9mb8tk7r",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQZQ3RGzBaC1qe332cO6cJfhpVpO4vrWr5Xbbx0kA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCvQnQCBvuOYISD10jBOA8Jw",
+					"authorChannelId": {
+						"value": "UCvQnQCBvuOYISD10jBOA8Jw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-06-08T12:01:47Z",
+					"updatedAt": "2022-06-08T12:01:47Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "GzqAyhFieHwGEGPILn5xTLxnidc",
+					"id": "UgxjxV8tGcVSfzGSXk94AaABAg.9c0IFvxHELW9c1pk_OKcZg",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "สำหรับแอดคิดว่าไม่ว่าเราจะเจอกับเรื่องอะไรก็ตาม แค่เราเปิดใจยอมรับ ทำความเข้าใจกับเรื่องต่างๆที่เรากำลังเผชิญ  ฟังเสียงที่อยู่ในใจของเรามากกว่าคำพูดที่ส่งผลด้านลบจากคนอื่นๆ ให้กำลังใจตัวเองในทุกๆวัน และที่สำคัญแอดคิดว่าคนเราอาจจะไม่สามารถเข้มแข็งได้กับทุกๆเรื่อง แต่ก็ขอให้เราซื่อสัตย์กับความรู้สึกตัวเอง รู้ว่าเรารู้สึกแบบไหน คิดอะไร และถ้าหากเราอยากร้องไห้ก็ให้พื้นที่ตัวเองได้ร้องออกมา เพราะการร้องไห้ไม่ได้แปลว่าเราอ่อนแอแต่นั่นคือการระบายความรู้สึกรูปแบบนึงค่ะ❤",
+						"textOriginal": "สำหรับแอดคิดว่าไม่ว่าเราจะเจอกับเรื่องอะไรก็ตาม แค่เราเปิดใจยอมรับ ทำความเข้าใจกับเรื่องต่างๆที่เรากำลังเผชิญ  ฟังเสียงที่อยู่ในใจของเรามากกว่าคำพูดที่ส่งผลด้านลบจากคนอื่นๆ ให้กำลังใจตัวเองในทุกๆวัน และที่สำคัญแอดคิดว่าคนเราอาจจะไม่สามารถเข้มแข็งได้กับทุกๆเรื่อง แต่ก็ขอให้เราซื่อสัตย์กับความรู้สึกตัวเอง รู้ว่าเรารู้สึกแบบไหน คิดอะไร และถ้าหากเราอยากร้องไห้ก็ให้พื้นที่ตัวเองได้ร้องออกมา เพราะการร้องไห้ไม่ได้แปลว่าเราอ่อนแอแต่นั่นคือการระบายความรู้สึกรูปแบบนึงค่ะ❤",
+						"parentId": "UgxjxV8tGcVSfzGSXk94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-06-09T02:22:26Z",
+						"updatedAt": "2022-06-09T02:22:26Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "WBH1V_eWjDDQML1DOdsXYJxu60w",
+		"id": "Ugydk7L7ITwwkYu8ySV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "H-TRAvBOGQmS1mAtHRbELMDNsjw",
+				"id": "Ugydk7L7ITwwkYu8ySV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "❤️",
+					"textOriginal": "❤️",
+					"authorDisplayName": "@daniime21",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/vZ4KCRdW8euKxzCeUjCSoTSSjw80MQ11mbWYNL1EqDI86w0MJyRGS8oRqq427Nq0As7AvINDUw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC1S_SKQoVK-XzXo6uBTUV1Q",
+					"authorChannelId": {
+						"value": "UC1S_SKQoVK-XzXo6uBTUV1Q"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-05-31T00:41:56Z",
+					"updatedAt": "2022-05-31T00:41:56Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "mpUvc1S94vY631J0SFTvyibg1ZA",
+					"id": "Ugydk7L7ITwwkYu8ySV4AaABAg.9bfU5bw2pXh9bf_6GG1Hfr",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "❤❤❤",
+						"textOriginal": "❤❤❤",
+						"parentId": "Ugydk7L7ITwwkYu8ySV4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-31T01:34:27Z",
+						"updatedAt": "2022-05-31T01:34:27Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "GfpHXUjY1Be_pUkCWQ86oA8uVRs",
+		"id": "UgyHNpXC2HVCR58a5EB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "Cwxgpm7OBnNa9fkQYyJxA3F6nUw",
+				"id": "UgyHNpXC2HVCR58a5EB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "เราเป็นคนที่สอบได้ที่1มาตลอด พ่อกับแม่ไม่ต้องจ่ายค่าเทอม ตอนนี้เรียนมหาลัยก็ได้ทุนอยู่ เราอยากได้คำชมจากพ่อแม่บ้าง แต่สิ่งที่เขาพูดคือ เรียนดีเพื่ออะไร เพื่ออยากให้พ่อแม่ซื้อของให้หรอ ควรเรียนเพื่อตัวเองนะ แต่เราอยากให้เขาภูมิใจบ้าง อยากได้คำชมบ้าง แต่นี่ไม่มีเลย เขาไม่เคยชมเราเลย เวลาเจอญาติพี่น้อง เขาก็จะทักเรื่องรูปร่างหน้าตาตลอด ทำไมหัวเถิกจัง ทำไมดั้งหายไปเรื่อยๆ แล้วมันเป็นการทักต่อหน้าคนเยอะๆ เราไม่พอใจ เราอาย ก็ว่าเราว่าเขาแค่แซวเล่น อย่ามาโกรธ",
+					"textOriginal": "เราเป็นคนที่สอบได้ที่1มาตลอด พ่อกับแม่ไม่ต้องจ่ายค่าเทอม ตอนนี้เรียนมหาลัยก็ได้ทุนอยู่ เราอยากได้คำชมจากพ่อแม่บ้าง แต่สิ่งที่เขาพูดคือ เรียนดีเพื่ออะไร เพื่ออยากให้พ่อแม่ซื้อของให้หรอ ควรเรียนเพื่อตัวเองนะ แต่เราอยากให้เขาภูมิใจบ้าง อยากได้คำชมบ้าง แต่นี่ไม่มีเลย เขาไม่เคยชมเราเลย เวลาเจอญาติพี่น้อง เขาก็จะทักเรื่องรูปร่างหน้าตาตลอด ทำไมหัวเถิกจัง ทำไมดั้งหายไปเรื่อยๆ แล้วมันเป็นการทักต่อหน้าคนเยอะๆ เราไม่พอใจ เราอาย ก็ว่าเราว่าเขาแค่แซวเล่น อย่ามาโกรธ",
+					"authorDisplayName": "@thanyanutmuaneyeam6933",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSEZqlYa6Q-pjvCzZOEIktZAFh3NF3vnYCyRL4bxA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC-wYG_WXBZii4AVybpTVKfA",
+					"authorChannelId": {
+						"value": "UC-wYG_WXBZii4AVybpTVKfA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-05-13T23:36:56Z",
+					"updatedAt": "2022-05-13T23:36:56Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 2,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "ocKvjtBHQLyukgcCO9YoRh4MvKU",
+					"id": "UgyHNpXC2HVCR58a5EB4AaABAg.9aza8dVvaua9b6YStQDzaa",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "ถึงพ่อแม่จะไม่ได้พูดชื่นชมเราแต่ก็ไม่ได้หมายความว่าเขาจะไม่ภูมิใจในตัวเรานะคะ ในมุมของพ่อแม่เขาอาจจะอยากให้เราทำเพื่อตัวเอง ให้เราภูมิใจในตัวเอง ซึ่งเขาอาจจะใช้คำพูดที่ทำให้เราเข้าใจผิดหรือเสียความรู้สึก อาจจะด้วยประสบการณ์ที่หล่อหลอมมารวมถึงการถูกเลี้ยงดูมาในอดีตด้วย แต่ทั้งหมดนั่นคงเป็นเพราะความหวังดี เรากลับมาโฟกัสที่ข้อดีของเรา ชื่นชมตัวเอง และหาพลังบวกให้กับตัวเองนะคะ เราเก่งมากๆเลยค่ะ❤",
+						"textOriginal": "ถึงพ่อแม่จะไม่ได้พูดชื่นชมเราแต่ก็ไม่ได้หมายความว่าเขาจะไม่ภูมิใจในตัวเรานะคะ ในมุมของพ่อแม่เขาอาจจะอยากให้เราทำเพื่อตัวเอง ให้เราภูมิใจในตัวเอง ซึ่งเขาอาจจะใช้คำพูดที่ทำให้เราเข้าใจผิดหรือเสียความรู้สึก อาจจะด้วยประสบการณ์ที่หล่อหลอมมารวมถึงการถูกเลี้ยงดูมาในอดีตด้วย แต่ทั้งหมดนั่นคงเป็นเพราะความหวังดี เรากลับมาโฟกัสที่ข้อดีของเรา ชื่นชมตัวเอง และหาพลังบวกให้กับตัวเองนะคะ เราเก่งมากๆเลยค่ะ❤",
+						"parentId": "UgyHNpXC2HVCR58a5EB4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-17T01:47:24Z",
+						"updatedAt": "2022-05-17T01:47:24Z"
+					}
+				},
+				{
+					"kind": "youtube#comment",
+					"etag": "E0spQSovrO8Xoy341DI1TcbZydE",
+					"id": "UgyHNpXC2HVCR58a5EB4AaABAg.9aza8dVvaua9cIQsEjvYMH",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "เป็นกำลังใจให้นะ คุณโดนมาเหมือนผมทุกอย่างเลย",
+						"textOriginal": "เป็นกำลังใจให้นะ คุณโดนมาเหมือนผมทุกอย่างเลย",
+						"parentId": "UgyHNpXC2HVCR58a5EB4AaABAg",
+						"authorDisplayName": "@Nicky40107",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/_wAkhpSokkNfmTG0fqnWXIlNLEvBf9e0GsOib3aSXU9v0-SnEsw2Ppe0xYwoHCJ9Iv8vVNFFVQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCo4GGr-_0twGw3CdNAyXZJQ",
+						"authorChannelId": {
+							"value": "UCo4GGr-_0twGw3CdNAyXZJQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-06-15T13:03:23Z",
+						"updatedAt": "2022-06-15T13:03:23Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "FQYigXY2srMztNx0oDNEwyO0aj4",
+		"id": "Ugxfb1zy1uMDqJpusAZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "WxMS6Y8znAr52JuNcM4TsisKUcY",
+				"id": "Ugxfb1zy1uMDqJpusAZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "ผมว่า คนเราทุกคนมีคุณค่าในเเบบของตัวเองอยู่เเล้วครับ การที่เรากลัวความไม่เเน่นอน ผมขอบอกเลยนะว่า”อยากทำไรทำไปเลย”ถ้าทำเเล้วมันล้มเหลว เเทนที่จะด่าตัวเอง ก็ลองเปลี่ยนความคิดดูก่อนว่า”ทำไมเราถึงผิดพลาด ทำไมเราถึงล้มเหลว”เเบบนี้มันจะช่วยให้เรามีกำลังใจทำสิ่งต่างๆมากขึ้น ถ้าคุณอ่านมาถึงตรงนี้ เเล้วลองคิดตามมาตั้งแต่ต้นหรือคนที่อ่านมาถึงตรงนี้เฉยๆ ผมว่าการทำเเบบนี้มันคงดีว่าการที่เราโทษตัวเองมากๆเลย<br><br><br><br><br>ผมไม่เคยไม่เห็นคุณค่าของตัวผมเอง ถ้าข้อมูลที่ผมพิมพ์ไปมันผิดพลาดต้องขออภัยด้วยนะครับ ทั้งหมดนี้เป็นเเค่มุมมองส่วนตัวของผมนะครับ<br><br>ยังไงก็ตามขอให้โลกใบนี้ใจดีกับทุกๆคนนะครับ<br>เเละก็…<br>ชีวิตนี้มีเเค่ครั้งเดียวนะครับ",
+					"textOriginal": "ผมว่า คนเราทุกคนมีคุณค่าในเเบบของตัวเองอยู่เเล้วครับ การที่เรากลัวความไม่เเน่นอน ผมขอบอกเลยนะว่า”อยากทำไรทำไปเลย”ถ้าทำเเล้วมันล้มเหลว เเทนที่จะด่าตัวเอง ก็ลองเปลี่ยนความคิดดูก่อนว่า”ทำไมเราถึงผิดพลาด ทำไมเราถึงล้มเหลว”เเบบนี้มันจะช่วยให้เรามีกำลังใจทำสิ่งต่างๆมากขึ้น ถ้าคุณอ่านมาถึงตรงนี้ เเล้วลองคิดตามมาตั้งแต่ต้นหรือคนที่อ่านมาถึงตรงนี้เฉยๆ ผมว่าการทำเเบบนี้มันคงดีว่าการที่เราโทษตัวเองมากๆเลย\n\n\n\n\nผมไม่เคยไม่เห็นคุณค่าของตัวผมเอง ถ้าข้อมูลที่ผมพิมพ์ไปมันผิดพลาดต้องขออภัยด้วยนะครับ ทั้งหมดนี้เป็นเเค่มุมมองส่วนตัวของผมนะครับ\n\nยังไงก็ตามขอให้โลกใบนี้ใจดีกับทุกๆคนนะครับ\nเเละก็…\nชีวิตนี้มีเเค่ครั้งเดียวนะครับ",
+					"authorDisplayName": "@kimronsae4584",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSYULmstESwhH9xfvzUHWSJgIbJJV94H1jEcA=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCDtYuIZZ9OSWSMn_XkfUolw",
+					"authorChannelId": {
+						"value": "UCDtYuIZZ9OSWSMn_XkfUolw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-05-13T04:23:41Z",
+					"updatedAt": "2022-05-13T04:23:41Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "GrGNesDiXSU-Hf1eEeIshsx_ROY",
+					"id": "Ugxfb1zy1uMDqJpusAZ4AaABAg.9axX9xd2CnR9axZimz2fQX",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "❤❤❤",
+						"textOriginal": "❤❤❤",
+						"parentId": "Ugxfb1zy1uMDqJpusAZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-13T04:46:03Z",
+						"updatedAt": "2022-05-13T04:46:03Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "EDy8CF3BK-dJV2kzSs1Jtfnhan8",
+		"id": "UgxVE5pV4cjkyFAkTLV4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "cXTWUngu56m8qSclJoBXv_b-HDY",
+				"id": "UgxVE5pV4cjkyFAkTLV4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "ฉันเห็นคุณค่าตัวเอง",
+					"textOriginal": "ฉันเห็นคุณค่าตัวเอง",
+					"authorDisplayName": "@user-el7ec2no3d",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/QWfSiP4uvzVjz3cbq9A3AXTdzIiFo36h4rLyKOLfxAKO136pnCZTh3GoQLpXBDLpXiNfYdqi=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCF_Ifozx2RejLWnsuiDcmOw",
+					"authorChannelId": {
+						"value": "UCF_Ifozx2RejLWnsuiDcmOw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-05-12T03:41:35Z",
+					"updatedAt": "2022-05-12T03:41:35Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "t6nWUujxA0xAhGnTVLMwBCsa7BI",
+					"id": "UgxVE5pV4cjkyFAkTLV4AaABAg.9ausYjD5D4p9axTgl5_J2n",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "❤❤❤",
+						"textOriginal": "❤❤❤",
+						"parentId": "UgxVE5pV4cjkyFAkTLV4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-13T03:53:21Z",
+						"updatedAt": "2022-05-13T03:53:21Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "fyM3JrLtJJHWVUpEMgFH68lPMEQ",
+		"id": "UgwetrpzKswu0BpJRqx4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "TY3hKr-RCHnwqbQVnGbN4cu8Lrc",
+				"id": "UgwetrpzKswu0BpJRqx4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "อยากฟังเรื่องราวเกี่ยวกับ สภาวะ dead inside หน่อยครับ",
+					"textOriginal": "อยากฟังเรื่องราวเกี่ยวกับ สภาวะ dead inside หน่อยครับ",
+					"authorDisplayName": "@user-xr7ju3jj9p",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/SlE9yAXj-64P4scbMo8SOJf08VW2Y0K8DfRdolnuviraFm_wB7T1nZQ4PCr3Dfl-MgWy4cBI=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCxMZYpwaZtJC07AF698KlSw",
+					"authorChannelId": {
+						"value": "UCxMZYpwaZtJC07AF698KlSw"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-05-11T07:14:35Z",
+					"updatedAt": "2022-05-11T07:14:35Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "_tJLj3vj7pJgXhLyL-74aaXuHNQ",
+					"id": "UgwetrpzKswu0BpJRqx4AaABAg.9asg7trCx3V9avM8zJwdNE",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "น่าสนใจมากๆเลยค่ะ รอติดตามได้เลยนะคะ😊",
+						"textOriginal": "น่าสนใจมากๆเลยค่ะ รอติดตามได้เลยนะคะ😊",
+						"parentId": "UgwetrpzKswu0BpJRqx4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-12T08:08:57Z",
+						"updatedAt": "2022-05-12T08:08:57Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "nIXQKWP5DBsm1NZEki9sRe6VXcQ",
+		"id": "Ugye6wVgWRpfu5vvvOh4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "rLjc_hp7faa-XvpYP0iFbqSBCO8",
+				"id": "Ugye6wVgWRpfu5vvvOh4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "ลูกสวาอยู่ช่วงวัยรุ่ยโดนคุณครูต่อว่ารุนแรงทำให้แกรับไม่ได้จนเป็นชึมเศร้าและไม่อยากเจอหน้าแต่ต้องเจอในบ้างวิชาทำไงดีค่ะ",
+					"textOriginal": "ลูกสวาอยู่ช่วงวัยรุ่ยโดนคุณครูต่อว่ารุนแรงทำให้แกรับไม่ได้จนเป็นชึมเศร้าและไม่อยากเจอหน้าแต่ต้องเจอในบ้างวิชาทำไงดีค่ะ",
+					"authorDisplayName": "@louismobile6683",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTrwliNA_HGC_k4vsYq3M4L7kt4xNSZW8XSZQ=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCH6fo5oEXrzsHd0vgZYHg8w",
+					"authorChannelId": {
+						"value": "UCH6fo5oEXrzsHd0vgZYHg8w"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-05-11T03:37:41Z",
+					"updatedAt": "2022-05-11T03:37:41Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "rYjbPusN5lxvFVoq-L9KaVFAGZg",
+					"id": "Ugye6wVgWRpfu5vvvOh4AaABAg.9asIJE7SmNI9asLkpx5Iim",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "อาจจะต้องลองพูดคุยกับลูกเราดูก่อนนะคะว่าที่ครูต่อว่านั้นสาเหตุมาจากอะไร พูดคุยเรียบเรียงถึงสาเหตุที่มาที่ไปด้วยเหตุและผล หากเราคิดว่าคุณครูพูดรุนแรงเกินจนส่งผลกระทบต่อตัวลูก ทางออกที่ดีที่สุดนั้นคือการเข้าไปพูดคุยกับคุณครูด้วยเหตุผลพร้อมบอกถึงผลกระทบที่ตามมาด้วยนะคะ ❤",
+						"textOriginal": "อาจจะต้องลองพูดคุยกับลูกเราดูก่อนนะคะว่าที่ครูต่อว่านั้นสาเหตุมาจากอะไร พูดคุยเรียบเรียงถึงสาเหตุที่มาที่ไปด้วยเหตุและผล หากเราคิดว่าคุณครูพูดรุนแรงเกินจนส่งผลกระทบต่อตัวลูก ทางออกที่ดีที่สุดนั้นคือการเข้าไปพูดคุยกับคุณครูด้วยเหตุผลพร้อมบอกถึงผลกระทบที่ตามมาด้วยนะคะ ❤",
+						"parentId": "Ugye6wVgWRpfu5vvvOh4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-11T04:07:48Z",
+						"updatedAt": "2022-05-11T04:07:48Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "1WKOwLgdIIB4O4R3IU0kTKWuOhA",
+		"id": "Ugy9igv8MHJOVE-r_LZ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "ITdBxqpaKZ4",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "VpLei2vgWch1cl4HOvHBWVfCExc",
+				"id": "Ugy9igv8MHJOVE-r_LZ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "ITdBxqpaKZ4",
+					"textDisplay": "High self-esteemค่ะ แต่ก็ยังเป็นซึมเศร้า",
+					"textOriginal": "High self-esteemค่ะ แต่ก็ยังเป็นซึมเศร้า",
+					"authorDisplayName": "@TheHongxing",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/tlBMRFc-4K-vTj-cp3x760p71mGGmkbBKmETa_V1j7KDlpab68h2oynWO146MEClUblxaAmV=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCZObguFXVC4adj36IeOvSzg",
+					"authorChannelId": {
+						"value": "UCZObguFXVC4adj36IeOvSzg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-05-10T17:26:20Z",
+					"updatedAt": "2022-05-10T17:26:20Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "Aew2oMJXMLe82RJnfSVO7pPERro",
+					"id": "Ugy9igv8MHJOVE-r_LZ4AaABAg.9arCLgCDhw99asG5v96ktU",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "ITdBxqpaKZ4",
+						"textDisplay": "แอดเป็นกำลังใจให้นะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้ค่ะ❤",
+						"textOriginal": "แอดเป็นกำลังใจให้นะคะ มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้ค่ะ❤",
+						"parentId": "Ugy9igv8MHJOVE-r_LZ4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-05-11T03:18:23Z",
+						"updatedAt": "2022-05-11T03:18:23Z"
+					}
+				}
+			]
+		}
+	}
+]

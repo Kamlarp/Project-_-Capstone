@@ -1,0 +1,63 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "jo0JoFkdZctIjpQ86EDKC8bSR2M",
+		"id": "UgwzghGQxiNk7W6YyK14AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "YHhvNoov2oo",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "2jNQZSHXN8EOW4UV7dg58h4v6Pw",
+				"id": "UgwzghGQxiNk7W6YyK14AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "YHhvNoov2oo",
+					"textDisplay": "😥😥😥😥😥😥😥",
+					"textOriginal": "😥😥😥😥😥😥😥",
+					"authorDisplayName": "@ggfvg1562",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRZTDYjFGQYNGJs5sr3Tz2I2oC8_-yePrehNkJ2ktiq3AVVQduMdjDWvNzBFRfT=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCwSF2ecBrwbIlKwU41tVdTg",
+					"authorChannelId": {
+						"value": "UCwSF2ecBrwbIlKwU41tVdTg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-08-17T05:31:56Z",
+					"updatedAt": "2022-08-17T05:31:56Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "R7kxJb9_Xd1a6WChvxnai7Sw4hM",
+					"id": "UgwzghGQxiNk7W6YyK14AaABAg.9eoqHmBjhBA9ep4SOeZX12",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "YHhvNoov2oo",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ🤍",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ🤍",
+						"parentId": "UgwzghGQxiNk7W6YyK14AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-17T07:44:27Z",
+						"updatedAt": "2022-08-17T07:44:27Z"
+					}
+				}
+			]
+		}
+	}
+]

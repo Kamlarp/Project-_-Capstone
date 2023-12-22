@@ -1,0 +1,158 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "gpY_nGyIcpGQF0Wld98UXuYTblo",
+		"id": "UgwfGkZahm-_xz6cjdJ4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Hor9DZDczlg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "X-gtLX6UIoY5zBm_zTpkh_2tOGA",
+				"id": "UgwfGkZahm-_xz6cjdJ4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Hor9DZDczlg",
+					"textDisplay": "อีกคนอยู่ยังกะราชาอีกคนอยู่เหมือนทาส",
+					"textOriginal": "อีกคนอยู่ยังกะราชาอีกคนอยู่เหมือนทาส",
+					"authorDisplayName": "@Bak_kong",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/HHcYpA3Ly_6JEd7kwclKnQj5u1crFWGEsNfzl8f2ANPFaOLv3ucs2Cfsf88nrm7vkqEUGYxBdw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCpI7tKIHH6ctmOCLC3jwJiA",
+					"authorChannelId": {
+						"value": "UCpI7tKIHH6ctmOCLC3jwJiA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2022-05-20T12:28:47Z",
+					"updatedAt": "2022-05-20T12:28:47Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "M6lUxDyKiQApw14CbabPiEibPx4",
+		"id": "UgzcYcuH6GKVqPfb61J4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Hor9DZDczlg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "W3QR4h3ktap9ny-n-iCzhgN8NIA",
+				"id": "UgzcYcuH6GKVqPfb61J4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Hor9DZDczlg",
+					"textDisplay": "ผมก็เป็นนะ แต่เขาไม่ค่อยสนผมเอามากๆ แต่ยังดีมีครูเป็นที่พึ่ง",
+					"textOriginal": "ผมก็เป็นนะ แต่เขาไม่ค่อยสนผมเอามากๆ แต่ยังดีมีครูเป็นที่พึ่ง",
+					"authorDisplayName": "@theprank51",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/6IC8cc3mmzLZUBCgu5WBrldLMn-6Ta8O6sh7q8K3oh-SIwVo2KEEDJ-nTe6UJsQZYlQuW4OfLqI=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCATH-Boc-7uARCsKTktAMRg",
+					"authorChannelId": {
+						"value": "UCATH-Boc-7uARCsKTktAMRg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2021-08-07T12:18:54Z",
+					"updatedAt": "2021-08-07T12:18:54Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "As0pflhqfyXt1FE94_rwpvq0x7M",
+					"id": "UgzcYcuH6GKVqPfb61J4AaABAg.9QjylTc2FgX9QoZpiUZgEd",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Hor9DZDczlg",
+						"textDisplay": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจสามารถมาระบาย มาพูดคุยที่แอพ Alljit ได้นะคะ❤️",
+						"textOriginal": "แอดเป็นกำลังใจให้น้า มีเรื่องอะไรไม่สบายใจสามารถมาระบาย มาพูดคุยที่แอพ Alljit ได้นะคะ❤️",
+						"parentId": "UgzcYcuH6GKVqPfb61J4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-08-09T07:08:30Z",
+						"updatedAt": "2021-08-09T07:08:30Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "HjJePGfWsyOybz0iYDMHw1C1FwA",
+		"id": "UgzL4MIWXvLCiVRWXbN4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "Hor9DZDczlg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "DF4Xm8YN386VuogPYig_Yc7n1DA",
+				"id": "UgzL4MIWXvLCiVRWXbN4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "Hor9DZDczlg",
+					"textDisplay": "บางทีมันมีเส้นบางๆกันอยู่นะครับ ระหว่างอิจฉา กับการ น้อยใจ คนอื่นอาจมองเราว่าเราอิจฉาพี่ที่พ่อแม่ซื้อนุ้นนี่ สร้างบ้านอะไรให้ แต่ความรู้สึกของคนเป็นน้องแบบเรา เราคิดน้อยใจ ว่าทำไมของเราไม่มีแบบนี้นี้บ้างน้ะ เพราะคำว่าอิจฉา ต้องคิดแบบว่าไม่อยากให้เขามี อะไรแบบนี้ แต่ในมุมของการน้อยใจ เรากลับคิดว่า เราแค่อยากจะมีบ้าง เรายินดีซะด้วยซ้ำ ที่พี่เรามันมีชีวิตที่ดีขึ้น เราแค่อยากให้พ่อแม่สนใจเราแบบนั้นบ้าง แค่นั้นเอง",
+					"textOriginal": "บางทีมันมีเส้นบางๆกันอยู่นะครับ ระหว่างอิจฉา กับการ น้อยใจ คนอื่นอาจมองเราว่าเราอิจฉาพี่ที่พ่อแม่ซื้อนุ้นนี่ สร้างบ้านอะไรให้ แต่ความรู้สึกของคนเป็นน้องแบบเรา เราคิดน้อยใจ ว่าทำไมของเราไม่มีแบบนี้นี้บ้างน้ะ เพราะคำว่าอิจฉา ต้องคิดแบบว่าไม่อยากให้เขามี อะไรแบบนี้ แต่ในมุมของการน้อยใจ เรากลับคิดว่า เราแค่อยากจะมีบ้าง เรายินดีซะด้วยซ้ำ ที่พี่เรามันมีชีวิตที่ดีขึ้น เราแค่อยากให้พ่อแม่สนใจเราแบบนั้นบ้าง แค่นั้นเอง",
+					"authorDisplayName": "@bananapoppy69",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRqC4EoQGKzFSi1iy3IV4yPwb6OXNU5VLuZ6g=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCc7xIwjHPSmgIPAxLYX2MQQ",
+					"authorChannelId": {
+						"value": "UCc7xIwjHPSmgIPAxLYX2MQQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 6,
+					"publishedAt": "2021-06-29T13:49:03Z",
+					"updatedAt": "2021-06-29T13:49:03Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "JJU-Op03_-m4eVpG2KJhQoJjHaY",
+					"id": "UgzL4MIWXvLCiVRWXbN4AaABAg.9PAi4cGr6os9YVPOdvxq5L",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "Hor9DZDczlg",
+						"textDisplay": "เราก็รู้สึกแบบนี้ค่ะ ไม่ใช่อิจฉาค่ะ เพราะเราก็มีทุกอย่างได้ด้วยตัวเองแต่เราน้อยใจและเสียใจมากกว่าค่ะ เป็นความรู้สึกตั้งแต่เด็ก แต่มาชัดมากขึ้นเมื่อเราโตและมองเห็นการกระทำหลายๆอย่าง",
+						"textOriginal": "เราก็รู้สึกแบบนี้ค่ะ ไม่ใช่อิจฉาค่ะ เพราะเราก็มีทุกอย่างได้ด้วยตัวเองแต่เราน้อยใจและเสียใจมากกว่าค่ะ เป็นความรู้สึกตั้งแต่เด็ก แต่มาชัดมากขึ้นเมื่อเราโตและมองเห็นการกระทำหลายๆอย่าง",
+						"parentId": "UgzL4MIWXvLCiVRWXbN4AaABAg",
+						"authorDisplayName": "@wiphadasinmanee4386",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRjezr2JHN_vgzUwoF20_VMbEynCYv4zgFDfw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCide4s9-ieieH21nsF2YhMw",
+						"authorChannelId": {
+							"value": "UCide4s9-ieieH21nsF2YhMw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2022-02-16T07:23:37Z",
+						"updatedAt": "2022-02-16T07:23:52Z"
+					}
+				}
+			]
+		}
+	}
+]

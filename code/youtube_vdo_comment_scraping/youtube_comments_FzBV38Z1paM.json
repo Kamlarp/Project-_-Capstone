@@ -1,0 +1,63 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "MAq3-5-W7hmxm9vsGrXA4ZiDvFo",
+		"id": "UgyXedDtf41Dh-aLW_94AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "FzBV38Z1paM",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "-NAegH-pVMBkHiz7bXjbS8PtzUk",
+				"id": "UgyXedDtf41Dh-aLW_94AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "FzBV38Z1paM",
+					"textDisplay": "เปลี่ยนทัศนคติตัวเองใหม่ค่ะ",
+					"textOriginal": "เปลี่ยนทัศนคติตัวเองใหม่ค่ะ",
+					"authorDisplayName": "@user-ye5rj6ur4c",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/x7vIN3PWJLFTWxKwit5LrbaQwFQ6zCixWz-4DUzwUPJSjbfSpxoeW-msg0vLTLhZJBuwV_41pg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCbxB5Z9Cq-JXKcQ3ISIv-EA",
+					"authorChannelId": {
+						"value": "UCbxB5Z9Cq-JXKcQ3ISIv-EA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-11-17T08:33:23Z",
+					"updatedAt": "2021-11-17T08:33:23Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "jW7xKkBXdkq-LB41nan1xcAQ7mk",
+					"id": "UgyXedDtf41Dh-aLW_94AaABAg.9UqD1wA5_oX9UqLV848M0C",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "FzBV38Z1paM",
+						"textDisplay": "ถูกต้องเลยค่ะ😊",
+						"textOriginal": "ถูกต้องเลยค่ะ😊",
+						"parentId": "UgyXedDtf41Dh-aLW_94AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-11-17T09:47:16Z",
+						"updatedAt": "2021-11-17T09:47:16Z"
+					}
+				}
+			]
+		}
+	}
+]

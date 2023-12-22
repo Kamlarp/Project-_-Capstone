@@ -1,0 +1,63 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "95mMcjNjv98xKNpgYaveEHPCL0c",
+		"id": "Ugz2t5FQKV7W0KAi30F4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "og6fCXTOCIg",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "_pW0U_OfbgWqxxG2fP2bM1WAYjg",
+				"id": "Ugz2t5FQKV7W0KAi30F4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "og6fCXTOCIg",
+					"textDisplay": "เราไม่เคยปฏิเสธ และเราก็เก็บกด",
+					"textOriginal": "เราไม่เคยปฏิเสธ และเราก็เก็บกด",
+					"authorDisplayName": "@user-rk6ho2xe3s",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ohq8kAFrT_RN8hip1M_QL1xr8uQO-9Qt67MCZM-mYPvlBfVzpo994V6I6O-9D8lqHpEp3sTd=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCq7xbqKRNZF5Ip9OEyxhJAg",
+					"authorChannelId": {
+						"value": "UCq7xbqKRNZF5Ip9OEyxhJAg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 0,
+					"publishedAt": "2021-11-10T14:48:14Z",
+					"updatedAt": "2021-11-10T14:48:14Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "ebGlfnPcVcps9eTF0tRKfJ911NQ",
+					"id": "Ugz2t5FQKV7W0KAi30F4AaABAg.9UZrNJXR71_9UaX6kpge27",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "og6fCXTOCIg",
+						"textDisplay": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"textOriginal": "มีเรื่องอะไรไม่สบายใจมาระบายที่แอป Alljit ได้นะคะ❤",
+						"parentId": "Ugz2t5FQKV7W0KAi30F4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 1,
+						"publishedAt": "2021-11-11T06:20:57Z",
+						"updatedAt": "2021-11-11T06:20:57Z"
+					}
+				}
+			]
+		}
+	}
+]

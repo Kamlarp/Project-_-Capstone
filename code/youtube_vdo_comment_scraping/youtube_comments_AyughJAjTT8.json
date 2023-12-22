@@ -1,0 +1,233 @@
+[
+	{
+		"kind": "youtube#commentThread",
+		"etag": "YfCHQAiuXWU3AAoZBB3Mqsjv2dI",
+		"id": "UgxrzZSj0iL3vqiFa7J4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "AyughJAjTT8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "hWaJIlYMMnHIFtAIQG2kyhLIsmc",
+				"id": "UgxrzZSj0iL3vqiFa7J4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "AyughJAjTT8",
+					"textDisplay": "<a href=\"about:invalid#zCSafez\"></a>สามารถเป็นผู้สนับสนุนช่อง Alljit ได้แล้ววันนี้ เพื่อสิทธิพิเศษอื่นๆ จากเรา  <a href=\"https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join\">https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join</a>",
+					"textOriginal": "สามารถเป็นผู้สนับสนุนช่อง Alljit ได้แล้ววันนี้ เพื่อสิทธิพิเศษอื่นๆ จากเรา  https://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg/join",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-08-17T14:14:00Z",
+					"updatedAt": "2022-08-17T14:14:00Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "yPnEvYQZUIK85LzZ6QdhrhgMVM8",
+		"id": "UgxeezbZJkhT8uKSVCF4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "AyughJAjTT8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "GaD8qsytnQ37I5FZwPb9Ofqu0zM",
+				"id": "UgxeezbZJkhT8uKSVCF4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "AyughJAjTT8",
+					"textDisplay": "ความคิดเห็นที่9🥰💜",
+					"textOriginal": "ความคิดเห็นที่9🥰💜",
+					"authorDisplayName": "@user-wo8xz9qe3m",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/a22YVa4VGBKCNQcFv08Uyc0kdhwayLuZh39VWP5JTgt7hIIfjjHmefGsZAuTR1pBF1pyw2_RN5s=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCiwYJSb_OL71DA2NlH1gH2g",
+					"authorChannelId": {
+						"value": "UCiwYJSb_OL71DA2NlH1gH2g"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 1,
+					"publishedAt": "2022-09-19T14:18:02Z",
+					"updatedAt": "2022-09-19T14:18:02Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "wNTnirH7O28sg-yv8Fm_26uxcDM",
+		"id": "Ugz4FHe-eX5n0MZwsjx4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "AyughJAjTT8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "lsItaLQetHxtJ9e8Z45B4leHDCc",
+				"id": "Ugz4FHe-eX5n0MZwsjx4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "AyughJAjTT8",
+					"textDisplay": "การคิดลบ.บางครั้ง.<br>ก็เป็น.กลไกป้องกัน<br>ตัวเอง.ตามธรรมชาติ.",
+					"textOriginal": "การคิดลบ.บางครั้ง.\nก็เป็น.กลไกป้องกัน\nตัวเอง.ตามธรรมชาติ.",
+					"authorDisplayName": "@user-zk7vw3lc4b",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR82ub0EMzn2IVF7xyn9r5bYA06omLwWD7_nKYe0qqXAg=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCxEuyyCISOhzNQbF9v0pRlQ",
+					"authorChannelId": {
+						"value": "UCxEuyyCISOhzNQbF9v0pRlQ"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-07-11T05:54:33Z",
+					"updatedAt": "2022-07-11T05:54:33Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 1,
+			"isPublic": true
+		},
+		"replies": {
+			"comments": [
+				{
+					"kind": "youtube#comment",
+					"etag": "GTalafnLmGBaeFOpj7XBB1O2d20",
+					"id": "Ugz4FHe-eX5n0MZwsjx4AaABAg.9dKbT3HLrbh9dKjcGzExEG",
+					"snippet": {
+						"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+						"videoId": "AyughJAjTT8",
+						"textDisplay": "ถูกต้องเลยค่ะ😀",
+						"textOriginal": "ถูกต้องเลยค่ะ😀",
+						"parentId": "Ugz4FHe-eX5n0MZwsjx4AaABAg",
+						"authorDisplayName": "@alljit2899",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+						"authorChannelId": {
+							"value": "UCKIEPfI9D32EnsP6oasduSg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-07-11T07:05:50Z",
+						"updatedAt": "2022-07-11T07:05:50Z"
+					}
+				}
+			]
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "RJy7oO54dD-4IFDnmjE76zZGM-w",
+		"id": "UgxeBzu6jmHLhPCEHwp4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "AyughJAjTT8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "AvfS4xWbyLu8hgZvzQzafGgDBDw",
+				"id": "UgxeBzu6jmHLhPCEHwp4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "AyughJAjTT8",
+					"textDisplay": "ยังไม่ได้ฟังนะคะ  เบื้องต้นมันคือการเซฟตัวเองค่ะ",
+					"textOriginal": "ยังไม่ได้ฟังนะคะ  เบื้องต้นมันคือการเซฟตัวเองค่ะ",
+					"authorDisplayName": "@user-pt1no7vv7d",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/KletJSbYAeKjlC1VoY3_7ucSlbljgnMfFY6wDI5__NX4MITiyjzxSnDS5Wf_2lQSvxLRHsQWKw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UC4-FdK_aGH1zHqECn9YO9VA",
+					"authorChannelId": {
+						"value": "UC4-FdK_aGH1zHqECn9YO9VA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-07-08T18:18:40Z",
+					"updatedAt": "2022-07-08T18:18:40Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "ue10dcQCqxBmuEH7KjCZ0XYYXJw",
+		"id": "UgxX3lKGciOqoPw7R094AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "AyughJAjTT8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "pjmh7olcRgXJpblnwhDGe5e24zk",
+				"id": "UgxX3lKGciOqoPw7R094AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "AyughJAjTT8",
+					"textDisplay": "🤗",
+					"textOriginal": "🤗",
+					"authorDisplayName": "@pkg1410",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSJG2Dwy-2CKn1Kw5NEXlUw8FX12c3RoZfbe0dVhOCK27cuN4AZbXtkaS1l6PmD=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCNlbZLia4-PMOF5wonwPCiA",
+					"authorChannelId": {
+						"value": "UCNlbZLia4-PMOF5wonwPCiA"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 3,
+					"publishedAt": "2022-07-08T15:59:04Z",
+					"updatedAt": "2022-07-08T15:59:04Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	},
+	{
+		"kind": "youtube#commentThread",
+		"etag": "pqiq2q5EaXwzT6vYnXLZRKI-ASM",
+		"id": "Ugz_nn9_lP3DezkIGCB4AaABAg",
+		"snippet": {
+			"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+			"videoId": "AyughJAjTT8",
+			"topLevelComment": {
+				"kind": "youtube#comment",
+				"etag": "HsKqMTzJvTZcMaNTObAxyyjgZSc",
+				"id": "Ugz_nn9_lP3DezkIGCB4AaABAg",
+				"snippet": {
+					"channelId": "UCKIEPfI9D32EnsP6oasduSg",
+					"videoId": "AyughJAjTT8",
+					"textDisplay": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r<br>พร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r<br>ดาวน์โหลดของ iOS\r<br><a href=\"https://apps.apple.com/th/app/alljit/id1549529345?l=th\">https://apps.apple.com/th/app/alljit/id1549529345?l=th\r</a><br>ดาวน์โหลดของ Android\r<br><a href=\"https://play.google.com/store/apps/details?id=com.alljit\">https://play.google.com/store/apps/details?id=com.alljit</a>",
+					"textOriginal": "Alljit แอปพลิเคชันเพื่อหัวใจ 💓\r\nพร้อมเป็นพื้นที่ปลอดภัยสำหรับคุณ พูดคุยระบาย เรียนรู้วิธีฮีลตัวเอง กับ Alljit ฟรี\r\nดาวน์โหลดของ iOS\r\nhttps://apps.apple.com/th/app/alljit/id1549529345?l=th\r\nดาวน์โหลดของ Android\r\nhttps://play.google.com/store/apps/details?id=com.alljit",
+					"authorDisplayName": "@alljit2899",
+					"authorProfileImageUrl": "https://yt3.ggpht.com/9G1VHwlixOYAKYITU2BIjS5JAlBCGPp9ynPRsZQcdigQLvSokTuhPb28QTiSf2rPzQHMReIV1yw=s48-c-k-c0x00ffffff-no-rj",
+					"authorChannelUrl": "http://www.youtube.com/channel/UCKIEPfI9D32EnsP6oasduSg",
+					"authorChannelId": {
+						"value": "UCKIEPfI9D32EnsP6oasduSg"
+					},
+					"canRate": true,
+					"viewerRating": "none",
+					"likeCount": 2,
+					"publishedAt": "2022-07-08T13:46:29Z",
+					"updatedAt": "2022-07-08T13:46:29Z"
+				}
+			},
+			"canReply": true,
+			"totalReplyCount": 0,
+			"isPublic": true
+		}
+	}
+]
