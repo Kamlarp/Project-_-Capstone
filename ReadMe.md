@@ -230,62 +230,62 @@ The data modeling procedure includes the following tasks.
 ### Deliverables
 
 **Document**
-    - ReadMe.md 
-    - suicide ideation detection.ppt
+- ReadMe.md 
+- suicide ideation detection.ppt
 
 **Code**
-    - pantip_post_id_scraping.jpynb
-    - pantip_post_detail_scraping.jpynb
-    - pantip_post_preprocessing_&_eda.jpynb
-    - pantip_post_model_train_label.jpynb
-    - pantip_post_model_train_sublabel.jpynb"
-    - pantip_post_model_train_simplified_label.jpynb
-    - pantip_post_model_train_simplified_sublabel.jpynb
-    - youtube_vdo_id_&_comment_scraping.jpynb
-    - youtube_vdo_comment_combining_&_labeling.jpynb
-    - youtube_vdo_comment_preprocessing_&_eda.jpynb
-    - youtube_vdo_comment_model_test_label.jpynb
-    - youtube_vdo_comment_model_test_sublabel.jpynb
-    - youtube_vdo_comment_scraping folder
+- pantip_post_id_scraping.jpynb
+- pantip_post_detail_scraping.jpynb
+- pantip_post_preprocessing_&_eda.jpynb
+- pantip_post_model_train_label.jpynb
+- pantip_post_model_train_sublabel.jpynb"
+- pantip_post_model_train_simplified_label.jpynb
+- pantip_post_model_train_simplified_sublabel.jpynb
+- youtube_vdo_id_&_comment_scraping.jpynb
+- youtube_vdo_comment_combining_&_labeling.jpynb
+- youtube_vdo_comment_preprocessing_&_eda.jpynb
+- youtube_vdo_comment_model_test_label.jpynb
+- youtube_vdo_comment_model_test_sublabel.jpynb
+- youtube_vdo_comment_scraping folder
 
 **Model**
-    - pantip_post_model_train_simplified_label_lr.pkl
-    - pantip_post_model_train_simplified_label_vectorizer.pkl
-    - pantip_post_model_train_simplified_label_scaler.pkl
-    - pantip_post_model_train_simplified_sublabel_lr.pkl
-    - pantip_post_model_train_simplified_sublabel_vectorizer.pkl
-    - pantip_post_model_train_simplified_sublabel_scaler.pkl
-    - X_train_sm_label_columns.json
-    - X_train_sm_sublabel_columns.json
+- pantip_post_model_train_simplified_label_lr.pkl
+- pantip_post_model_train_simplified_label_vectorizer.pkl
+- pantip_post_model_train_simplified_label_scaler.pkl
+- pantip_post_model_train_simplified_sublabel_lr.pkl
+- pantip_post_model_train_simplified_sublabel_vectorizer.pkl
+- pantip_post_model_train_simplified_sublabel_scaler.pkl
+- X_train_sm_label_columns.json
+- X_train_sm_sublabel_columns.json
 
 **Result**
-    - pantip_model_simplifeid_label_lr_classification_report.csv
-    - pantip_model_simplifeid_label_lr_confusion_matrix.csv
-    - pantip_model_simplifeid_label_dt_classification_report.csv
-    - pantip_model_simplifeid_label_dt_confusion_matrix.csv
-    - pantip_model_simplifeid_sublabel_lr_classification_report.csv
-    - pantip_model_simplifeid_sublabel_lr_confusion_matrix.csv
-    - pantip_model_simplifeid_sublabel_dt_classification_report.csv
-    - pantip_model_simplifeid_sublabel_dt_confusion_matrix.csv
+- pantip_model_simplifeid_label_lr_classification_report.csv
+- pantip_model_simplifeid_label_lr_confusion_matrix.csv
+- pantip_model_simplifeid_label_dt_classification_report.csv
+- pantip_model_simplifeid_label_dt_confusion_matrix.csv
+- pantip_model_simplifeid_sublabel_lr_classification_report.csv
+- pantip_model_simplifeid_sublabel_lr_confusion_matrix.csv
+- pantip_model_simplifeid_sublabel_dt_classification_report.csv
+- pantip_model_simplifeid_sublabel_dt_confusion_matrix.csv
  
 **output - final**
 this folder include labeled and processed data used for feature engineering 
-    - **df_pantip_posts_suicide_labeled.csv** : file contain the detail of each post and label (1 = suicide idea, 0 = no suicide idea) 
-    - **df_pantip_posts_suicide_labeled_processed.csv** : file contain the detail of each post, and label, and processed data including len of title and text, emoji of title and text, time of day, day of week, day of month, month, year
-    - **df_youtube_comment_suicide_labeled.csv** : file containing comments of each vdo of youtube alljit channel with label
-    - **df_youtube_comment_suicide_labeled_processed.csv** : file containing comments of each vdo of youtube alljit channel with label and processed data including len of text, emoji check of text, time of day, day of week, day of month, month, year
+- **df_pantip_posts_suicide_labeled.csv** : file contain the detail of each post and label (1 = suicide idea, 0 = no suicide idea) 
+- **df_pantip_posts_suicide_labeled_processed.csv** : file contain the detail of each post, and label, and processed data including len of title and text, emoji of title and text, time of day, day of week, day of month, month, year; this file is zip. so you need to unzip and put the unzipped file in this folder
+- **df_youtube_comment_suicide_labeled.csv** : file containing comments of each vdo of youtube alljit channel with label
+- **df_youtube_comment_suicide_labeled_processed.csv** : file containing comments of each vdo of youtube alljit channel with label and processed data including len of text, emoji check of text, time of day, day of week, day of month, month, year
 
 **output - wip**
 This folder include work in process document which we use to analyse and label data for output - final folder. i do the work in this folde with excel only. no python code related to all these file.
-    - alljit_youtube_vdo_document_labeling.csv
-    - Pantip_Post_Suicie_Labeling.csv
-    - df_pantip_depression_post_url.csv
-    - df_pantip_depression_post.csv
-    - df_pantip_suical_post_text_only.csv
-    - df_pantip_suical_post_text.csv
-    - df_pantip_suical_post_title.csv
-    - df_youtube_vdo.csv
-    - df_youtube_vdo_comment.csv
+- alljit_youtube_vdo_document_labeling.csv
+- Pantip_Post_Suicie_Labeling.csv
+- df_pantip_depression_post_url.csv
+- df_pantip_depression_post.csv
+- df_pantip_suical_post_text_only.csv
+- df_pantip_suical_post_text.csv
+- df_pantip_suical_post_title.csv
+- df_youtube_vdo.csv
+- df_youtube_vdo_comment.csv
 
 ### Key Success Metrics
 
